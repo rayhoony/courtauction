@@ -1,0 +1,42 @@
+name: Run Auction Crawler
+
+on:
+  schedule:
+    - cron: '0 9 * * 5'  # 매주 금요일 18:00 KST (= UTC 09:00)
+  workflow_dispatch:  # 수동 실행도 가능
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install playwright
+
+      - name: Install Playwright browsers
+        run: playwright install --with-deps chromium
+
+      - name: Run crawler
+        run: python crawler.py
+        env:
+          CRAWLER_ID: ${{ secrets.CRAWLER_ID }}
+          CRAWLER_PASSWORD: ${{ secrets.CRAWLER_PASSWORD }}
+
+      - name: Commit and push auction.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add auction.json
+          git diff --staged --quiet || git commit -m "Update auction data"
+          git push
