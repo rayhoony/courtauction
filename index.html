@@ -38,7 +38,7 @@
     /* ── Header ── */
     header {
       background: linear-gradient(135deg, #1e1b4b 0%, #312e81 50%, #1e1b4b 100%);
-      padding: 40px 24px 32px;
+      padding: 36px 20px 28px;
       text-align: center;
       border-bottom: 1px solid var(--border);
       position: relative;
@@ -52,7 +52,7 @@
       pointer-events: none;
     }
     header h1 {
-      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-size: clamp(1.3rem, 5vw, 2.2rem);
       font-weight: 700;
       letter-spacing: -0.5px;
       background: linear-gradient(135deg, #fff 30%, var(--accent2));
@@ -64,18 +64,17 @@
     header p {
       margin-top: 8px;
       color: var(--text-muted);
-      font-size: 0.9rem;
+      font-size: 0.85rem;
       position: relative;
     }
     #update-time { color: var(--accent2); font-weight: 500; }
 
     /* ── Stats bar ── */
     .stats {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 12px;
-      justify-content: center;
-      padding: 20px 24px;
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 10px;
+      padding: 16px 16px;
       background: var(--surface);
       border-bottom: 1px solid var(--border);
     }
@@ -83,22 +82,21 @@
       background: var(--surface2);
       border: 1px solid var(--border);
       border-radius: var(--radius);
-      padding: 12px 20px;
+      padding: 12px 10px;
       text-align: center;
-      min-width: 130px;
       transition: transform .2s, border-color .2s;
     }
     .stat-card:hover { transform: translateY(-2px); border-color: var(--accent); }
-    .stat-card .label { font-size: 0.72rem; color: var(--text-muted); margin-bottom: 4px; text-transform: uppercase; letter-spacing: .5px; }
-    .stat-card .value { font-size: 1.15rem; font-weight: 700; color: var(--accent2); }
+    .stat-card .label { font-size: 0.65rem; color: var(--text-muted); margin-bottom: 4px; text-transform: uppercase; letter-spacing: .5px; }
+    .stat-card .value { font-size: 1rem; font-weight: 700; color: var(--accent2); }
 
     /* ── Toolbar ── */
     .toolbar {
       display: flex;
       flex-wrap: wrap;
-      gap: 12px;
+      gap: 10px;
       align-items: center;
-      padding: 16px 24px;
+      padding: 12px 16px;
       background: var(--surface);
       border-bottom: 1px solid var(--border);
       position: sticky;
@@ -106,10 +104,13 @@
       z-index: 10;
       backdrop-filter: blur(8px);
     }
+    .toolbar-row {
+      display: contents; /* children treated as direct flex items */
+    }
     .search-wrap {
       position: relative;
-      flex: 1;
-      min-width: 200px;
+      flex: 1 1 100%;   /* search always takes full row */
+      min-width: 0;
     }
     .search-wrap svg {
       position: absolute;
@@ -126,45 +127,64 @@
       border-radius: 8px;
       color: var(--text);
       font-family: inherit;
-      font-size: 0.9rem;
-      padding: 9px 12px 9px 38px;
+      font-size: 1rem;      /* prevent iOS zoom (≥16px effective) */
+      padding: 11px 12px 11px 38px;
       outline: none;
       transition: border-color .2s;
+      -webkit-appearance: none;
     }
     #search-input:focus { border-color: var(--accent); }
     #search-input::placeholder { color: var(--text-muted); }
 
+    .selects-row {
+      display: flex;
+      gap: 8px;
+      flex: 1 1 auto;
+      min-width: 0;
+    }
     select {
+      flex: 1;
+      min-width: 0;
       background: var(--surface2);
       border: 1px solid var(--border);
       border-radius: 8px;
       color: var(--text);
       font-family: inherit;
       font-size: 0.85rem;
-      padding: 9px 12px;
+      padding: 9px 8px;
       outline: none;
       cursor: pointer;
       transition: border-color .2s;
+      -webkit-appearance: none;
+      appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%2394a3b8' stroke-width='2'%3E%3Cpolyline points='6 9 12 15 18 9'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 8px center;
+      padding-right: 28px;
     }
     select:focus { border-color: var(--accent); }
 
     #result-count {
-      font-size: 0.82rem;
+      font-size: 0.8rem;
       color: var(--text-muted);
       white-space: nowrap;
+      align-self: center;
     }
     #result-count span { color: var(--accent2); font-weight: 600; }
 
-    /* ── Table wrapper ── */
+    /* ══════════════════════════════════════
+       Desktop: Table layout (≥ 640px)
+    ══════════════════════════════════════ */
     .table-wrap {
       overflow-x: auto;
-      padding: 0 24px 40px;
+      -webkit-overflow-scrolling: touch;
+      padding: 0 16px 40px;
     }
 
     table {
       width: 100%;
       border-collapse: collapse;
-      margin-top: 20px;
+      margin-top: 16px;
       font-size: 0.88rem;
     }
 
@@ -173,11 +193,11 @@
       border-bottom: 2px solid var(--accent);
     }
     thead th {
-      padding: 14px 14px;
+      padding: 13px 12px;
       text-align: left;
       font-weight: 600;
       color: var(--text-muted);
-      font-size: 0.78rem;
+      font-size: 0.75rem;
       letter-spacing: .5px;
       text-transform: uppercase;
       white-space: nowrap;
@@ -186,7 +206,7 @@
       transition: color .2s;
     }
     thead th:hover { color: var(--accent2); }
-    thead th .sort-icon { margin-left: 4px; opacity: .4; transition: opacity .2s; }
+    thead th .sort-icon { margin-left: 4px; opacity: .4; }
     thead th.sorted .sort-icon { opacity: 1; color: var(--accent); }
 
     tbody tr {
@@ -197,7 +217,7 @@
     tbody tr:last-child { border-bottom: none; }
 
     tbody td {
-      padding: 13px 14px;
+      padding: 12px 12px;
       vertical-align: middle;
     }
 
@@ -208,10 +228,9 @@
       font-weight: 600;
       white-space: nowrap;
     }
-    .address { color: var(--text); max-width: 220px; }
+    .address { color: var(--text); }
     .area { color: var(--text-muted); white-space: nowrap; }
     .date { color: var(--text-muted); white-space: nowrap; font-size: 0.83rem; }
-
     .price {
       font-weight: 600;
       white-space: nowrap;
@@ -220,12 +239,95 @@
     .price.high { color: var(--red); }
     .price.mid  { color: var(--yellow); }
     .price.low  { color: var(--green); }
-
     .pyeong-price {
       color: var(--text-muted);
       font-size: 0.83rem;
       white-space: nowrap;
       text-align: right;
+    }
+
+    /* ══════════════════════════════════════
+       Mobile: Card layout (< 640px)
+    ══════════════════════════════════════ */
+    .card-list {
+      display: none;
+      flex-direction: column;
+      gap: 10px;
+      padding: 12px 12px 40px;
+    }
+
+    .auction-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 14px 14px;
+      transition: border-color .2s, transform .15s;
+      position: relative;
+      overflow: hidden;
+    }
+    .auction-card::before {
+      content: '';
+      position: absolute;
+      left: 0; top: 0; bottom: 0;
+      width: 3px;
+      border-radius: 3px 0 0 3px;
+    }
+    .auction-card.high::before { background: var(--red); }
+    .auction-card.mid::before  { background: var(--yellow); }
+    .auction-card.low::before  { background: var(--green); }
+
+    .auction-card:active { transform: scale(0.99); }
+
+    .card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 8px;
+      margin-bottom: 8px;
+    }
+    .card-case {
+      font-family: monospace;
+      font-size: 0.8rem;
+      color: var(--accent2);
+      font-weight: 700;
+      line-height: 1.4;
+    }
+    .card-price {
+      font-size: 1rem;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+    .card-price.high { color: var(--red); }
+    .card-price.mid  { color: var(--yellow); }
+    .card-price.low  { color: var(--green); }
+
+    .card-address {
+      font-size: 0.85rem;
+      color: var(--text);
+      margin-bottom: 8px;
+      line-height: 1.4;
+    }
+
+    .card-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px 14px;
+    }
+    .card-meta-item {
+      display: flex;
+      gap: 4px;
+      align-items: center;
+      font-size: 0.75rem;
+    }
+    .card-meta-item .meta-label {
+      color: var(--text-muted);
+    }
+    .card-meta-item .meta-value {
+      color: var(--text);
+      font-weight: 500;
+    }
+    .card-meta-item .meta-value.pyeong {
+      color: var(--text-muted);
     }
 
     /* ── Pagination ── */
@@ -234,7 +336,7 @@
       justify-content: center;
       align-items: center;
       gap: 6px;
-      padding: 16px 24px 32px;
+      padding: 12px 16px 32px;
       flex-wrap: wrap;
     }
     .page-btn {
@@ -245,7 +347,12 @@
       cursor: pointer;
       font-family: inherit;
       font-size: 0.85rem;
-      padding: 7px 14px;
+      padding: 8px 14px;
+      min-width: 44px;
+      min-height: 44px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
       transition: background .2s, border-color .2s, color .2s;
     }
     .page-btn:hover:not(:disabled) { background: var(--surface); border-color: var(--accent); color: var(--accent2); }
@@ -260,11 +367,39 @@
     }
     .empty svg { display: block; margin: 0 auto 16px; opacity: .4; }
 
-    /* ── Responsive ── */
-    @media (max-width: 600px) {
-      .toolbar { gap: 8px; }
-      .table-wrap { padding: 0 12px 32px; }
-      tbody td, thead th { padding: 10px 10px; }
+    /* ══════════════════════════════════════
+       Breakpoints
+    ══════════════════════════════════════ */
+
+    /* Tablet: 2-col stats */
+    @media (max-width: 768px) {
+      .stats {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    /* Mobile: cards instead of table */
+    @media (max-width: 639px) {
+      /* stats */
+      .stats {
+        grid-template-columns: repeat(2, 1fr);
+        padding: 12px 12px;
+        gap: 8px;
+      }
+      .stat-card .value { font-size: 0.88rem; }
+      .stat-card .label { font-size: 0.6rem; }
+
+      /* toolbar */
+      .toolbar { padding: 10px 12px; }
+      .selects-row { flex: 1 1 100%; } /* selects on their own row */
+
+      /* switch table ↔ cards */
+      .table-wrap { display: none !important; }
+      .card-list { display: flex; }
+
+      /* pagination */
+      .pagination { padding: 8px 12px 28px; gap: 4px; }
+      .page-btn { font-size: 0.8rem; padding: 7px 10px; }
     }
   </style>
 </head>
@@ -289,26 +424,29 @@
     </svg>
     <input id="search-input" type="search" placeholder="사건번호 또는 주소 검색…" />
   </div>
-  <select id="sort-select" title="정렬 기준">
-    <option value="default">기본 순서</option>
-    <option value="price-asc">최저가 ↑</option>
-    <option value="price-desc">최저가 ↓</option>
-    <option value="pyeong-asc">평당가격 ↑</option>
-    <option value="pyeong-desc">평당가격 ↓</option>
-    <option value="area-asc">면적 ↑</option>
-    <option value="area-desc">면적 ↓</option>
-    <option value="date-asc">사용승인일 ↑</option>
-    <option value="date-desc">사용승인일 ↓</option>
-  </select>
-  <select id="per-page-select" title="페이지당 표시 수">
-    <option value="20">20개씩</option>
-    <option value="50">50개씩</option>
-    <option value="100">100개씩</option>
-    <option value="999999">전체</option>
-  </select>
-  <span id="result-count"><span id="count-num">0</span>건 표시 중</span>
+  <div class="selects-row">
+    <select id="sort-select" title="정렬 기준">
+      <option value="default">기본 순서</option>
+      <option value="price-asc">최저가 ↑</option>
+      <option value="price-desc">최저가 ↓</option>
+      <option value="pyeong-asc">평당가격 ↑</option>
+      <option value="pyeong-desc">평당가격 ↓</option>
+      <option value="area-asc">면적 ↑</option>
+      <option value="area-desc">면적 ↓</option>
+      <option value="date-asc">사용승인일 ↑</option>
+      <option value="date-desc">사용승인일 ↓</option>
+    </select>
+    <select id="per-page-select" title="페이지당 표시 수">
+      <option value="20">20개씩</option>
+      <option value="50">50개씩</option>
+      <option value="100">100개씩</option>
+      <option value="999999">전체</option>
+    </select>
+    <span id="result-count"><span id="count-num">0</span>건</span>
+  </div>
 </div>
 
+<!-- Desktop: Table -->
 <div class="table-wrap">
   <table id="auction-table">
     <thead>
@@ -323,7 +461,17 @@
     </thead>
     <tbody id="table-body"></tbody>
   </table>
-  <div class="empty" id="empty-state" style="display:none">
+  <div class="empty" id="empty-state-table" style="display:none">
+    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+      <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+    </svg>
+    <p>검색 결과가 없습니다.</p>
+  </div>
+</div>
+
+<!-- Mobile: Cards -->
+<div class="card-list" id="card-list">
+  <div class="empty" id="empty-state-card" style="display:none">
     <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
       <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
     </svg>
@@ -345,14 +493,12 @@
   /* ── helpers ── */
   const parseNum = str => parseInt((str || '0').replace(/,/g, ''), 10) || 0;
   const parseArea = str => parseFloat((str || '0').replace(/㎡.*/, '')) || 0;
-
-  function fmt(num) {
-    return num.toLocaleString('ko-KR');
-  }
+  const fmt = num => num.toLocaleString('ko-KR');
+  const esc = str => (str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 
   function priceClass(val) {
     if (val >= 100_000_000) return 'high';
-    if (val >= 50_000_000) return 'mid';
+    if (val >= 50_000_000)  return 'mid';
     return 'low';
   }
 
@@ -365,13 +511,13 @@
   }
 
   function initStats() {
-    const prices = allData.map(d => parseNum(d['최저가']));
+    const prices  = allData.map(d => parseNum(d['최저가']));
     const pyeongs = allData.map(d => parseNum(d['평당가격'])).filter(Boolean);
-    document.getElementById('s-total').textContent = fmt(allData.length) + '건';
-    document.getElementById('s-min').textContent = fmt(Math.min(...prices)) + '원';
-    document.getElementById('s-max').textContent = fmt(Math.max(...prices)) + '원';
-    const avgPy = Math.round(pyeongs.reduce((a, b) => a + b, 0) / pyeongs.length);
-    document.getElementById('s-avg-py').textContent = fmt(avgPy) + '원';
+    document.getElementById('s-total').textContent   = fmt(allData.length) + '건';
+    document.getElementById('s-min').textContent     = fmt(Math.min(...prices)) + '원';
+    document.getElementById('s-max').textContent     = fmt(Math.max(...prices)) + '원';
+    const avgPy = Math.round(pyeongs.reduce((a,b) => a+b, 0) / pyeongs.length);
+    document.getElementById('s-avg-py').textContent  = fmt(avgPy) + '원';
   }
 
   /* ── filter & sort ── */
@@ -382,20 +528,18 @@
       d['주소'].toLowerCase().includes(q)
     );
 
-    const [col, dir] = sortKey === 'default' ? [null, null] : sortKey.split('-').length === 2
-      ? [sortKey.replace(/-asc|-desc/, ''), sortKey.endsWith('asc') ? 'asc' : 'desc']
-      : [null, null];
-
-    if (col) {
+    if (sortKey !== 'default') {
+      const colMap = { price:'최저가', pyeong:'평당가격', area:'면적', date:'사용승인일' };
+      const isAsc  = sortKey.endsWith('asc');
+      const rawCol = sortKey.replace(/-asc|-desc/, '');
+      const field  = colMap[rawCol] || rawCol;
       filtered.sort((a, b) => {
         let va, vb;
-        if (col === 'price') { va = parseNum(a['최저가']); vb = parseNum(b['최저가']); }
-        else if (col === 'pyeong') { va = parseNum(a['평당가격']); vb = parseNum(b['평당가격']); }
-        else if (col === 'area') { va = parseArea(a['면적']); vb = parseArea(b['면적']); }
-        else if (col === 'date') { va = a['사용승인일'] || ''; vb = b['사용승인일'] || ''; }
-        else { va = a[col] || ''; vb = b[col] || ''; }
-        if (va < vb) return dir === 'asc' ? -1 : 1;
-        if (va > vb) return dir === 'asc' ? 1 : -1;
+        if (rawCol === 'area') { va = parseArea(a['면적']); vb = parseArea(b['면적']); }
+        else if (['price','pyeong'].includes(rawCol)) { va = parseNum(a[field]); vb = parseNum(b[field]); }
+        else { va = a[field] || ''; vb = b[field] || ''; }
+        if (va < vb) return isAsc ? -1 : 1;
+        if (va > vb) return isAsc ?  1 : -1;
         return 0;
       });
     }
@@ -405,13 +549,26 @@
     render();
   }
 
+  /* ── detect mobile ── */
+  const isMobile = () => window.innerWidth < 640;
+
   /* ── render ── */
   function render() {
-    const tbody = document.getElementById('table-body');
-    const empty = document.getElementById('empty-state');
     const start = (currentPage - 1) * perPage;
     const slice = filtered.slice(start, start + perPage);
 
+    if (isMobile()) {
+      renderCards(slice);
+    } else {
+      renderTable(slice);
+    }
+    renderPagination();
+  }
+
+  /* Desktop table */
+  function renderTable(slice) {
+    const tbody = document.getElementById('table-body');
+    const empty = document.getElementById('empty-state-table');
     if (slice.length === 0) {
       tbody.innerHTML = '';
       empty.style.display = '';
@@ -419,7 +576,7 @@
       empty.style.display = 'none';
       tbody.innerHTML = slice.map(d => {
         const price = parseNum(d['최저가']);
-        const py = parseNum(d['평당가격']);
+        const py    = parseNum(d['평당가격']);
         return `
         <tr>
           <td class="case-num">${esc(d['사건번호'])}</td>
@@ -431,12 +588,51 @@
         </tr>`;
       }).join('');
     }
-
-    renderPagination();
   }
 
-  function esc(str) {
-    return (str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  /* Mobile cards */
+  function renderCards(slice) {
+    const list  = document.getElementById('card-list');
+    const empty = document.getElementById('empty-state-card');
+
+    /* remove old cards (keep empty state el) */
+    [...list.querySelectorAll('.auction-card')].forEach(el => el.remove());
+
+    if (slice.length === 0) {
+      empty.style.display = '';
+    } else {
+      empty.style.display = 'none';
+      const frag = document.createDocumentFragment();
+      slice.forEach(d => {
+        const price = parseNum(d['최저가']);
+        const py    = parseNum(d['평당가격']);
+        const pc    = priceClass(price);
+        const card  = document.createElement('div');
+        card.className = `auction-card ${pc}`;
+        card.innerHTML = `
+          <div class="card-header">
+            <span class="card-case">${esc(d['사건번호'])}</span>
+            <span class="card-price ${pc}">${fmt(price)}원</span>
+          </div>
+          <div class="card-address">${esc(d['주소'])}</div>
+          <div class="card-meta">
+            <div class="card-meta-item">
+              <span class="meta-label">면적</span>
+              <span class="meta-value">${esc(d['면적'])}</span>
+            </div>
+            <div class="card-meta-item">
+              <span class="meta-label">사용승인</span>
+              <span class="meta-value">${esc(d['사용승인일'])}</span>
+            </div>
+            <div class="card-meta-item">
+              <span class="meta-label">평당가</span>
+              <span class="meta-value pyeong">${py ? fmt(py)+'원' : '-'}</span>
+            </div>
+          </div>`;
+        frag.appendChild(card);
+      });
+      list.appendChild(frag);
+    }
   }
 
   /* ── pagination ── */
@@ -445,20 +641,20 @@
     const totalPages = Math.ceil(filtered.length / perPage);
     if (totalPages <= 1) { pg.innerHTML = ''; return; }
 
-    let html = `<button class="page-btn" id="pg-prev" ${currentPage===1?'disabled':''} onclick="goPage(${currentPage-1})">‹ 이전</button>`;
+    let html = `<button class="page-btn" ${currentPage===1?'disabled':''} onclick="goPage(${currentPage-1})">‹</button>`;
 
-    let start = Math.max(1, currentPage - 2);
-    let end   = Math.min(totalPages, currentPage + 2);
-    if (currentPage <= 3) end = Math.min(5, totalPages);
-    if (currentPage > totalPages - 3) start = Math.max(1, totalPages - 4);
+    let s = Math.max(1, currentPage - 2);
+    let e = Math.min(totalPages, currentPage + 2);
+    if (currentPage <= 3) e = Math.min(5, totalPages);
+    if (currentPage > totalPages - 3) s = Math.max(1, totalPages - 4);
 
-    if (start > 1) html += `<button class="page-btn" onclick="goPage(1)">1</button>${start > 2 ? '<span style="color:var(--text-muted);padding:0 4px">…</span>' : ''}`;
-    for (let i = start; i <= end; i++) {
+    if (s > 1) html += `<button class="page-btn" onclick="goPage(1)">1</button>${s>2?'<span style="color:var(--text-muted);padding:0 2px">…</span>':''}`;
+    for (let i = s; i <= e; i++) {
       html += `<button class="page-btn ${i===currentPage?'active':''}" onclick="goPage(${i})">${i}</button>`;
     }
-    if (end < totalPages) html += `${end < totalPages-1 ? '<span style="color:var(--text-muted);padding:0 4px">…</span>' : ''}<button class="page-btn" onclick="goPage(${totalPages})">${totalPages}</button>`;
+    if (e < totalPages) html += `${e<totalPages-1?'<span style="color:var(--text-muted);padding:0 2px">…</span>':''}<button class="page-btn" onclick="goPage(${totalPages})">${totalPages}</button>`;
+    html += `<button class="page-btn" ${currentPage===totalPages?'disabled':''} onclick="goPage(${currentPage+1})">›</button>`;
 
-    html += `<button class="page-btn" id="pg-next" ${currentPage===totalPages?'disabled':''} onclick="goPage(${currentPage+1})">다음 ›</button>`;
     pg.innerHTML = html;
   }
 
@@ -473,15 +669,17 @@
   document.getElementById('sort-select').addEventListener('change', e => { sortKey = e.target.value; applyFilter(); });
   document.getElementById('per-page-select').addEventListener('change', e => { perPage = +e.target.value; applyFilter(); });
 
-  /* ── update time (read from JSON last entry or use current) ── */
-  async function setUpdateTime() {
-    try {
-      const res = await fetch('auction.json');
-      const data = await res.json();
-      const d = new Date();
-      document.getElementById('update-time').textContent =
-        d.toLocaleDateString('ko-KR', { year:'numeric', month:'long', day:'numeric' }) + ' 기준';
-    } catch { document.getElementById('update-time').textContent = '최근 크롤링 기준'; }
+  /* re-render on resize (table ↔ card switch) */
+  let resizeTimer;
+  window.addEventListener('resize', () => {
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(render, 150);
+  });
+
+  /* ── update time ── */
+  function setUpdateTime() {
+    document.getElementById('update-time').textContent =
+      new Date().toLocaleDateString('ko-KR', { year:'numeric', month:'long', day:'numeric' }) + ' 기준';
   }
 
   /* ── init ── */
