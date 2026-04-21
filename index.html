@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>법원 경매 데이터 목록</title>
+  <meta name="description" content="법원 경매 물건 데이터를 사건번호, 주소, 면적, 사용승인일, 최저가, 평당가격 기준으로 정렬하여 볼 수 있는 페이지입니다." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d27;
+      --surface2: #22263a;
+      --border: #2e3250;
+      --accent: #6c63ff;
+      --accent2: #a78bfa;
+      --text: #e2e8f0;
+      --text-muted: #94a3b8;
+      --green: #34d399;
+      --red: #f87171;
+      --yellow: #fbbf24;
+      --radius: 12px;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'Noto Sans KR', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    /* ── Header ── */
+    header {
+      background: linear-gradient(135deg, #1e1b4b 0%, #312e81 50%, #1e1b4b 100%);
+      padding: 40px 24px 32px;
+      text-align: center;
+      border-bottom: 1px solid var(--border);
+      position: relative;
+      overflow: hidden;
+    }
+    header::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(ellipse 80% 60% at 50% 0%, rgba(108,99,255,.35) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    header h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      background: linear-gradient(135deg, #fff 30%, var(--accent2));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      position: relative;
+    }
+    header p {
+      margin-top: 8px;
+      color: var(--text-muted);
+      font-size: 0.9rem;
+      position: relative;
+    }
+    #update-time { color: var(--accent2); font-weight: 500; }
+
+    /* ── Stats bar ── */
+    .stats {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      justify-content: center;
+      padding: 20px 24px;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+    }
+    .stat-card {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 12px 20px;
+      text-align: center;
+      min-width: 130px;
+      transition: transform .2s, border-color .2s;
+    }
+    .stat-card:hover { transform: translateY(-2px); border-color: var(--accent); }
+    .stat-card .label { font-size: 0.72rem; color: var(--text-muted); margin-bottom: 4px; text-transform: uppercase; letter-spacing: .5px; }
+    .stat-card .value { font-size: 1.15rem; font-weight: 700; color: var(--accent2); }
+
+    /* ── Toolbar ── */
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+      padding: 16px 24px;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      backdrop-filter: blur(8px);
+    }
+    .search-wrap {
+      position: relative;
+      flex: 1;
+      min-width: 200px;
+    }
+    .search-wrap svg {
+      position: absolute;
+      left: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted);
+      pointer-events: none;
+    }
+    #search-input {
+      width: 100%;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      font-family: inherit;
+      font-size: 0.9rem;
+      padding: 9px 12px 9px 38px;
+      outline: none;
+      transition: border-color .2s;
+    }
+    #search-input:focus { border-color: var(--accent); }
+    #search-input::placeholder { color: var(--text-muted); }
+
+    select {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      font-family: inherit;
+      font-size: 0.85rem;
+      padding: 9px 12px;
+      outline: none;
+      cursor: pointer;
+      transition: border-color .2s;
+    }
+    select:focus { border-color: var(--accent); }
+
+    #result-count {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      white-space: nowrap;
+    }
+    #result-count span { color: var(--accent2); font-weight: 600; }
+
+    /* ── Table wrapper ── */
+    .table-wrap {
+      overflow-x: auto;
+      padding: 0 24px 40px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+      font-size: 0.88rem;
+    }
+
+    thead tr {
+      background: var(--surface2);
+      border-bottom: 2px solid var(--accent);
+    }
+    thead th {
+      padding: 14px 14px;
+      text-align: left;
+      font-weight: 600;
+      color: var(--text-muted);
+      font-size: 0.78rem;
+      letter-spacing: .5px;
+      text-transform: uppercase;
+      white-space: nowrap;
+      cursor: pointer;
+      user-select: none;
+      transition: color .2s;
+    }
+    thead th:hover { color: var(--accent2); }
+    thead th .sort-icon { margin-left: 4px; opacity: .4; transition: opacity .2s; }
+    thead th.sorted .sort-icon { opacity: 1; color: var(--accent); }
+
+    tbody tr {
+      border-bottom: 1px solid var(--border);
+      transition: background .15s;
+    }
+    tbody tr:hover { background: var(--surface2); }
+    tbody tr:last-child { border-bottom: none; }
+
+    tbody td {
+      padding: 13px 14px;
+      vertical-align: middle;
+    }
+
+    .case-num {
+      font-family: monospace;
+      font-size: 0.82rem;
+      color: var(--accent2);
+      font-weight: 600;
+      white-space: nowrap;
+    }
+    .address { color: var(--text); max-width: 220px; }
+    .area { color: var(--text-muted); white-space: nowrap; }
+    .date { color: var(--text-muted); white-space: nowrap; font-size: 0.83rem; }
+
+    .price {
+      font-weight: 600;
+      white-space: nowrap;
+      text-align: right;
+    }
+    .price.high { color: var(--red); }
+    .price.mid  { color: var(--yellow); }
+    .price.low  { color: var(--green); }
+
+    .pyeong-price {
+      color: var(--text-muted);
+      font-size: 0.83rem;
+      white-space: nowrap;
+      text-align: right;
+    }
+
+    /* ── Pagination ── */
+    .pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 6px;
+      padding: 16px 24px 32px;
+      flex-wrap: wrap;
+    }
+    .page-btn {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      cursor: pointer;
+      font-family: inherit;
+      font-size: 0.85rem;
+      padding: 7px 14px;
+      transition: background .2s, border-color .2s, color .2s;
+    }
+    .page-btn:hover:not(:disabled) { background: var(--surface); border-color: var(--accent); color: var(--accent2); }
+    .page-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+    .page-btn:disabled { opacity: .35; cursor: not-allowed; }
+
+    /* ── Empty state ── */
+    .empty {
+      text-align: center;
+      padding: 60px 24px;
+      color: var(--text-muted);
+    }
+    .empty svg { display: block; margin: 0 auto 16px; opacity: .4; }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .toolbar { gap: 8px; }
+      .table-wrap { padding: 0 12px 32px; }
+      tbody td, thead th { padding: 10px 10px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🏛️ 법원 경매 물건 목록</h1>
+  <p>데이터 기준: <span id="update-time">불러오는 중…</span></p>
+</header>
+
+<div class="stats" id="stats-bar">
+  <div class="stat-card"><div class="label">전체 건수</div><div class="value" id="s-total">-</div></div>
+  <div class="stat-card"><div class="label">최저가 (최소)</div><div class="value" id="s-min">-</div></div>
+  <div class="stat-card"><div class="label">최저가 (최대)</div><div class="value" id="s-max">-</div></div>
+  <div class="stat-card"><div class="label">평균 평당가</div><div class="value" id="s-avg-py">-</div></div>
+</div>
+
+<div class="toolbar">
+  <div class="search-wrap">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+    </svg>
+    <input id="search-input" type="search" placeholder="사건번호 또는 주소 검색…" />
+  </div>
+  <select id="sort-select" title="정렬 기준">
+    <option value="default">기본 순서</option>
+    <option value="price-asc">최저가 ↑</option>
+    <option value="price-desc">최저가 ↓</option>
+    <option value="pyeong-asc">평당가격 ↑</option>
+    <option value="pyeong-desc">평당가격 ↓</option>
+    <option value="area-asc">면적 ↑</option>
+    <option value="area-desc">면적 ↓</option>
+    <option value="date-asc">사용승인일 ↑</option>
+    <option value="date-desc">사용승인일 ↓</option>
+  </select>
+  <select id="per-page-select" title="페이지당 표시 수">
+    <option value="20">20개씩</option>
+    <option value="50">50개씩</option>
+    <option value="100">100개씩</option>
+    <option value="999999">전체</option>
+  </select>
+  <span id="result-count"><span id="count-num">0</span>건 표시 중</span>
+</div>
+
+<div class="table-wrap">
+  <table id="auction-table">
+    <thead>
+      <tr>
+        <th data-col="사건번호">사건번호 <span class="sort-icon">⇅</span></th>
+        <th data-col="주소">주소 <span class="sort-icon">⇅</span></th>
+        <th data-col="면적">면적 <span class="sort-icon">⇅</span></th>
+        <th data-col="사용승인일">사용승인일 <span class="sort-icon">⇅</span></th>
+        <th data-col="최저가" style="text-align:right">최저가 (원) <span class="sort-icon">⇅</span></th>
+        <th data-col="평당가격" style="text-align:right">평당가격 (원) <span class="sort-icon">⇅</span></th>
+      </tr>
+    </thead>
+    <tbody id="table-body"></tbody>
+  </table>
+  <div class="empty" id="empty-state" style="display:none">
+    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+      <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+    </svg>
+    <p>검색 결과가 없습니다.</p>
+  </div>
+</div>
+
+<div class="pagination" id="pagination"></div>
+
+<script>
+  const DATA_URL = 'auction.json';
+
+  let allData = [];
+  let filtered = [];
+  let currentPage = 1;
+  let perPage = 20;
+  let sortKey = 'default';
+
+  /* ── helpers ── */
+  const parseNum = str => parseInt((str || '0').replace(/,/g, ''), 10) || 0;
+  const parseArea = str => parseFloat((str || '0').replace(/㎡.*/, '')) || 0;
+
+  function fmt(num) {
+    return num.toLocaleString('ko-KR');
+  }
+
+  function priceClass(val) {
+    if (val >= 100_000_000) return 'high';
+    if (val >= 50_000_000) return 'mid';
+    return 'low';
+  }
+
+  /* ── fetch ── */
+  async function loadData() {
+    const res = await fetch(DATA_URL);
+    allData = await res.json();
+    initStats();
+    applyFilter();
+  }
+
+  function initStats() {
+    const prices = allData.map(d => parseNum(d['최저가']));
+    const pyeongs = allData.map(d => parseNum(d['평당가격'])).filter(Boolean);
+    document.getElementById('s-total').textContent = fmt(allData.length) + '건';
+    document.getElementById('s-min').textContent = fmt(Math.min(...prices)) + '원';
+    document.getElementById('s-max').textContent = fmt(Math.max(...prices)) + '원';
+    const avgPy = Math.round(pyeongs.reduce((a, b) => a + b, 0) / pyeongs.length);
+    document.getElementById('s-avg-py').textContent = fmt(avgPy) + '원';
+  }
+
+  /* ── filter & sort ── */
+  function applyFilter() {
+    const q = document.getElementById('search-input').value.trim().toLowerCase();
+    filtered = allData.filter(d =>
+      d['사건번호'].toLowerCase().includes(q) ||
+      d['주소'].toLowerCase().includes(q)
+    );
+
+    const [col, dir] = sortKey === 'default' ? [null, null] : sortKey.split('-').length === 2
+      ? [sortKey.replace(/-asc|-desc/, ''), sortKey.endsWith('asc') ? 'asc' : 'desc']
+      : [null, null];
+
+    if (col) {
+      filtered.sort((a, b) => {
+        let va, vb;
+        if (col === 'price') { va = parseNum(a['최저가']); vb = parseNum(b['최저가']); }
+        else if (col === 'pyeong') { va = parseNum(a['평당가격']); vb = parseNum(b['평당가격']); }
+        else if (col === 'area') { va = parseArea(a['면적']); vb = parseArea(b['면적']); }
+        else if (col === 'date') { va = a['사용승인일'] || ''; vb = b['사용승인일'] || ''; }
+        else { va = a[col] || ''; vb = b[col] || ''; }
+        if (va < vb) return dir === 'asc' ? -1 : 1;
+        if (va > vb) return dir === 'asc' ? 1 : -1;
+        return 0;
+      });
+    }
+
+    currentPage = 1;
+    document.getElementById('count-num').textContent = fmt(filtered.length);
+    render();
+  }
+
+  /* ── render ── */
+  function render() {
+    const tbody = document.getElementById('table-body');
+    const empty = document.getElementById('empty-state');
+    const start = (currentPage - 1) * perPage;
+    const slice = filtered.slice(start, start + perPage);
+
+    if (slice.length === 0) {
+      tbody.innerHTML = '';
+      empty.style.display = '';
+    } else {
+      empty.style.display = 'none';
+      tbody.innerHTML = slice.map(d => {
+        const price = parseNum(d['최저가']);
+        const py = parseNum(d['평당가격']);
+        return `
+        <tr>
+          <td class="case-num">${esc(d['사건번호'])}</td>
+          <td class="address">${esc(d['주소'])}</td>
+          <td class="area">${esc(d['면적'])}</td>
+          <td class="date">${esc(d['사용승인일'])}</td>
+          <td class="price ${priceClass(price)}">${fmt(price)}</td>
+          <td class="pyeong-price">${py ? fmt(py) : '-'}</td>
+        </tr>`;
+      }).join('');
+    }
+
+    renderPagination();
+  }
+
+  function esc(str) {
+    return (str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  }
+
+  /* ── pagination ── */
+  function renderPagination() {
+    const pg = document.getElementById('pagination');
+    const totalPages = Math.ceil(filtered.length / perPage);
+    if (totalPages <= 1) { pg.innerHTML = ''; return; }
+
+    let html = `<button class="page-btn" id="pg-prev" ${currentPage===1?'disabled':''} onclick="goPage(${currentPage-1})">‹ 이전</button>`;
+
+    let start = Math.max(1, currentPage - 2);
+    let end   = Math.min(totalPages, currentPage + 2);
+    if (currentPage <= 3) end = Math.min(5, totalPages);
+    if (currentPage > totalPages - 3) start = Math.max(1, totalPages - 4);
+
+    if (start > 1) html += `<button class="page-btn" onclick="goPage(1)">1</button>${start > 2 ? '<span style="color:var(--text-muted);padding:0 4px">…</span>' : ''}`;
+    for (let i = start; i <= end; i++) {
+      html += `<button class="page-btn ${i===currentPage?'active':''}" onclick="goPage(${i})">${i}</button>`;
+    }
+    if (end < totalPages) html += `${end < totalPages-1 ? '<span style="color:var(--text-muted);padding:0 4px">…</span>' : ''}<button class="page-btn" onclick="goPage(${totalPages})">${totalPages}</button>`;
+
+    html += `<button class="page-btn" id="pg-next" ${currentPage===totalPages?'disabled':''} onclick="goPage(${currentPage+1})">다음 ›</button>`;
+    pg.innerHTML = html;
+  }
+
+  function goPage(p) {
+    currentPage = p;
+    render();
+    document.querySelector('.toolbar').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  /* ── events ── */
+  document.getElementById('search-input').addEventListener('input', applyFilter);
+  document.getElementById('sort-select').addEventListener('change', e => { sortKey = e.target.value; applyFilter(); });
+  document.getElementById('per-page-select').addEventListener('change', e => { perPage = +e.target.value; applyFilter(); });
+
+  /* ── update time (read from JSON last entry or use current) ── */
+  async function setUpdateTime() {
+    try {
+      const res = await fetch('auction.json');
+      const data = await res.json();
+      const d = new Date();
+      document.getElementById('update-time').textContent =
+        d.toLocaleDateString('ko-KR', { year:'numeric', month:'long', day:'numeric' }) + ' 기준';
+    } catch { document.getElementById('update-time').textContent = '최근 크롤링 기준'; }
+  }
+
+  /* ── init ── */
+  loadData();
+  setUpdateTime();
+</script>
+</body>
+</html>
