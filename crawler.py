@@ -200,15 +200,11 @@ async def main():
                 # 주소 추출
                 주소 = await new_page.evaluate("""
                     () => {
-                        const ths = document.querySelectorAll('th');
-                        for (const th of ths) {
-                            if (th.textContent.trim().includes('소재지')) {
-                                const tr = th.closest('tr');
-                                const td = tr ? tr.querySelector('td') : null;
-                                if (!td) continue;
-                                // span.bold가 있으면 우선 사용, 없으면 td 텍스트 전체 사용
-                                const span = td.querySelector('span.bold') || td.querySelector('span');
-                                return span ? span.textContent.trim() : td.textContent.trim();
+                        const mobileTitle = document.querySelector('span.mobileTitle');
+                        if (mobileTitle && mobileTitle.textContent.trim() === '소재지') {
+                            const boldSpan = mobileTitle.nextElementSibling;
+                            if (boldSpan && boldSpan.classList.contains('bold')) {
+                                return boldSpan.textContent.trim();
                             }
                         }
                         return '';
