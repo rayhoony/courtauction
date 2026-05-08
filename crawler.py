@@ -187,6 +187,10 @@ async def main():
                 await new_page.wait_for_load_state("networkidle")
                 print(f"#Tr_{i} 클릭 완료")
 
+                # URL 추출
+                url = new_page.url
+                print(f"  [페이지{pg} Tr_{i}] URL: {url}")
+
                 # 사건번호 추출
                 사건번호 = ""
                 cnt_selector = "#lyCnt_num > div > div.fleft > div:nth-child(1) > span.f20.bold_900"
@@ -234,8 +238,8 @@ async def main():
                 if not 사용승인일:
                     print(f"  [페이지{pg} Tr_{i}] 사용승인일 정보 없음")
 
-                # 최저가 추출
-                최저가 = await new_page.evaluate("""
+                # 최저가 및 최저가율 추출
+                price_data = await new_page.evaluate("""
                     () => {
                         const tds = document.querySelectorAll('td.blue.right');
                         for (const td of tds) {
@@ -244,15 +248,22 @@ async def main():
                             if (!hasLabel) continue;
                             const bold = spans.find(s => s.classList.contains('bold'));
                             if (bold) {
-                                const m = bold.textContent.match(/[\d,]+/g);
-                                return m ? m[m.length - 1] : '';
+                                const text = bold.textContent;
+                                const m = text.match(/[\d,]+/g);
+                                const price = m ? m[m.length - 1] : '';
+                                const rateMatch = text.match(/\(([^)]+)\)/);
+                                const rate = rateMatch ? rateMatch[1].trim() : '';
+                                return { price, rate };
                             }
                         }
-                        return '';
+                        return { price: '', rate: '' };
                     }
                 """)
+                최저가 = price_data.get("price", "")
+                최저가율 = price_data.get("rate", "")
                 # 최저가는 쉼표 포함 그대로 저장 (가독성)
                 print(f"  [페이지{pg} Tr_{i}] 최저가: {최저가}")
+                print(f"  [페이지{pg} Tr_{i}] 최저가율: {최저가율}")
 
                 # 평당가격 계산 (면적에서 ㎡ 앞 숫자만 추출, 3.3 곱해서 평당 환산)
                 평당가격 = ""
@@ -276,10 +287,12 @@ async def main():
                 if year >= 2020:
                     results.append({
                         "사건번호": 사건번호,
+                        "url": url,
                         "주소": 주소,
                         "면적": 면적,
                         "사용승인일": 사용승인일,
                         "최저가": 최저가,
+                        "최저가율": 최저가율,
                         "평당가격": 평당가격,
                     })
                     print(f"  [페이지{pg} Tr_{i}] → 저장 완료")
