@@ -245,6 +245,17 @@
       white-space: nowrap;
       text-align: right;
     }
+    .rate {
+      color: var(--text-muted);
+      font-size: 0.83rem;
+      white-space: nowrap;
+      text-align: right;
+    }
+    .case-num a, .card-case a {
+      color: var(--accent2);
+      text-decoration: none;
+    }
+    .case-num a:hover, .card-case a:hover { text-decoration: underline; }
 
     /* ══════════════════════════════════════
        Mobile: Card layout (< 640px)
@@ -456,6 +467,7 @@
         <th data-col="면적">면적 <span class="sort-icon">⇅</span></th>
         <th data-col="사용승인일">사용승인일 <span class="sort-icon">⇅</span></th>
         <th data-col="최저가" style="text-align:right">최저가 (원) <span class="sort-icon">⇅</span></th>
+        <th data-col="최저가율" style="text-align:right">최저가율 <span class="sort-icon">⇅</span></th>
         <th data-col="평당가격" style="text-align:right">평당가격 (원) <span class="sort-icon">⇅</span></th>
       </tr>
     </thead>
@@ -577,13 +589,19 @@
       tbody.innerHTML = slice.map(d => {
         const price = parseNum(d['최저가']);
         const py    = parseNum(d['평당가격']);
+        const url   = d['url'] || '';
+        const rate  = esc(d['최저가율'] || '-');
+        const caseNum = url
+          ? `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(d['사건번호'])}</a>`
+          : esc(d['사건번호']);
         return `
         <tr>
-          <td class="case-num">${esc(d['사건번호'])}</td>
+          <td class="case-num">${caseNum}</td>
           <td class="address">${esc(d['주소'])}</td>
           <td class="area">${esc(d['면적'])}</td>
           <td class="date">${esc(d['사용승인일'])}</td>
           <td class="price ${priceClass(price)}">${fmt(price)}</td>
+          <td class="rate">${rate}</td>
           <td class="pyeong-price">${py ? fmt(py) : '-'}</td>
         </tr>`;
       }).join('');
@@ -607,11 +625,16 @@
         const price = parseNum(d['최저가']);
         const py    = parseNum(d['평당가격']);
         const pc    = priceClass(price);
+        const url   = d['url'] || '';
+        const rate  = esc(d['최저가율'] || '-');
+        const caseNum = url
+          ? `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(d['사건번호'])}</a>`
+          : esc(d['사건번호']);
         const card  = document.createElement('div');
         card.className = `auction-card ${pc}`;
         card.innerHTML = `
           <div class="card-header">
-            <span class="card-case">${esc(d['사건번호'])}</span>
+            <span class="card-case">${caseNum}</span>
             <span class="card-price ${pc}">${fmt(price)}원</span>
           </div>
           <div class="card-address">${esc(d['주소'])}</div>
@@ -623,6 +646,10 @@
             <div class="card-meta-item">
               <span class="meta-label">사용승인</span>
               <span class="meta-value">${esc(d['사용승인일'])}</span>
+            </div>
+            <div class="card-meta-item">
+              <span class="meta-label">최저가율</span>
+              <span class="meta-value">${rate}</span>
             </div>
             <div class="card-meta-item">
               <span class="meta-label">평당가</span>
