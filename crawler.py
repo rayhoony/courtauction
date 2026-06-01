@@ -201,6 +201,21 @@ async def main():
                 else:
                     print(f"  [페이지{pg} Tr_{i}] 물건번호 셀렉터 없음")
 
+                # 특수조건 추출
+                특수조건_list = await new_page.evaluate("""
+                    () => {
+                        const container = document.querySelector('#lyCnt_num');
+                        if (!container) return [];
+                        const spans = container.querySelectorAll('span.red.spanBox.bold');
+                        return Array.from(spans).map(s => s.textContent.trim()).filter(t => t);
+                    }
+                """)
+                특수조건 = ', '.join(특수조건_list) if 특수조건_list else ""
+                if 특수조건:
+                    print(f"  [페이지{pg} Tr_{i}] 특수조건: {특수조건}")
+                else:
+                    print(f"  [페이지{pg} Tr_{i}] 특수조건 없음")
+
                 # 주소 추출
                 주소 = await new_page.evaluate("""
                     () => {
@@ -294,6 +309,7 @@ async def main():
                         "최저가": 최저가,
                         "최저가율": 최저가율,
                         "평당가격": 평당가격,
+                        "특수조건": 특수조건,
                     })
                     print(f"  [페이지{pg} Tr_{i}] → 저장 완료")
                 else:
