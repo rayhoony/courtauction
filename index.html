@@ -251,6 +251,18 @@
       white-space: nowrap;
       text-align: right;
     }
+    .special-tag {
+      display: inline-block;
+      background: rgba(248,113,113,.15);
+      border: 1px solid rgba(248,113,113,.4);
+      color: var(--red);
+      border-radius: 4px;
+      padding: 2px 6px;
+      font-size: 0.75rem;
+      white-space: nowrap;
+      margin: 2px 2px 0 0;
+    }
+    .special-none { color: var(--text-muted); font-size: 0.83rem; }
     .case-num a, .card-case a {
       color: var(--accent2);
       text-decoration: none;
@@ -467,6 +479,7 @@
       <tr>
         <th data-col="사건번호">사건번호 <span class="sort-icon">⇅</span></th>
         <th data-col="주소">주소 <span class="sort-icon">⇅</span></th>
+        <th data-col="특수조건">특수조건</th>
         <th data-col="면적">면적 <span class="sort-icon">⇅</span></th>
         <th data-col="사용승인일">사용승인일 <span class="sort-icon">⇅</span></th>
         <th data-col="최저가" style="text-align:right">최저가 (원) <span class="sort-icon">⇅</span></th>
@@ -517,10 +530,18 @@
     return 'low';
   }
 
+  /* ── special condition renderer ── */
+  function renderSpecial(val) {
+    if (!val) return '<span class="special-none">-</span>';
+    return val.split(', ').map(t => `<span class="special-tag">${esc(t)}</span>`).join('');
+  }
+
   /* ── fetch ── */
   async function loadData() {
     const res = await fetch(DATA_URL);
+    const lastModified = res.headers.get('Last-Modified');
     allData = await res.json();
+    setUpdateTime(lastModified);
     initStats();
     applyFilter();
   }
@@ -601,6 +622,7 @@
         <tr>
           <td class="case-num">${caseNum}</td>
           <td class="address">${esc(d['주소'])}</td>
+          <td>${renderSpecial(d['특수조건'])}</td>
           <td class="area">${esc(d['면적'])}</td>
           <td class="date">${esc(d['사용승인일'])}</td>
           <td class="price ${priceClass(price)}">${fmt(price)}</td>
@@ -642,6 +664,7 @@
           </div>
           <div class="card-address">${esc(d['주소'])}</div>
           <div class="card-meta">
+            ${d['특수조건'] ? `<div class="card-meta-item" style="flex:1 1 100%"><span class="meta-label">특수조건&nbsp;</span>${renderSpecial(d['특수조건'])}</div>` : ''}
             <div class="card-meta-item">
               <span class="meta-label">면적</span>
               <span class="meta-value">${esc(d['면적'])}</span>
@@ -707,14 +730,16 @@
   });
 
   /* ── update time ── */
-  function setUpdateTime() {
-    document.getElementById('update-time').textContent =
-      new Date().toLocaleDateString('ko-KR', { year:'numeric', month:'long', day:'numeric' }) + ' 기준';
+  function setUpdateTime(lastModified) {
+    const d = lastModified ? new Date(lastModified) : null;
+    const dateStr = d && !isNaN(d)
+      ? d.toLocaleDateString('ko-KR', { year:'numeric', month:'long', day:'numeric' })
+      : new Date().toLocaleDateString('ko-KR', { year:'numeric', month:'long', day:'numeric' });
+    document.getElementById('update-time').textContent = dateStr + ' 기준';
   }
 
   /* ── init ── */
   loadData();
-  setUpdateTime();
 </script>
 </body>
 </html>
