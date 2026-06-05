@@ -1,304 +1,7 @@
 [
   {
-    "사건번호": "2023타경1173",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2176221&chkNo=1&TotNo=20",
-    "주소": "서울 동대문구 용두동 255-70, 12층1209호 (용두동,청계다우아트리체디벨)",
-    "면적": "26.65㎡(8.062평)",
-    "사용승인일": "2020-09-29",
-    "최저가": "4,439,000",
-    "최저가율": "1.4%",
-    "평당가격": "549,670",
-    "특수조건": "대항력 있는 임차인"
-  },
-  {
-    "사건번호": "2023타경45888(1)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2223196&chkNo=2&TotNo=20",
-    "주소": "경기 김포시 구래동 6871-53, 10층비10-103호 (구래동,현대썬앤빌더킹)",
-    "면적": "22.019㎡(6.661평)",
-    "사용승인일": "2022-05-12",
-    "최저가": "59,780,000",
-    "최저가율": "49%",
-    "평당가격": "8,959,262",
-    "특수조건": "선순위 전세권설정"
-  },
-  {
-    "사건번호": "2023타경45888(2)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2504716&chkNo=3&TotNo=20",
-    "주소": "경기 김포시 구래동 6871-53, 10층비10-107호 (구래동,현대썬앤빌더킹)",
-    "면적": "22.019㎡(6.661평)",
-    "사용승인일": "2022-05-12",
-    "최저가": "59,780,000",
-    "최저가율": "49%",
-    "평당가격": "8,959,262",
-    "특수조건": "선순위 전세권설정"
-  },
-  {
-    "사건번호": "2024타경109525",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2350866&chkNo=6&TotNo=20",
-    "주소": "경기 군포시 금정동 47-24, 13층1303호 (금정동,우진아트리움)",
-    "면적": "39.95㎡(12.085평)",
-    "사용승인일": "2021-01-22",
-    "최저가": "17,386,000",
-    "최저가율": "6.9%",
-    "평당가격": "1,436,140",
-    "특수조건": "임차권등기/대항력 있는 임차인"
-  },
-  {
-    "사건번호": "2024타경119682",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2346787&chkNo=9&TotNo=20",
-    "주소": "서울 동대문구 답십리동 243-6, 2층203호 (답십리동,써밋카운티) 외 3필지",
-    "면적": "17.573㎡(5.316평)",
-    "사용승인일": "2021-07-30",
-    "최저가": "144,640,000",
-    "최저가율": "64%",
-    "평당가격": "27,161,668",
-    "특수조건": "임차권등기/HUG 임차권 인수조건변경"
-  },
-  {
-    "사건번호": "2024타경122368",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2352500&chkNo=10&TotNo=20",
-    "주소": "서울 관악구 신림동 529-15, 4층403호",
-    "면적": "27.38㎡(8.282평)",
-    "사용승인일": "2020-04-02",
-    "최저가": "34,895,000",
-    "최저가율": "13.4%",
-    "평당가격": "4,205,752",
-    "특수조건": "임차권등기/대항력 있는 임차인"
-  },
-  {
-    "사건번호": "2025타경10337",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2419798&chkNo=15&TotNo=20",
-    "주소": "서울특별시 양천구 신월동 474-12 로빈시그니쳐  제10층 제1001호",
-    "면적": "29.6㎡(8.954평)",
-    "사용승인일": "2020-06-17",
-    "최저가": "121,344,000",
-    "최저가율": "51.2%",
-    "평당가격": "13,528,216",
-    "특수조건": "임차권등기/대항력 있는 임차인"
-  },
-  {
-    "사건번호": "2025타경12087",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2378830&chkNo=18&TotNo=20",
-    "주소": "서울특별시 성북구 하월곡동 90-260 갤럭시하월곡 에이동 7층 701호",
-    "면적": "14.35㎡(4.341평)",
-    "사용승인일": "2020-10-07",
-    "최저가": "109,440,000",
-    "최저가율": "64%",
-    "평당가격": "25,167,387",
-    "특수조건": "임차권등기/HUG 임차권 인수조건변경"
-  },
-  {
-    "사건번호": "2025타경34437",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2451691&chkNo=1&TotNo=20",
-    "주소": "경기도 부천시 원미구 원미동 42-1 해냄스토리주건축물제1동  8층802호",
-    "면적": "57.87㎡(17.506평)",
-    "사용승인일": "2020-04-09",
-    "최저가": "108,388,000",
-    "최저가율": "34.3%",
-    "평당가격": "6,180,757",
-    "특수조건": "임차권등기/대항력 있는 임차인"
-  },
-  {
-    "사건번호": "2025타경64321",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2453450&chkNo=6&TotNo=20",
-    "주소": "경기도 고양시 덕양구 화정동 1148-6 아이씨티일산  12층1205호",
-    "면적": "31.523㎡(9.536평)",
-    "사용승인일": "2020-07-24",
-    "최저가": "71,344,000",
-    "최저가율": "34.3%",
-    "평당가격": "7,468,680",
-    "특수조건": "임차권등기/대항력 있는 임차인"
-  },
-  {
-    "사건번호": "2025타경71835",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2379350&chkNo=9&TotNo=20",
-    "주소": "경기도 의정부시 의정부동 214-76 혜성루첸리 6층 602호 외 2필지",
-    "면적": "22.079㎡(6.679평)",
-    "사용승인일": "2022-01-05",
-    "최저가": "140,000,000",
-    "최저가율": "100%",
-    "평당가격": "20,924,861",
-    "특수조건": "임차권등기/HUG 임차권 인수조건변경"
-  },
-  {
-    "사건번호": "2025타경72011",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2411259&chkNo=11&TotNo=20",
-    "주소": "경기도 의정부시 의정부동 214-76 혜성루첸리 4층 402호 외 2필지",
-    "면적": "22.079㎡(6.679평)",
-    "사용승인일": "2022-01-05",
-    "최저가": "23,530,000",
-    "최저가율": "16.8%",
-    "평당가격": "3,516,871",
-    "특수조건": "임차권등기/대항력 있는 임차인"
-  },
-  {
-    "사건번호": "2025타경100855",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2383841&chkNo=12&TotNo=20",
-    "주소": "경기도 안양시 만안구 안양동 433-2 안양센트럴헤센 103동 16층1608호",
-    "면적": "27.73㎡(8.388평)",
-    "사용승인일": "2020-07-30",
-    "최저가": "40,265,000",
-    "최저가율": "21%",
-    "평당가격": "4,791,724",
-    "특수조건": "임차권등기/대항력 있는 임차인"
-  },
-  {
-    "사건번호": "2025타경101085",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2371794&chkNo=14&TotNo=20",
-    "주소": "서울 관악구 신림동 1568-5, 12층1208호 (신림동,더위일관악파크뷰) 외 1필지",
-    "면적": "17.3㎡(5.233평)",
-    "사용승인일": "2021-12-13",
-    "최저가": "63,962,000",
-    "최저가율": "26.2%",
-    "평당가격": "12,200,844",
-    "특수조건": "임차권등기/대항력 있는 임차인"
-  },
-  {
-    "사건번호": "2025타경102132",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377421&chkNo=15&TotNo=20",
-    "주소": "서울특별시 관악구 신림동 538-39 위드비엠3  3층303호 외 1필지",
-    "면적": "46.2㎡(13.976평)",
-    "사용승인일": "2021-09-09",
-    "최저가": "126,156,000",
-    "최저가율": "32.8%",
-    "평당가격": "9,011,143",
-    "특수조건": "임차권등기/대항력 있는 임차인"
-  },
-  {
-    "사건번호": "2024타경12912(1)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2338620&chkNo=19&TotNo=20",
-    "주소": "인천 서구 청라동 96-16, 10층 1015호 (청라동,센트럴시티)",
-    "면적": "21.22㎡(6.419평)",
-    "사용승인일": "2022-03-18",
-    "최저가": "86,240,000",
-    "최저가율": "49%",
-    "평당가격": "13,411,499",
-    "특수조건": ""
-  },
-  {
-    "사건번호": "2024타경130198",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2325575&chkNo=1&TotNo=20",
-    "주소": "서울 금천구 가산동 233-5, 제14층비동 제1401호 (가산동, 가산센트럴푸르지오시티)",
-    "면적": "17.62㎡(5.33평)",
-    "사용승인일": "2020-07-27",
-    "최저가": "30,619,000",
-    "최저가율": "21%",
-    "평당가격": "5,734,546",
-    "특수조건": "임차권등기/대항력 있는 임차인"
-  },
-  {
-    "사건번호": "2024타경138055",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2342187&chkNo=3&TotNo=20",
-    "주소": "서울 금천구 시흥동 888-14, 제4층 제408호 (시흥동, 신영메트로시티)",
-    "면적": "18.27㎡(5.527평)",
-    "사용승인일": "2021-11-22",
-    "최저가": "79,298,000",
-    "최저가율": "32.8%",
-    "평당가격": "14,323,120",
-    "특수조건": "임차권등기/대항력 있는 임차인"
-  },
-  {
-    "사건번호": "2025타경2595",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2421675&chkNo=5&TotNo=20",
-    "주소": "경기도 김포시 구래동 6871-45 골든루체뷰1차  6층617호",
-    "면적": "25.07㎡(7.584평)",
-    "사용승인일": "2023-04-14",
-    "최저가": "69,286,000",
-    "최저가율": "34.3%",
-    "평당가격": "9,120,215",
-    "특수조건": "임차권등기"
-  },
-  {
-    "사건번호": "2025타경33831",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2421676&chkNo=11&TotNo=20",
-    "주소": "경기도 김포시 구래동 6878-7 중일라크리움  4층 410호",
-    "면적": "20.686㎡(6.258평)",
-    "사용승인일": "2021-04-08",
-    "최저가": "71,400,000",
-    "최저가율": "70%",
-    "평당가격": "11,390,312",
-    "특수조건": "임차권등기"
-  },
-  {
-    "사건번호": "2025타경34067",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2433706&chkNo=12&TotNo=20",
-    "주소": "경기도 김포시 구래동 6871-46 스위트엠아크라시티2차 비동 7층710호",
-    "면적": "20.659㎡(6.249평)",
-    "사용승인일": "2020-02-10",
-    "최저가": "53,900,000",
-    "최저가율": "49%",
-    "평당가격": "8,609,807",
-    "특수조건": ""
-  },
-  {
-    "사건번호": "2025타경34154",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2435946&chkNo=13&TotNo=20",
-    "주소": "경기도 김포시 구래동 6871-53 현대썬앤빌더킹  3층비03-080호",
-    "면적": "22.019㎡(6.661평)",
-    "사용승인일": "2022-05-12",
-    "최저가": "62,230,000",
-    "최저가율": "49%",
-    "평당가격": "9,326,445",
-    "특수조건": ""
-  },
-  {
-    "사건번호": "2025타경34402",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2447378&chkNo=14&TotNo=20",
-    "주소": "경기도 부천시 원미구 원미동 42-1 해냄스토리주건축물제1동  7층705호",
-    "면적": "55.66㎡(16.837평)",
-    "사용승인일": "2020-04-09",
-    "최저가": "146,020,000",
-    "최저가율": "49%",
-    "평당가격": "8,657,312",
-    "특수조건": "임차권등기/대항력 있는 임차인"
-  },
-  {
-    "사건번호": "2025타경51706",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2383544&chkNo=16&TotNo=20",
-    "주소": "경기도 시흥시 신천동 706-9 성지타워3차  15층1501호",
-    "면적": "67.77㎡(20.5평)",
-    "사용승인일": "2021-01-22",
-    "최저가": "130,683,000",
-    "최저가율": "34.3%",
-    "평당가격": "6,363,493",
-    "특수조건": "임차권등기/HUG 임차권 인수조건변경"
-  },
-  {
-    "사건번호": "2025타경72024",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2395451&chkNo=19&TotNo=20",
-    "주소": "경기도 양주시 삼숭동 185-1 리치빌비  5층501호 외 2필지",
-    "면적": "64.778㎡(19.595평)",
-    "사용승인일": "2021-06-30",
-    "최저가": "79,576,000",
-    "최저가율": "34.3%",
-    "평당가격": "4,053,858",
-    "특수조건": "임차권등기/대항력 있는 임차인/HUG 임차권 인수조건변경"
-  },
-  {
-    "사건번호": "2025타경50550",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2369209&chkNo=1&TotNo=20",
-    "주소": "경기 수원시 권선구 금곡동 1118-4, 4층425호 (금곡동,호매실더리브스타일)",
-    "면적": "30.33㎡(9.175평)",
-    "사용승인일": "2021-02-01",
-    "최저가": "18,941,489",
-    "최저가율": "11.8%",
-    "평당가격": "2,060,894",
-    "특수조건": "임차권등기/대항력 있는 임차인"
-  },
-  {
-    "사건번호": "2025타경56526",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2419914&chkNo=2&TotNo=20",
-    "주소": "경기도 화성시 영천동 833 힐스테이트동탄역 201동 9층906호",
-    "면적": "22.8408㎡(6.909평)",
-    "사용승인일": "2020-12-23",
-    "최저가": "71,540,000",
-    "최저가율": "49%",
-    "평당가격": "10,335,978",
-    "특수조건": ""
-  },
-  {
     "사건번호": "2023타경57415",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2212870&chkNo=3&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2212870&chkNo=1&TotNo=20",
     "주소": "서울 광진구 중곡동 649-11, 11층1104호 (중곡동,평강오피스텔) 외 1필지",
     "면적": "24.05㎡(7.275평)",
     "사용승인일": "2020-12-16",
@@ -309,7 +12,7 @@
   },
   {
     "사건번호": "2024타경11848",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2348669&chkNo=4&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2348669&chkNo=2&TotNo=20",
     "주소": "경기 수원시 권선구 금곡동 1118-4, 3층310호 (금곡동,호매실더리브스타일)",
     "면적": "36.76㎡(11.12평)",
     "사용승인일": "2021-02-01",
@@ -320,7 +23,7 @@
   },
   {
     "사건번호": "2024타경72228",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2370097&chkNo=8&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2370097&chkNo=6&TotNo=20",
     "주소": "경기 성남시 수정구 태평동 3520, 7층705호 (태평동,다온아트리움)",
     "면적": "56.772㎡(17.174평)",
     "사용승인일": "2021-06-02",
@@ -331,7 +34,7 @@
   },
   {
     "사건번호": "2025타경50920",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377580&chkNo=14&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377580&chkNo=12&TotNo=20",
     "주소": "서울특별시 강동구 길동 347-30 라온오피스텔  4층405호",
     "면적": "17.44㎡(5.276평)",
     "사용승인일": "2020-10-23",
@@ -342,7 +45,7 @@
   },
   {
     "사건번호": "2025타경51403",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2404838&chkNo=16&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2404838&chkNo=14&TotNo=20",
     "주소": "서울특별시 강동구 천호동 167-73 에스아이팰리스  2층210호",
     "면적": "17.48㎡(5.288평)",
     "사용승인일": "2020-10-14",
@@ -353,7 +56,7 @@
   },
   {
     "사건번호": "2025타경51444",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2408587&chkNo=17&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2408587&chkNo=15&TotNo=20",
     "주소": "서울특별시 강동구 천호동 167-73 에스아이팰리스  7층708호",
     "면적": "18.08㎡(5.469평)",
     "사용승인일": "2020-10-14",
@@ -364,7 +67,7 @@
   },
   {
     "사건번호": "2024타경2019",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2285762&chkNo=5&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2285762&chkNo=3&TotNo=20",
     "주소": "서울 강서구 화곡동 24-92, 제2층 제212호 (화곡동, 아덴하임)",
     "면적": "26.6271㎡(8.055평)",
     "사용승인일": "2020-11-05",
@@ -375,7 +78,7 @@
   },
   {
     "사건번호": "2024타경2996",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2300446&chkNo=6&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2300446&chkNo=4&TotNo=20",
     "주소": "서울 강서구 화곡동 24-65, 제4층 제401호 (화곡동, 포엠빌)",
     "면적": "43.28㎡(13.092평)",
     "사용승인일": "2020-06-18",
@@ -386,7 +89,7 @@
   },
   {
     "사건번호": "2024타경50863",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2343251&chkNo=11&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2343251&chkNo=6&TotNo=20",
     "주소": "경기 김포시 풍무동 914, 8층 802호 (풍무동, 그랜드타워2차)",
     "면적": "20.72㎡(6.268평)",
     "사용승인일": "2020-06-10",
@@ -397,7 +100,7 @@
   },
   {
     "사건번호": "2024타경93376",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2346392&chkNo=16&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2346392&chkNo=11&TotNo=20",
     "주소": "경기 오산시 세교동 597-4, 8층816호 (세교동,세마엠시티)",
     "면적": "19.0014㎡(5.748평)",
     "사용승인일": "2020-08-20",
@@ -408,7 +111,7 @@
   },
   {
     "사건번호": "2024타경117495",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2338595&chkNo=19&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2338595&chkNo=14&TotNo=20",
     "주소": "서울 동대문구 답십리동 243-6, 3층301호 (답십리동,써밋카운티) 외 3필지",
     "면적": "20.88㎡(6.316평)",
     "사용승인일": "2021-07-30",
@@ -419,7 +122,7 @@
   },
   {
     "사건번호": "2024타경120750",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2351695&chkNo=1&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2351695&chkNo=16&TotNo=20",
     "주소": "서울 성북구 정릉동 147-4, 2층205호 (정릉동,수성렉스빌) 외 1필지",
     "면적": "20.3㎡(6.141평)",
     "사용승인일": "2021-03-11",
@@ -430,7 +133,7 @@
   },
   {
     "사건번호": "2024타경128805",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2319795&chkNo=2&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2319795&chkNo=17&TotNo=20",
     "주소": "서울 구로구 오류동 6-63, 제5층 제503호 (오류동, 루체비스타) 외 1필지",
     "면적": "40.73㎡(12.321평)",
     "사용승인일": "2020-03-20",
@@ -441,7 +144,7 @@
   },
   {
     "사건번호": "2024타경140331",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2351694&chkNo=3&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2351694&chkNo=18&TotNo=20",
     "주소": "서울 금천구 독산동 962-26, 제2층 제203호 (독산동, 엘린하우스) 외 1필지",
     "면적": "46.78㎡(14.151평)",
     "사용승인일": "2021-07-14",
@@ -452,7 +155,7 @@
   },
   {
     "사건번호": "2025타경1214",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2419232&chkNo=5&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2419232&chkNo=20&TotNo=20",
     "주소": "인천광역시 서구 청라동 96-16 센트럴시티  8층803호",
     "면적": "21.22㎡(6.419평)",
     "사용승인일": "2022-03-18",
@@ -463,7 +166,7 @@
   },
   {
     "사건번호": "2025타경11297",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2378864&chkNo=8&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2378864&chkNo=3&TotNo=20",
     "주소": "서울 동대문구 장안동 146-18, 9층902호 (장안동,동일타워) 외 1필지",
     "면적": "18.38㎡(5.56평)",
     "사용승인일": "2021-05-27",
@@ -474,7 +177,7 @@
   },
   {
     "사건번호": "2025타경12247",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2394531&chkNo=12&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2394531&chkNo=7&TotNo=20",
     "주소": "서울특별시 동대문구 장안동 146-18 동일타워  4층 410호 외 1필지",
     "면적": "18.38㎡(5.56평)",
     "사용승인일": "2021-05-27",
@@ -485,7 +188,7 @@
   },
   {
     "사건번호": "2025타경510216",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2421645&chkNo=17&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2421645&chkNo=12&TotNo=20",
     "주소": "인천광역시 남동구 남촌동 624-3 제이케이루체스타지식산업센터  8층801호",
     "면적": "20.75㎡(6.277평)",
     "사용승인일": "2020-05-04",
@@ -496,7 +199,7 @@
   },
   {
     "사건번호": "2023타경1842",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2186778&chkNo=18&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2186778&chkNo=13&TotNo=20",
     "주소": "경기 구리시 교문동 227-22, 13층1307호 (교문동,구리아이폴리스)",
     "면적": "31.5㎡(9.529평)",
     "사용승인일": "2020-02-07",
@@ -507,7 +210,7 @@
   },
   {
     "사건번호": "2024타경47362",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2325283&chkNo=19&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2325283&chkNo=14&TotNo=20",
     "주소": "경기 김포시 구래동 6871-33, 비동 6층 624호 (구래동, 김포더럭스나인오피스텔) 외 1필지",
     "면적": "21.6㎡(6.534평)",
     "사용승인일": "2020-10-07",
@@ -518,7 +221,7 @@
   },
   {
     "사건번호": "2024타경72935",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2304389&chkNo=1&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2304389&chkNo=16&TotNo=20",
     "주소": "경기 수원시 장안구 영화동 273-10, 6층602호 (영화동,엘리시움)",
     "면적": "72.143㎡(21.823평)",
     "사용승인일": "2021-01-04",
@@ -529,7 +232,7 @@
   },
   {
     "사건번호": "2024타경85137",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2354457&chkNo=3&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2354457&chkNo=18&TotNo=20",
     "주소": "경기 구리시 수택동 419-21, 11층1102호 (수택동,구리더케이타워) 외 3필지",
     "면적": "22.35㎡(6.761평)",
     "사용승인일": "2020-09-16",
@@ -540,7 +243,7 @@
   },
   {
     "사건번호": "2024타경92557",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2346827&chkNo=5&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2346827&chkNo=20&TotNo=20",
     "주소": "경기 오산시 오산동 535-16, 101동 3층302호 (오산동,탑캐슬)",
     "면적": "59.53㎡(18.008평)",
     "사용승인일": "2020-03-19",
@@ -551,7 +254,7 @@
   },
   {
     "사건번호": "2024타경99619",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2359625&chkNo=8&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2359625&chkNo=3&TotNo=20",
     "주소": "경기 화성시 병점구 병점동 376-11, 3층309호 (병점동,병점역써밋프라움에이동)",
     "면적": "24.12㎡(7.296평)",
     "사용승인일": "2020-11-13",
@@ -561,19 +264,8 @@
     "특수조건": "임차권등기/대항력 있는 임차인"
   },
   {
-    "사건번호": "2024타경120676",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2345287&chkNo=10&TotNo=20",
-    "주소": "서울 관악구 신림동 1474-15, 9층904호 (신림동,몽삐에뜨골드)",
-    "면적": "24.18㎡(7.314평)",
-    "사용승인일": "2020-09-04",
-    "최저가": "19,106,000",
-    "최저가율": "6.9%",
-    "평당가격": "2,607,519",
-    "특수조건": "임차권등기/대항력 있는 임차인"
-  },
-  {
     "사건번호": "2025타경9039",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2378353&chkNo=13&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2378353&chkNo=7&TotNo=20",
     "주소": "서울특별시 금천구 독산동 303-4 미림에이클래스 제102동 제8층 제803호",
     "면적": "28.63㎡(8.661평)",
     "사용승인일": "2021-07-08",
@@ -584,7 +276,7 @@
   },
   {
     "사건번호": "2025타경9294",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2391471&chkNo=14&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2391471&chkNo=8&TotNo=20",
     "주소": "서울특별시 금천구 독산동 303-4 미림에이클래스 제101동 제12층 제1204호",
     "면적": "24.44㎡(7.393평)",
     "사용승인일": "2021-07-08",
@@ -595,7 +287,7 @@
   },
   {
     "사건번호": "2025타경10316",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2415377&chkNo=15&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2415377&chkNo=9&TotNo=20",
     "주소": "서울특별시 금천구 독산동 301-15  제2층 제203호",
     "면적": "21.93㎡(6.634평)",
     "사용승인일": "2022-01-26",
@@ -606,7 +298,7 @@
   },
   {
     "사건번호": "2025타경10387",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2416941&chkNo=16&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2416941&chkNo=10&TotNo=20",
     "주소": "서울특별시 양천구 신월동 145-6 에이엔타워  제3층 제305호",
     "면적": "44.69㎡(13.519평)",
     "사용승인일": "2020-09-29",
@@ -617,7 +309,7 @@
   },
   {
     "사건번호": "2025타경10587",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2420990&chkNo=17&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2420990&chkNo=11&TotNo=20",
     "주소": "서울특별시 강서구 화곡동 916-7 혜성오피스텔  제9층 제902호",
     "면적": "27.06㎡(8.186평)",
     "사용승인일": "2021-02-18",
@@ -628,7 +320,7 @@
   },
   {
     "사건번호": "2025타경10822",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2425832&chkNo=19&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2425832&chkNo=13&TotNo=20",
     "주소": "서울특별시 영등포구 영등포동1가 121-3 명남더블레스  제3층 제303호",
     "면적": "17.63㎡(5.333평)",
     "사용승인일": "2021-01-26",
@@ -639,7 +331,7 @@
   },
   {
     "사건번호": "2025타경11369",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2436410&chkNo=2&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2436410&chkNo=16&TotNo=20",
     "주소": "서울특별시 강서구 가양동 187-7 플래티노  제11층 제1107호",
     "면적": "17.2439㎡(5.216평)",
     "사용승인일": "2020-07-16",
@@ -650,7 +342,7 @@
   },
   {
     "사건번호": "2025타경11781",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2443885&chkNo=5&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2443885&chkNo=19&TotNo=20",
     "주소": "서울특별시 금천구 시흥동 888-14 신영메트로시티  제6층 제603호",
     "면적": "18.27㎡(5.527평)",
     "사용승인일": "2021-11-22",
@@ -661,7 +353,7 @@
   },
   {
     "사건번호": "2025타경33118",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2395490&chkNo=6&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2395490&chkNo=20&TotNo=20",
     "주소": "경기도 김포시 구래동 6878-7 중일라크리움  5층 528호",
     "면적": "21.273㎡(6.435평)",
     "사용승인일": "2021-04-08",
@@ -672,7 +364,7 @@
   },
   {
     "사건번호": "2025타경33574",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2409728&chkNo=9&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2409728&chkNo=3&TotNo=20",
     "주소": "경기도 김포시 고촌읍 신곡리 1068 미리내고촌  8층 803호",
     "면적": "26.08㎡(7.889평)",
     "사용승인일": "2021-09-03",
@@ -683,7 +375,7 @@
   },
   {
     "사건번호": "2025타경33740",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2416548&chkNo=10&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2416548&chkNo=4&TotNo=20",
     "주소": "경기도 김포시 구래동 6878-7 중일라크리움  4층 428호",
     "면적": "21.273㎡(6.435평)",
     "사용승인일": "2021-04-08",
@@ -694,7 +386,7 @@
   },
   {
     "사건번호": "2025타경71440",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2395471&chkNo=15&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2395471&chkNo=9&TotNo=20",
     "주소": "경기도 구리시 수택동 419-21 구리더케이타워  9층901호 외 3필지",
     "면적": "22.35㎡(6.761평)",
     "사용승인일": "2020-09-16",
@@ -705,7 +397,7 @@
   },
   {
     "사건번호": "2025타경101375",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377193&chkNo=19&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377193&chkNo=13&TotNo=20",
     "주소": "서울 관악구 신림동 1568-5, 5층501호 (신림동,더위일관악파크뷰) 외 1필지",
     "면적": "18.86㎡(5.705평)",
     "사용승인일": "2021-12-13",
@@ -716,7 +408,7 @@
   },
   {
     "사건번호": "2024타경85144",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2349920&chkNo=1&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2349920&chkNo=15&TotNo=20",
     "주소": "경기 구리시 수택동 419-21, 14층1402호 (수택동,구리더케이타워) 외 3필지",
     "면적": "22.35㎡(6.761평)",
     "사용승인일": "2020-09-16",
@@ -727,7 +419,7 @@
   },
   {
     "사건번호": "2024타경144067",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2359981&chkNo=6&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2359981&chkNo=20&TotNo=20",
     "주소": "서울 금천구 독산동 962-42, 제8층 제801호 (독산동, 더뷰) 외 1필지",
     "면적": "37.42㎡(11.32평)",
     "사용승인일": "2020-02-28",
@@ -738,7 +430,7 @@
   },
   {
     "사건번호": "2025타경9697(3)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2490631&chkNo=10&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2490631&chkNo=4&TotNo=20",
     "주소": "서울특별시 금천구 가산동 140-17 한강 제1동 제7층 제703호 외 1필지",
     "면적": "19.92㎡(6.026평)",
     "사용승인일": "2021-08-18",
@@ -749,7 +441,7 @@
   },
   {
     "사건번호": "2025타경9697(4)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2490632&chkNo=11&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2490632&chkNo=5&TotNo=20",
     "주소": "서울특별시 금천구 가산동 140-17 한강 제1동 제7층 제704호 외 1필지",
     "면적": "20.35㎡(6.156평)",
     "사용승인일": "2021-08-18",
@@ -760,7 +452,7 @@
   },
   {
     "사건번호": "2025타경9697(5)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2490633&chkNo=12&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2490633&chkNo=6&TotNo=20",
     "주소": "서울특별시 금천구 가산동 140-17 한강 제1동 제8층 제804호 외 1필지",
     "면적": "20.35㎡(6.156평)",
     "사용승인일": "2021-08-18",
@@ -771,7 +463,7 @@
   },
   {
     "사건번호": "2025타경9697(6)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2490634&chkNo=13&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2490634&chkNo=7&TotNo=20",
     "주소": "서울특별시 금천구 가산동 140-17 한강 제1동 제9층 제903호 외 1필지",
     "면적": "19.92㎡(6.026평)",
     "사용승인일": "2021-08-18",
@@ -782,7 +474,7 @@
   },
   {
     "사건번호": "2025타경9697(7)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2490635&chkNo=14&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2490635&chkNo=8&TotNo=20",
     "주소": "서울특별시 금천구 가산동 140-17 한강 제1동 제10층 제1004호 외 1필지",
     "면적": "20.35㎡(6.156평)",
     "사용승인일": "2021-08-18",
@@ -793,7 +485,7 @@
   },
   {
     "사건번호": "2025타경9697(8)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2490636&chkNo=15&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2490636&chkNo=9&TotNo=20",
     "주소": "서울특별시 금천구 가산동 140-76 비엔더포레  제9층 제903호",
     "면적": "19.77㎡(5.98평)",
     "사용승인일": "2021-08-18",
@@ -804,7 +496,7 @@
   },
   {
     "사건번호": "2025타경9697(9)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2490637&chkNo=16&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2490637&chkNo=10&TotNo=20",
     "주소": "서울특별시 금천구 가산동 140-76 비엔더포레  제9층 제904호",
     "면적": "19.77㎡(5.98평)",
     "사용승인일": "2021-08-18",
@@ -815,7 +507,7 @@
   },
   {
     "사건번호": "2025타경34159",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2437118&chkNo=19&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2437118&chkNo=13&TotNo=20",
     "주소": "경기도 김포시 구래동 6871-58 스위트엠아크라시티1차  2층217호",
     "면적": "20.2881㎡(6.137평)",
     "사용승인일": "2020-01-22",
@@ -826,7 +518,7 @@
   },
   {
     "사건번호": "2025타경100082",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2368478&chkNo=3&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2368478&chkNo=17&TotNo=20",
     "주소": "서울 관악구 신림동 1568-5, 3층303호 (신림동,더위일관악파크뷰) 외 1필지",
     "면적": "19.97㎡(6.041평)",
     "사용승인일": "2021-12-13",
@@ -837,7 +529,7 @@
   },
   {
     "사건번호": "2025타경101382",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377224&chkNo=4&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377224&chkNo=18&TotNo=20",
     "주소": "서울 관악구 신림동 1568-5, 6층601호 (신림동,더위일관악파크뷰) 외 1필지",
     "면적": "18.86㎡(5.705평)",
     "사용승인일": "2021-12-13",
@@ -848,7 +540,7 @@
   },
   {
     "사건번호": "2025타경102130",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377241&chkNo=5&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377241&chkNo=19&TotNo=20",
     "주소": "서울특별시 관악구 신림동 529-15  2층201호",
     "면적": "17.08㎡(5.167평)",
     "사용승인일": "2020-04-02",
@@ -859,7 +551,7 @@
   },
   {
     "사건번호": "2025타경102427",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2391432&chkNo=6&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2391432&chkNo=20&TotNo=20",
     "주소": "서울특별시 동작구 상도1동 519-1 더포레스트  4층407호",
     "면적": "13.27㎡(4.014평)",
     "사용승인일": "2021-12-10",
@@ -870,7 +562,7 @@
   },
   {
     "사건번호": "2025타경102642",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2397516&chkNo=7&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2397516&chkNo=1&TotNo=20",
     "주소": "서울특별시 관악구 신림동 1568-5 더위일관악파크뷰  12층1210호 외 1필지",
     "면적": "19.97㎡(6.041평)",
     "사용승인일": "2021-12-13",
@@ -881,7 +573,7 @@
   },
   {
     "사건번호": "2023타경61278(8)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2506891&chkNo=11&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2506891&chkNo=5&TotNo=20",
     "주소": "서울 강동구 천호동 167-73, 2층204호 (천호동,에스아이팰리스)",
     "면적": "17.48㎡(5.288평)",
     "사용승인일": "2020-10-14",
@@ -892,7 +584,7 @@
   },
   {
     "사건번호": "2023타경61278(9)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2506892&chkNo=12&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2506892&chkNo=6&TotNo=20",
     "주소": "서울 강동구 천호동 167-73, 5층508호 (천호동,에스아이팰리스)",
     "면적": "18.08㎡(5.469평)",
     "사용승인일": "2020-10-14",
@@ -903,7 +595,7 @@
   },
   {
     "사건번호": "2023타경61278(10)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2506893&chkNo=13&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2506893&chkNo=7&TotNo=20",
     "주소": "서울 강동구 천호동 167-73, 5층509호 (천호동,에스아이팰리스)",
     "면적": "17.48㎡(5.288평)",
     "사용승인일": "2020-10-14",
@@ -914,7 +606,7 @@
   },
   {
     "사건번호": "2023타경61278(11)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2506894&chkNo=14&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2506894&chkNo=8&TotNo=20",
     "주소": "서울 강동구 천호동 167-73, 6층606호 (천호동,에스아이팰리스)",
     "면적": "17.48㎡(5.288평)",
     "사용승인일": "2020-10-14",
@@ -925,7 +617,7 @@
   },
   {
     "사건번호": "2023타경61278(12)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2506895&chkNo=15&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2506895&chkNo=9&TotNo=20",
     "주소": "서울 강동구 천호동 167-73, 6층609호 (천호동,에스아이팰리스)",
     "면적": "17.48㎡(5.288평)",
     "사용승인일": "2020-10-14",
@@ -936,7 +628,7 @@
   },
   {
     "사건번호": "2023타경61278(15)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2506898&chkNo=16&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2506898&chkNo=10&TotNo=20",
     "주소": "서울 강동구 천호동 167-73, 2층207호 (천호동,에스아이팰리스)",
     "면적": "18.08㎡(5.469평)",
     "사용승인일": "2020-10-14",
@@ -947,7 +639,7 @@
   },
   {
     "사건번호": "2024타경7941",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2308837&chkNo=17&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2308837&chkNo=11&TotNo=20",
     "주소": "인천 미추홀구 주안동 285-1, 6층601호 (주안동,한스첼라타워) 외 5필지",
     "면적": "83.757㎡(25.336평)",
     "사용승인일": "2021-12-29",
@@ -958,7 +650,7 @@
   },
   {
     "사건번호": "2024타경50145(2)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2506879&chkNo=3&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2506879&chkNo=17&TotNo=20",
     "주소": "서울 강동구 천호동 167-73, 2층205호 (천호동,에스아이팰리스)",
     "면적": "17.48㎡(5.288평)",
     "사용승인일": "2020-10-14",
@@ -969,7 +661,7 @@
   },
   {
     "사건번호": "2024타경50145(5)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2506882&chkNo=4&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2506882&chkNo=18&TotNo=20",
     "주소": "서울 강동구 천호동 167-73, 5층506호 (천호동,에스아이팰리스)",
     "면적": "17.48㎡(5.288평)",
     "사용승인일": "2020-10-14",
@@ -980,7 +672,7 @@
   },
   {
     "사건번호": "2024타경56945",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2302692&chkNo=5&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2302692&chkNo=19&TotNo=20",
     "주소": "서울 송파구 송파동 85, 6층603호 (송파동,에스아이팰리스레이크잠실)",
     "면적": "16.975㎡(5.135평)",
     "사용승인일": "2021-07-30",
@@ -991,7 +683,7 @@
   },
   {
     "사건번호": "2024타경62672",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2319413&chkNo=6&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2319413&chkNo=20&TotNo=20",
     "주소": "경기 하남시 망월동 1143-1,  9층101-928호",
     "면적": "27.6236㎡(8.356평)",
     "사용승인일": "2020-11-16",
@@ -1002,7 +694,7 @@
   },
   {
     "사건번호": "2024타경63912",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2353967&chkNo=7&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2353967&chkNo=1&TotNo=20",
     "주소": "서울 강동구 천호동 167-73, 6층 607호 (천호동,에스아이팰리스)",
     "면적": "18.08㎡(5.469평)",
     "사용승인일": "2020-10-14",
@@ -1013,7 +705,7 @@
   },
   {
     "사건번호": "2024타경64410",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2359497&chkNo=8&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2359497&chkNo=2&TotNo=20",
     "주소": "서울 강동구 길동 350-3, 4층 402호 (길동,더힐스빌) 외 2필지",
     "면적": "42.88㎡(12.971평)",
     "사용승인일": "2020-04-06",
@@ -1024,7 +716,7 @@
   },
   {
     "사건번호": "2024타경72204(2)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2450967&chkNo=10&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2450967&chkNo=4&TotNo=20",
     "주소": "경기 하남시 망월동 1143-1, 4층101-465호 (망월동,미사강변 오벨리스크)",
     "면적": "22.7926㎡(6.895평)",
     "사용승인일": "2020-11-16",
@@ -1035,7 +727,7 @@
   },
   {
     "사건번호": "2025타경52903",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2447413&chkNo=9&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2447413&chkNo=1&TotNo=20",
     "주소": "경기도 성남시 중원구 성남동 3135 지앤느모란  4층408호",
     "면적": "21.42㎡(6.48평)",
     "사용승인일": "2020-04-28",
@@ -1046,7 +738,7 @@
   },
   {
     "사건번호": "2024타경36188",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2290279&chkNo=14&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2290279&chkNo=3&TotNo=20",
     "주소": "경기 김포시 풍무동 897, 5층515호 (풍무동,넘버원리치안)",
     "면적": "34.2477㎡(10.36평)",
     "사용승인일": "2020-02-11",
@@ -1057,7 +749,7 @@
   },
   {
     "사건번호": "2024타경45410",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2316842&chkNo=15&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2316842&chkNo=4&TotNo=20",
     "주소": "경기 부천시 원미구 춘의동 155-6, 4층 제2동 403호 (춘의동, 에쓰제이로얄팰리스)",
     "면적": "68.7969㎡(20.811평)",
     "사용승인일": "2020-11-13",
@@ -1068,7 +760,7 @@
   },
   {
     "사건번호": "2024타경63150",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2349387&chkNo=16&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2349387&chkNo=5&TotNo=20",
     "주소": "서울 은평구 응암동 354-3, 4층401호 (응암동,디우아르떼빌) 외 3필지",
     "면적": "59.43㎡(17.978평)",
     "사용승인일": "2020-03-24",
@@ -1079,7 +771,7 @@
   },
   {
     "사건번호": "2024타경63389",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2352914&chkNo=17&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2352914&chkNo=6&TotNo=20",
     "주소": "서울 은평구 신사동 29-160, 3층303호 (신사동,에스엠벨리체) 외 1필지",
     "면적": "40.43㎡(12.23평)",
     "사용승인일": "2020-10-20",
@@ -1090,7 +782,7 @@
   },
   {
     "사건번호": "2024타경99626",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2357866&chkNo=4&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2357866&chkNo=13&TotNo=20",
     "주소": "경기 화성시 병점동 376-11, 18층1801호 (병점동,병점역써밋프라움비동)",
     "면적": "24.12㎡(7.296평)",
     "사용승인일": "2020-11-13",
@@ -1101,7 +793,7 @@
   },
   {
     "사건번호": "2024타경100182(1)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2360070&chkNo=5&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2360070&chkNo=14&TotNo=20",
     "주소": "경기 화성시 병점동 376-11, 5층502호 (병점동,병점역써밋프라움에이동)",
     "면적": "28.2904㎡(8.558평)",
     "사용승인일": "2020-11-13",
@@ -1112,7 +804,7 @@
   },
   {
     "사건번호": "2024타경100182(3)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2453881&chkNo=6&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2453881&chkNo=15&TotNo=20",
     "주소": "경기 화성시 병점동 376-11, 5층514호 (병점동,병점역써밋프라움에이동)",
     "면적": "24.12㎡(7.296평)",
     "사용승인일": "2020-11-13",
@@ -1123,7 +815,7 @@
   },
   {
     "사건번호": "2024타경100182(4)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2453882&chkNo=7&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2453882&chkNo=16&TotNo=20",
     "주소": "경기 화성시 병점동 376-11, 5층505호 (병점동,병점역써밋프라움비동)",
     "면적": "24.12㎡(7.296평)",
     "사용승인일": "2020-11-13",
@@ -1134,7 +826,7 @@
   },
   {
     "사건번호": "2024타경100182(5)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2453883&chkNo=8&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2453883&chkNo=17&TotNo=20",
     "주소": "경기 화성시 병점동 376-11, 5층513호 (병점동,병점역써밋프라움에이동)",
     "면적": "24.12㎡(7.296평)",
     "사용승인일": "2020-11-13",
@@ -1145,7 +837,7 @@
   },
   {
     "사건번호": "2024타경120669",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2345739&chkNo=12&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2345739&chkNo=1&TotNo=20",
     "주소": "서울 관악구 신림동 1474-15, 12층1202호 (신림동,몽삐에뜨골드)",
     "면적": "24.18㎡(7.314평)",
     "사용승인일": "2020-09-04",
@@ -1156,7 +848,7 @@
   },
   {
     "사건번호": "2024타경122883",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2307392&chkNo=13&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2307392&chkNo=2&TotNo=20",
     "주소": "서울 구로구 오류동 6-63, 제4층 제404호 (오류동, 루체비스타) 외 1필지",
     "면적": "40.73㎡(12.321평)",
     "사용승인일": "2020-03-20",
@@ -1167,7 +859,7 @@
   },
   {
     "사건번호": "2024타경125039",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2365557&chkNo=14&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2365557&chkNo=3&TotNo=20",
     "주소": "서울 관악구 신림동 1437-19, 4층401호 (신림동,태양오피스텔)",
     "면적": "19.47㎡(5.89평)",
     "사용승인일": "2021-01-28",
@@ -1178,7 +870,7 @@
   },
   {
     "사건번호": "2024타경152006",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2367049&chkNo=16&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2367049&chkNo=5&TotNo=20",
     "주소": "서울 양천구 신월동 145-6, 제2층 제203호 (신월동, 에이엔타워)",
     "면적": "56.06㎡(16.958평)",
     "사용승인일": "2020-09-29",
@@ -1189,7 +881,7 @@
   },
   {
     "사건번호": "2025타경624",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2433608&chkNo=20&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2433608&chkNo=9&TotNo=20",
     "주소": "서울특별시 강서구 화곡동 1097-9 투웨니퍼스트강서마곡  제13층 제1303호",
     "면적": "15.76㎡(4.767평)",
     "사용승인일": "2021-09-16",
@@ -1200,7 +892,7 @@
   },
   {
     "사건번호": "2025타경935",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2382377&chkNo=1&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2382377&chkNo=10&TotNo=20",
     "주소": "경기도 용인시 기흥구 영덕동 974-2 흥덕리치안레이크타워  10층1001호",
     "면적": "23.46㎡(7.097평)",
     "사용승인일": "2023-07-10",
@@ -1211,7 +903,7 @@
   },
   {
     "사건번호": "2025타경12019",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2444831&chkNo=6&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2444831&chkNo=15&TotNo=20",
     "주소": "서울특별시 동대문구 장안동 146-18 동일타워  9층901호 외 1필지",
     "면적": "18.38㎡(5.56평)",
     "사용승인일": "2021-05-27",
@@ -1222,7 +914,7 @@
   },
   {
     "사건번호": "2025타경12139",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2397082&chkNo=7&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2397082&chkNo=16&TotNo=20",
     "주소": "서울특별시 동대문구 장안동 146-18 동일타워  9층907호 외 1필지",
     "면적": "18.38㎡(5.56평)",
     "사용승인일": "2021-05-27",
@@ -1233,7 +925,7 @@
   },
   {
     "사건번호": "2025타경12759",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2420354&chkNo=10&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2420354&chkNo=19&TotNo=20",
     "주소": "서울특별시 동대문구 답십리동 243-6 써밋카운티  4층402호 외 3필지",
     "면적": "20.88㎡(6.316평)",
     "사용승인일": "2021-07-30",
@@ -1244,7 +936,7 @@
   },
   {
     "사건번호": "2025타경50434",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2370400&chkNo=18&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2370400&chkNo=7&TotNo=20",
     "주소": "서울 서대문구 북가좌동 273-8, 3층302호 (북가좌동,거성리젠시)",
     "면적": "84.35㎡(25.516평)",
     "사용승인일": "2020-11-10",
@@ -1255,7 +947,7 @@
   },
   {
     "사건번호": "2025타경51045",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377678&chkNo=20&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377678&chkNo=9&TotNo=20",
     "주소": "서울특별시 은평구 불광동 281-110 샹그리라 비동 7층702호",
     "면적": "25.52㎡(7.72평)",
     "사용승인일": "2021-06-04",
@@ -1266,7 +958,7 @@
   },
   {
     "사건번호": "2025타경51227",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2392133&chkNo=1&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2392133&chkNo=10&TotNo=20",
     "주소": "서울특별시 은평구 응암동 599-38 위산엘리시움  6층601호",
     "면적": "29.27㎡(8.854평)",
     "사용승인일": "2021-11-25",
@@ -1277,7 +969,7 @@
   },
   {
     "사건번호": "2025타경51381",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2404005&chkNo=2&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2404005&chkNo=11&TotNo=20",
     "주소": "서울특별시 은평구 녹번동 176-4 마하나임  2층202호 외 1필지",
     "면적": "26.47㎡(8.007평)",
     "사용승인일": "2020-08-06",
@@ -1288,7 +980,7 @@
   },
   {
     "사건번호": "2025타경51392",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2402143&chkNo=3&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2402143&chkNo=12&TotNo=20",
     "주소": "서울특별시 은평구 응암동 84-4 에스엠벨리체 비동 5층502호 외 1필지",
     "면적": "41.04㎡(12.415평)",
     "사용승인일": "2021-04-05",
@@ -1298,19 +990,8 @@
     "특수조건": "임차권등기/대항력 있는 임차인"
   },
   {
-    "사건번호": "2025타경51458",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2409610&chkNo=4&TotNo=20",
-    "주소": "서울특별시 은평구 응암동 599-1 동건타워  5층505호",
-    "면적": "18㎡(5.445평)",
-    "사용승인일": "2022-04-14",
-    "최저가": "83,968,000",
-    "최저가율": "41%",
-    "평당가격": "15,394,133",
-    "특수조건": "임차권등기/대항력 있는 임차인"
-  },
-  {
     "사건번호": "2025타경51463",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2407644&chkNo=5&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2407644&chkNo=13&TotNo=20",
     "주소": "서울특별시 은평구 응암동 599-38 위산엘리시움  4층402호",
     "면적": "33.85㎡(10.24평)",
     "사용승인일": "2021-11-25",
@@ -1321,7 +1002,7 @@
   },
   {
     "사건번호": "2025타경51488",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2410069&chkNo=6&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2410069&chkNo=14&TotNo=20",
     "주소": "서울특별시 은평구 녹번동 176-4 마하나임  5층502호 외 1필지",
     "면적": "26.47㎡(8.007평)",
     "사용승인일": "2020-08-06",
@@ -1332,7 +1013,7 @@
   },
   {
     "사건번호": "2025타경51721",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2432676&chkNo=7&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2432676&chkNo=15&TotNo=20",
     "주소": "서울특별시 은평구 녹번동 176-4 마하나임  10층1002호 외 1필지",
     "면적": "28.27㎡(8.552평)",
     "사용승인일": "2020-08-06",
@@ -1343,7 +1024,7 @@
   },
   {
     "사건번호": "2025타경56026",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2407743&chkNo=8&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2407743&chkNo=16&TotNo=20",
     "주소": "경기도 용인시 처인구 포곡읍 둔전리 183 빌폴라리스 비동 2층203호",
     "면적": "45.94㎡(13.897평)",
     "사용승인일": "2021-03-17",
@@ -1354,7 +1035,7 @@
   },
   {
     "사건번호": "2025타경71240",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2379876&chkNo=9&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2379876&chkNo=17&TotNo=20",
     "주소": "경기도 남양주시 다산동 6073-2 다산안강럭스나인  9층945호",
     "면적": "18.522㎡(5.603평)",
     "사용승인일": "2020-12-09",
@@ -1365,7 +1046,7 @@
   },
   {
     "사건번호": "2025타경71919",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2411246&chkNo=10&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2411246&chkNo=18&TotNo=20",
     "주소": "경기도 양주시 삼숭동 185-1 리치빌비 5층 502호 외 2필지",
     "면적": "67.718㎡(20.485평)",
     "사용승인일": "2021-06-30",
@@ -1376,7 +1057,7 @@
   },
   {
     "사건번호": "2025타경73184",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2450574&chkNo=14&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2450574&chkNo=2&TotNo=20",
     "주소": "경기도 양주시 회정동 393 웰리치타운 2동 2층 201호 외 2필지",
     "면적": "83.0435㎡(25.121평)",
     "사용승인일": "2020-01-13",
@@ -1387,7 +1068,7 @@
   },
   {
     "사건번호": "2025타경100310",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2383749&chkNo=16&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2383749&chkNo=4&TotNo=20",
     "주소": "경기 군포시 대야미동 645-14, 5층503호 (대야미동,더웰대야미)",
     "면적": "52.435㎡(15.862평)",
     "사용승인일": "2020-11-27",
@@ -1398,7 +1079,7 @@
   },
   {
     "사건번호": "2025타경102948",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2411705&chkNo=18&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2411705&chkNo=6&TotNo=20",
     "주소": "서울특별시 관악구 신림동 1437-19 태양오피스텔  3층308호",
     "면적": "16.45㎡(4.976평)",
     "사용승인일": "2021-01-28",
@@ -1409,7 +1090,7 @@
   },
   {
     "사건번호": "2025타경510741",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2432762&chkNo=20&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2432762&chkNo=8&TotNo=20",
     "주소": "인천광역시 미추홀구 주안동 695-10 브릴리언트  8층801호 외 1필지",
     "면적": "84.14㎡(25.452평)",
     "사용승인일": "2021-02-10",
@@ -1420,7 +1101,7 @@
   },
   {
     "사건번호": "2023타경59935",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2184679&chkNo=1&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2184679&chkNo=9&TotNo=20",
     "주소": "경기 수원시 권선구 금곡동 1118-3, 9층914호 (금곡동,커낼파크)",
     "면적": "30.4072㎡(9.198평)",
     "사용승인일": "2020-05-15",
@@ -1431,7 +1112,7 @@
   },
   {
     "사건번호": "2024타경74907",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2313389&chkNo=4&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2313389&chkNo=12&TotNo=20",
     "주소": "경기 고양시 덕양구 도내동 951, 14층1419호 (도내동,힐사이드파크1차)",
     "면적": "22.32㎡(6.752평)",
     "사용승인일": "2021-06-29",
@@ -1442,7 +1123,7 @@
   },
   {
     "사건번호": "2024타경86573(1)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2359998&chkNo=8&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2359998&chkNo=16&TotNo=20",
     "주소": "경기 파주시 와동동 1498, 7층722호 (와동동,힐데스하임케멜라스)",
     "면적": "18.3433㎡(5.549평)",
     "사용승인일": "2020-11-25",
@@ -1453,7 +1134,7 @@
   },
   {
     "사건번호": "2024타경86573(2)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2446222&chkNo=9&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2446222&chkNo=17&TotNo=20",
     "주소": "경기 파주시 와동동 1498, 9층925호 (와동동,힐데스하임케멜라스)",
     "면적": "18.3433㎡(5.549평)",
     "사용승인일": "2020-11-25",
@@ -1464,7 +1145,7 @@
   },
   {
     "사건번호": "2024타경97910(28)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513919&chkNo=11&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513919&chkNo=19&TotNo=20",
     "주소": "경기 수원시 권선구 권선동 1011-16, 7층701호",
     "면적": "25.38㎡(7.677평)",
     "사용승인일": "2021-01-14",
@@ -1475,7 +1156,7 @@
   },
   {
     "사건번호": "2024타경97910(29)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513920&chkNo=12&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513920&chkNo=20&TotNo=20",
     "주소": "경기 수원시 권선구 권선동 1011-16, 7층702호",
     "면적": "25.38㎡(7.677평)",
     "사용승인일": "2021-01-14",
@@ -1486,7 +1167,7 @@
   },
   {
     "사건번호": "2024타경97910(30)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513921&chkNo=13&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513921&chkNo=1&TotNo=20",
     "주소": "경기 수원시 권선구 권선동 1011-16, 7층703호",
     "면적": "25.38㎡(7.677평)",
     "사용승인일": "2021-01-14",
@@ -1497,7 +1178,7 @@
   },
   {
     "사건번호": "2024타경97910(31)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513922&chkNo=14&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513922&chkNo=2&TotNo=20",
     "주소": "경기 수원시 권선구 권선동 1011-16, 7층704호",
     "면적": "25.38㎡(7.677평)",
     "사용승인일": "2021-01-14",
@@ -1508,7 +1189,7 @@
   },
   {
     "사건번호": "2024타경97910(32)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513923&chkNo=15&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513923&chkNo=3&TotNo=20",
     "주소": "경기 수원시 권선구 권선동 1011-16, 7층705호",
     "면적": "23.4㎡(7.078평)",
     "사용승인일": "2021-01-14",
@@ -1519,7 +1200,7 @@
   },
   {
     "사건번호": "2024타경97910(33)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513924&chkNo=16&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513924&chkNo=4&TotNo=20",
     "주소": "경기 수원시 권선구 권선동 1011-16, 7층706호",
     "면적": "23.4㎡(7.078평)",
     "사용승인일": "2021-01-14",
@@ -1530,7 +1211,7 @@
   },
   {
     "사건번호": "2024타경97910(34)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513925&chkNo=17&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513925&chkNo=5&TotNo=20",
     "주소": "경기 수원시 권선구 권선동 1011-16, 7층707호",
     "면적": "31.48㎡(9.523평)",
     "사용승인일": "2021-01-14",
@@ -1541,7 +1222,7 @@
   },
   {
     "사건번호": "2024타경97910(35)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513926&chkNo=18&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513926&chkNo=6&TotNo=20",
     "주소": "경기 수원시 권선구 권선동 1011-16, 8층801호",
     "면적": "25.38㎡(7.677평)",
     "사용승인일": "2021-01-14",
@@ -1552,7 +1233,7 @@
   },
   {
     "사건번호": "2024타경97910(36)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513927&chkNo=19&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513927&chkNo=7&TotNo=20",
     "주소": "경기 수원시 권선구 권선동 1011-16, 8층802호",
     "면적": "25.38㎡(7.677평)",
     "사용승인일": "2021-01-14",
@@ -1563,7 +1244,7 @@
   },
   {
     "사건번호": "2024타경97910(37)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513928&chkNo=20&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513928&chkNo=8&TotNo=20",
     "주소": "경기 수원시 권선구 권선동 1011-16, 8층803호",
     "면적": "25.38㎡(7.677평)",
     "사용승인일": "2021-01-14",
@@ -1574,7 +1255,7 @@
   },
   {
     "사건번호": "2024타경97910(38)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513929&chkNo=1&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513929&chkNo=9&TotNo=20",
     "주소": "경기 수원시 권선구 권선동 1011-16, 8층804호",
     "면적": "25.38㎡(7.677평)",
     "사용승인일": "2021-01-14",
@@ -1585,7 +1266,7 @@
   },
   {
     "사건번호": "2024타경97910(39)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513930&chkNo=2&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513930&chkNo=10&TotNo=20",
     "주소": "경기 수원시 권선구 권선동 1011-16, 8층805호",
     "면적": "23.4㎡(7.078평)",
     "사용승인일": "2021-01-14",
@@ -1596,7 +1277,7 @@
   },
   {
     "사건번호": "2024타경97910(40)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513931&chkNo=3&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513931&chkNo=11&TotNo=20",
     "주소": "경기 수원시 권선구 권선동 1011-16, 8층806호",
     "면적": "23.4㎡(7.078평)",
     "사용승인일": "2021-01-14",
@@ -1607,7 +1288,7 @@
   },
   {
     "사건번호": "2024타경97910(41)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513932&chkNo=4&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513932&chkNo=12&TotNo=20",
     "주소": "경기 수원시 권선구 권선동 1011-16, 8층807호",
     "면적": "31.48㎡(9.523평)",
     "사용승인일": "2021-01-14",
@@ -1618,7 +1299,7 @@
   },
   {
     "사건번호": "2024타경97910(42)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513933&chkNo=5&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513933&chkNo=13&TotNo=20",
     "주소": "경기 수원시 권선구 권선동 1011-16, 9층901호",
     "면적": "25.38㎡(7.677평)",
     "사용승인일": "2021-01-14",
@@ -1629,7 +1310,7 @@
   },
   {
     "사건번호": "2024타경97910(43)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513934&chkNo=6&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513934&chkNo=14&TotNo=20",
     "주소": "경기 수원시 권선구 권선동 1011-16, 9층902호",
     "면적": "25.38㎡(7.677평)",
     "사용승인일": "2021-01-14",
@@ -1640,7 +1321,7 @@
   },
   {
     "사건번호": "2024타경97910(44)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513935&chkNo=7&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513935&chkNo=15&TotNo=20",
     "주소": "경기 수원시 권선구 권선동 1011-16, 9층903호",
     "면적": "25.38㎡(7.677평)",
     "사용승인일": "2021-01-14",
@@ -1651,7 +1332,7 @@
   },
   {
     "사건번호": "2024타경97910(45)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513936&chkNo=8&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513936&chkNo=16&TotNo=20",
     "주소": "경기 수원시 권선구 권선동 1011-16, 9층904호",
     "면적": "25.38㎡(7.677평)",
     "사용승인일": "2021-01-14",
@@ -1662,7 +1343,7 @@
   },
   {
     "사건번호": "2024타경97910(46)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513937&chkNo=9&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513937&chkNo=17&TotNo=20",
     "주소": "경기 수원시 권선구 권선동 1011-16, 9층905호",
     "면적": "23.4㎡(7.078평)",
     "사용승인일": "2021-01-14",
@@ -1673,7 +1354,7 @@
   },
   {
     "사건번호": "2024타경97910(47)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513938&chkNo=10&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513938&chkNo=18&TotNo=20",
     "주소": "경기 수원시 권선구 권선동 1011-16, 9층906호",
     "면적": "26.94㎡(8.149평)",
     "사용승인일": "2021-01-14",
@@ -1684,7 +1365,7 @@
   },
   {
     "사건번호": "2024타경99794",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2360077&chkNo=11&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2360077&chkNo=19&TotNo=20",
     "주소": "경기 오산시 세교동 597-4, 6층614호 (세교동,세마엠시티)",
     "면적": "19.0014㎡(5.748평)",
     "사용승인일": "2020-08-20",
@@ -1695,7 +1376,7 @@
   },
   {
     "사건번호": "2024타경124548",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2359491&chkNo=12&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2359491&chkNo=20&TotNo=20",
     "주소": "서울 동작구 상도1동 519-1, 2층202호 (상도1동,더포레스트)",
     "면적": "12.72㎡(3.848평)",
     "사용승인일": "2021-12-10",
@@ -1705,19 +1386,8 @@
     "특수조건": "임차권등기/대항력 있는 임차인"
   },
   {
-    "사건번호": "2024타경149420",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2362506&chkNo=14&TotNo=20",
-    "주소": "서울 강서구 방화동 612, 제102동 제6층 제602호 (방화동, 마곡킹덤펜타리움) 외 3필지",
-    "면적": "23.8㎡(7.2평)",
-    "사용승인일": "2021-01-08",
-    "최저가": "95,846,000",
-    "최저가율": "41%",
-    "평당가격": "13,289,571",
-    "특수조건": "임차권등기/대항력 있는 임차인"
-  },
-  {
     "사건번호": "2025타경2584",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2439630&chkNo=16&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2439630&chkNo=3&TotNo=20",
     "주소": "서울특별시 동작구 노량진동 266-4 한강큐브스테이트  5층507호",
     "면적": "19.75㎡(5.974평)",
     "사용승인일": "2021-05-21",
@@ -1728,7 +1398,7 @@
   },
   {
     "사건번호": "2025타경4899",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2448209&chkNo=17&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2448209&chkNo=4&TotNo=20",
     "주소": "경기도 고양시 덕양구 향동동 523 디엠씨스타허브플러스  6층608호",
     "면적": "33.8625㎡(10.243평)",
     "사용승인일": "2022-09-05",
@@ -1739,7 +1409,7 @@
   },
   {
     "사건번호": "2025타경10644",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2422177&chkNo=19&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2422177&chkNo=6&TotNo=20",
     "주소": "서울특별시 금천구 독산동 335-23 유원블리스독산 제102동 제2층 제203호",
     "면적": "22.04㎡(6.667평)",
     "사용승인일": "2022-04-18",
@@ -1750,7 +1420,7 @@
   },
   {
     "사건번호": "2025타경10874",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2427243&chkNo=20&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2427243&chkNo=7&TotNo=20",
     "주소": "서울특별시 강서구 화곡동 916-7 혜성오피스텔  제6층 제603호",
     "면적": "29.67㎡(8.975평)",
     "사용승인일": "2021-02-18",
@@ -1761,7 +1431,7 @@
   },
   {
     "사건번호": "2025타경11019",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2429221&chkNo=1&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2429221&chkNo=8&TotNo=20",
     "주소": "서울특별시 영등포구 영등포동1가 121-3 명남더블레스  제10층 제1011호",
     "면적": "18.24㎡(5.518평)",
     "사용승인일": "2021-01-26",
@@ -1772,7 +1442,7 @@
   },
   {
     "사건번호": "2025타경11131",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2431048&chkNo=2&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2431048&chkNo=9&TotNo=20",
     "주소": "서울특별시 금천구 독산동 336-8 미림에이클래스 제101동 제7층 제703호 외 1필지",
     "면적": "27.18㎡(8.222평)",
     "사용승인일": "2021-06-04",
@@ -1783,7 +1453,7 @@
   },
   {
     "사건번호": "2025타경50789",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2369642&chkNo=7&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2369642&chkNo=14&TotNo=20",
     "주소": "경기 용인시 기흥구 마북동 519, 3층314호 (마북동,플랫폼시티아이브주건축물제1동)",
     "면적": "20.09㎡(6.077평)",
     "사용승인일": "2021-04-15",
@@ -1794,7 +1464,7 @@
   },
   {
     "사건번호": "2025타경64073(3)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2448213&chkNo=9&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2448213&chkNo=16&TotNo=20",
     "주소": "경기도 파주시 야당동 1056-3 이더펠리체  4층418호",
     "면적": "20.029㎡(6.059평)",
     "사용승인일": "2021-01-14",
@@ -1805,7 +1475,7 @@
   },
   {
     "사건번호": "2025타경71494",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2379231&chkNo=10&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2379231&chkNo=17&TotNo=20",
     "주소": "경기도 양주시 삼숭동 185-1 리치빌비  7층701호 외 2필지",
     "면적": "58.898㎡(17.817평)",
     "사용승인일": "2021-06-30",
@@ -1816,7 +1486,7 @@
   },
   {
     "사건번호": "2025타경101405",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2372849&chkNo=12&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2372849&chkNo=19&TotNo=20",
     "주소": "서울 관악구 신림동 1568-5, 14층1407호 (신림동,더위일관악파크뷰) 외 1필지",
     "면적": "17.3㎡(5.233평)",
     "사용승인일": "2021-12-13",
@@ -1827,7 +1497,7 @@
   },
   {
     "사건번호": "2025타경102122",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377344&chkNo=13&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377344&chkNo=20&TotNo=20",
     "주소": "서울특별시 관악구 신림동 1568-5 더위일관악파크뷰  10층1007호 외 1필지",
     "면적": "17.3㎡(5.233평)",
     "사용승인일": "2021-12-13",
@@ -1838,7 +1508,7 @@
   },
   {
     "사건번호": "2023타경117260",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2243330&chkNo=15&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2243330&chkNo=2&TotNo=20",
     "주소": "서울 관악구 신림동 1474-15, 3층303호 (신림동,몽삐에뜨골드)",
     "면적": "24.18㎡(7.314평)",
     "사용승인일": "2020-09-04",
@@ -1849,7 +1519,7 @@
   },
   {
     "사건번호": "2024타경125893",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2365979&chkNo=18&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2365979&chkNo=3&TotNo=20",
     "주소": "서울 중구 오장동 145-1, 4층414호 (오장동,오렌지카운티을지로)",
     "면적": "21.12㎡(6.389평)",
     "사용승인일": "2020-08-20",
@@ -1860,7 +1530,7 @@
   },
   {
     "사건번호": "2024타경505827",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2258926&chkNo=20&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2258926&chkNo=5&TotNo=20",
     "주소": "인천 미추홀구 숭의동 33-38, 101동 2층205호",
     "면적": "59.009㎡(17.85평)",
     "사용승인일": "2020-12-31",
@@ -1871,7 +1541,7 @@
   },
   {
     "사건번호": "2025타경522(1)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2414286&chkNo=1&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2414286&chkNo=6&TotNo=20",
     "주소": "서울특별시 금천구 가산동 237-8 킹캐슬2차  제11층 제1102호",
     "면적": "23.01㎡(6.961평)",
     "사용승인일": "2021-09-14",
@@ -1882,7 +1552,7 @@
   },
   {
     "사건번호": "2025타경522(2)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2494430&chkNo=2&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2494430&chkNo=7&TotNo=20",
     "주소": "서울특별시 금천구 가산동 237-8 킹캐슬2차  제2층 제201호",
     "면적": "21.91㎡(6.628평)",
     "사용승인일": "2021-09-14",
@@ -1893,7 +1563,7 @@
   },
   {
     "사건번호": "2025타경522(3)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2494431&chkNo=3&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2494431&chkNo=8&TotNo=20",
     "주소": "서울특별시 금천구 독산동 301-23 미림에이클래스13차  제10층 제1005호",
     "면적": "29.74㎡(8.996평)",
     "사용승인일": "2021-01-15",
@@ -1904,7 +1574,7 @@
   },
   {
     "사건번호": "2025타경522(4)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2494432&chkNo=4&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2494432&chkNo=9&TotNo=20",
     "주소": "서울특별시 금천구 독산동 301-23 미림에이클래스13차  제10층 제1001호",
     "면적": "29.74㎡(8.996평)",
     "사용승인일": "2021-01-15",
@@ -1915,7 +1585,7 @@
   },
   {
     "사건번호": "2025타경522(5)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2494433&chkNo=5&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2494433&chkNo=10&TotNo=20",
     "주소": "서울특별시 금천구 독산동 301-23 미림에이클래스13차  제7층 제701호",
     "면적": "29.74㎡(8.996평)",
     "사용승인일": "2021-01-15",
@@ -1926,7 +1596,7 @@
   },
   {
     "사건번호": "2025타경522(6)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2494434&chkNo=6&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2494434&chkNo=11&TotNo=20",
     "주소": "서울특별시 금천구 독산동 332-20 킹캐슬3차  제8층 제805호",
     "면적": "21.9㎡(6.625평)",
     "사용승인일": "2021-10-12",
@@ -1937,7 +1607,7 @@
   },
   {
     "사건번호": "2025타경522(7)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2494435&chkNo=7&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2494435&chkNo=12&TotNo=20",
     "주소": "서울특별시 금천구 독산동 332-20 킹캐슬3차  제3층 제305호",
     "면적": "21.9㎡(6.625평)",
     "사용승인일": "2021-10-12",
@@ -1948,7 +1618,7 @@
   },
   {
     "사건번호": "2025타경522(8)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2494436&chkNo=8&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2494436&chkNo=13&TotNo=20",
     "주소": "서울특별시 금천구 독산동 332-20 킹캐슬3차  제7층 제706호",
     "면적": "19.77㎡(5.98평)",
     "사용승인일": "2021-10-12",
@@ -1959,7 +1629,7 @@
   },
   {
     "사건번호": "2025타경11175",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2433615&chkNo=9&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2433615&chkNo=14&TotNo=20",
     "주소": "서울특별시 강서구 화곡동 987-7 원타워5차오피스텔  제2층 제205호 외 2필지",
     "면적": "17.04㎡(5.155평)",
     "사용승인일": "2021-12-28",
@@ -1970,7 +1640,7 @@
   },
   {
     "사건번호": "2025타경11889",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2448171&chkNo=11&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2448171&chkNo=16&TotNo=20",
     "주소": "서울특별시 영등포구 영등포동2가 94-319 와이에이치빌리지  제6층 제607호",
     "면적": "17.25㎡(5.218평)",
     "사용승인일": "2020-04-28",
@@ -1980,19 +1650,8 @@
     "특수조건": "임차권등기/대항력 있는 임차인"
   },
   {
-    "사건번호": "2025타경33206",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2398046&chkNo=17&TotNo=20",
-    "주소": "경기도 김포시 구래동 6871-41 김포더럭스나인오피스텔 에이동 4층485호",
-    "면적": "26.32㎡(7.962평)",
-    "사용승인일": "2020-01-17",
-    "최저가": "62,720,000",
-    "최저가율": "49%",
-    "평당가격": "7,863,830",
-    "특수조건": ""
-  },
-  {
     "사건번호": "2025타경33586",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2412566&chkNo=18&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2412566&chkNo=2&TotNo=20",
     "주소": "경기도 부천시 소사구 심곡본동 666-4 코모도타워  5층516호",
     "면적": "36㎡(10.89평)",
     "사용승인일": "2021-01-22",
@@ -2003,7 +1662,7 @@
   },
   {
     "사건번호": "2025타경34066",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2435943&chkNo=19&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2435943&chkNo=3&TotNo=20",
     "주소": "경기도 김포시 구래동 6871-46 스위트엠아크라시티2차 비동 7층717호",
     "면적": "20.659㎡(6.249평)",
     "사용승인일": "2020-02-10",
@@ -2014,7 +1673,7 @@
   },
   {
     "사건번호": "2025타경62856",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2396777&chkNo=1&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2396777&chkNo=5&TotNo=20",
     "주소": "경기도 파주시 와동동 1454-2 운정클래스원  17층1708호",
     "면적": "19.195㎡(5.806평)",
     "사용승인일": "2024-02-01",
@@ -2025,7 +1684,7 @@
   },
   {
     "사건번호": "2025타경101412",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2373446&chkNo=2&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2373446&chkNo=6&TotNo=20",
     "주소": "서울 관악구 신림동 1568-5, 7층701호 (신림동,더위일관악파크뷰) 외 1필지",
     "면적": "18.86㎡(5.705평)",
     "사용승인일": "2021-12-13",
@@ -2036,7 +1695,7 @@
   },
   {
     "사건번호": "2025타경102187",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377380&chkNo=3&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377380&chkNo=7&TotNo=20",
     "주소": "서울특별시 관악구 신림동 1568-5 더위일관악파크뷰  4층408호 외 1필지",
     "면적": "17.3㎡(5.233평)",
     "사용승인일": "2021-12-13",
@@ -2047,7 +1706,7 @@
   },
   {
     "사건번호": "2025타경102202",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377381&chkNo=4&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377381&chkNo=8&TotNo=20",
     "주소": "서울특별시 관악구 신림동 1568-5 더위일관악파크뷰  9층908호 외 1필지",
     "면적": "17.3㎡(5.233평)",
     "사용승인일": "2021-12-13",
@@ -2058,7 +1717,7 @@
   },
   {
     "사건번호": "2025타경51195",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2382397&chkNo=7&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2382397&chkNo=11&TotNo=20",
     "주소": "경기 수원시 권선구 금곡동 1118-3, 5층510호 (금곡동,커낼파크)",
     "면적": "36.8847㎡(11.158평)",
     "사용승인일": "2020-05-15",
@@ -2069,7 +1728,7 @@
   },
   {
     "사건번호": "2025타경508341",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2393496&chkNo=9&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2393496&chkNo=13&TotNo=20",
     "주소": "인천광역시 서구 원당동 1035-1 라페온빌2차  9층903호",
     "면적": "22.58㎡(6.83평)",
     "사용승인일": "2023-08-28",
@@ -2080,7 +1739,7 @@
   },
   {
     "사건번호": "2025타경54810",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2382517&chkNo=11&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2382517&chkNo=15&TotNo=20",
     "주소": "경기도 수원시 권선구 금곡동 1118-4 호매실더리브스타일  10층1026호",
     "면적": "30.33㎡(9.175평)",
     "사용승인일": "2021-02-01",
@@ -2091,7 +1750,7 @@
   },
   {
     "사건번호": "2023타경126437",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2245416&chkNo=15&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2245416&chkNo=1&TotNo=20",
     "주소": "서울 강서구 화곡동 1105-3, 제16층 제1603호 (화곡동, 우장산자하클래식)",
     "면적": "27.59㎡(8.346평)",
     "사용승인일": "2020-08-28",
@@ -2102,7 +1761,7 @@
   },
   {
     "사건번호": "2024타경1485",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2310242&chkNo=16&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2310242&chkNo=2&TotNo=20",
     "주소": "경기 군포시 금정동 47-24, 5층 504호 (금정동,우진아트리움)",
     "면적": "39.54㎡(11.961평)",
     "사용승인일": "2021-01-22",
@@ -2113,7 +1772,7 @@
   },
   {
     "사건번호": "2024타경41623",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2305403&chkNo=1&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2305403&chkNo=7&TotNo=20",
     "주소": "경기 부천시 소사구 송내동 572-8, 14층1403호 (송내동,에이치.비엘림캐슬)",
     "면적": "62.46㎡(18.894평)",
     "사용승인일": "2021-03-24",
@@ -2124,7 +1783,7 @@
   },
   {
     "사건번호": "2024타경54407",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2360448&chkNo=2&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2360448&chkNo=8&TotNo=20",
     "주소": "경기 부천시 소사구 심곡본동 666-4, 5층 508호 (심곡본동, 코모도타워)",
     "면적": "24.3㎡(7.351평)",
     "사용승인일": "2021-01-22",
@@ -2135,7 +1794,7 @@
   },
   {
     "사건번호": "2024타경61598",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2339778&chkNo=3&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2339778&chkNo=9&TotNo=20",
     "주소": "서울 은평구 응암동 676-20, 7층701호 (응암동,제니더플래인엣명지)",
     "면적": "40.15㎡(12.145평)",
     "사용승인일": "2021-01-07",
@@ -2146,7 +1805,7 @@
   },
   {
     "사건번호": "2024타경64689",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2363971&chkNo=5&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2363971&chkNo=11&TotNo=20",
     "주소": "서울 마포구 성산동 593-7, 7층714호 (성산동,마포상암시티프라디움리버)",
     "면적": "17.02㎡(5.149평)",
     "사용승인일": "2021-10-20",
@@ -2157,7 +1816,7 @@
   },
   {
     "사건번호": "2024타경105363",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2304015&chkNo=7&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2304015&chkNo=13&TotNo=20",
     "주소": "경기 군포시 당동 746-7, 9층904호 (당동,더원이숲라인) 외 2필지",
     "면적": "24.1579㎡(7.308평)",
     "사용승인일": "2020-02-12",
@@ -2168,7 +1827,7 @@
   },
   {
     "사건번호": "2024타경120408",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2349896&chkNo=13&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2349896&chkNo=19&TotNo=20",
     "주소": "서울 동대문구 용두동 144-31, 3층312호 (용두동,동대문베네스트2)",
     "면적": "21.275㎡(6.436평)",
     "사용승인일": "2022-01-25",
@@ -2179,7 +1838,7 @@
   },
   {
     "사건번호": "2024타경124388",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2361483&chkNo=14&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2361483&chkNo=20&TotNo=20",
     "주소": "서울 관악구 신림동 1437-19, 3층303호 (신림동,태양오피스텔)",
     "면적": "18.33㎡(5.545평)",
     "사용승인일": "2021-01-28",
@@ -2190,7 +1849,7 @@
   },
   {
     "사건번호": "2025타경1091(1)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2395506&chkNo=16&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2395506&chkNo=2&TotNo=20",
     "주소": "경기도 화성시 봉담읍 동화리 477-4 가동 1층101호 외 1필지",
     "면적": "66.82㎡(20.213평)",
     "사용승인일": "2023-05-22",
@@ -2201,7 +1860,7 @@
   },
   {
     "사건번호": "2025타경1091(10)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2512353&chkNo=17&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2512353&chkNo=3&TotNo=20",
     "주소": "경기도 화성시 봉담읍 동화리 477-4 나동 1층101호 외 1필지",
     "면적": "62.67㎡(18.958평)",
     "사용승인일": "2023-05-22",
@@ -2212,7 +1871,7 @@
   },
   {
     "사건번호": "2025타경12787",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2423513&chkNo=2&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2423513&chkNo=8&TotNo=20",
     "주소": "서울특별시 강북구 수유동 50-17 씨엘블루  제7층 제705호 외 2필지",
     "면적": "45.81㎡(13.858평)",
     "사용승인일": "2020-02-21",
@@ -2223,7 +1882,7 @@
   },
   {
     "사건번호": "2025타경50410",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2370807&chkNo=6&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2370807&chkNo=12&TotNo=20",
     "주소": "서울 은평구 응암동 84-4, 에이동 2층202호 (응암동,에스엠벨리체) 외 1필지",
     "면적": "39.64㎡(11.991평)",
     "사용승인일": "2021-04-05",
@@ -2234,7 +1893,7 @@
   },
   {
     "사건번호": "2025타경50997",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377805&chkNo=7&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377805&chkNo=13&TotNo=20",
     "주소": "서울특별시 은평구 신사동 20-29 명진하이빌  4층401호 외 1필지",
     "면적": "57.31㎡(17.336평)",
     "사용승인일": "2020-10-28",
@@ -2245,7 +1904,7 @@
   },
   {
     "사건번호": "2025타경51029",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377809&chkNo=8&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377809&chkNo=14&TotNo=20",
     "주소": "서울특별시 은평구 응암동 120-7 더어베인  4층403호 외 1필지",
     "면적": "38.51㎡(11.649평)",
     "사용승인일": "2020-03-09",
@@ -2256,7 +1915,7 @@
   },
   {
     "사건번호": "2025타경51043",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377812&chkNo=9&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377812&chkNo=15&TotNo=20",
     "주소": "서울특별시 은평구 불광동 281-110 샹그리라 비동 9층904호",
     "면적": "27.72㎡(8.385평)",
     "사용승인일": "2021-06-04",
@@ -2267,7 +1926,7 @@
   },
   {
     "사건번호": "2025타경51453",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2408194&chkNo=11&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2408194&chkNo=17&TotNo=20",
     "주소": "서울특별시 은평구 응암동 676-20 제니더플래인엣명지  8층802호",
     "면적": "39.43㎡(11.928평)",
     "사용승인일": "2021-01-07",
@@ -2278,7 +1937,7 @@
   },
   {
     "사건번호": "2025타경51557",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2419116&chkNo=12&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2419116&chkNo=18&TotNo=20",
     "주소": "서울특별시 은평구 응암동 599-38 위산엘리시움  4층401호",
     "면적": "29.27㎡(8.854평)",
     "사용승인일": "2021-11-25",
@@ -2289,7 +1948,7 @@
   },
   {
     "사건번호": "2025타경51645",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2430146&chkNo=13&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2430146&chkNo=19&TotNo=20",
     "주소": "서울특별시 은평구 응암동 599-1 동건타워  5층508호",
     "면적": "18㎡(5.445평)",
     "사용승인일": "2022-04-14",
@@ -2300,7 +1959,7 @@
   },
   {
     "사건번호": "2025타경52090",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2395134&chkNo=14&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2395134&chkNo=20&TotNo=20",
     "주소": "경기도 시흥시 장현동 671-5 시티프론트561더파이브  3층307호",
     "면적": "26.02㎡(7.871평)",
     "사용승인일": "2023-06-02",
@@ -2311,7 +1970,7 @@
   },
   {
     "사건번호": "2025타경52596",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2416596&chkNo=16&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2416596&chkNo=2&TotNo=20",
     "주소": "경기도 안산시 단원구 성곡동 848-8 안산엠티비타워오피스텔  9층909호",
     "면적": "19.94㎡(6.032평)",
     "사용승인일": "2022-08-22",
@@ -2322,7 +1981,7 @@
   },
   {
     "사건번호": "2025타경52980",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2435126&chkNo=17&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2435126&chkNo=3&TotNo=20",
     "주소": "경기도 안산시 단원구 성곡동 847-1 더스테이  29층2908호",
     "면적": "24.44㎡(7.393평)",
     "사용승인일": "2023-12-06",
@@ -2333,7 +1992,7 @@
   },
   {
     "사건번호": "2025타경63560",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2424837&chkNo=18&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2424837&chkNo=4&TotNo=20",
     "주소": "경기도 파주시 와동동 1498 힐데스하임케멜라스  4층442호",
     "면적": "18.3433㎡(5.549평)",
     "사용승인일": "2020-11-25",
@@ -2344,7 +2003,7 @@
   },
   {
     "사건번호": "2025타경72770",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2429269&chkNo=1&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2429269&chkNo=7&TotNo=20",
     "주소": "경기도 의정부시 의정부동 214-76 혜성루첸리  3층302호 외 2필지",
     "면적": "22.079㎡(6.679평)",
     "사용승인일": "2022-01-05",
@@ -2355,7 +2014,7 @@
   },
   {
     "사건번호": "2025타경100167",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2369674&chkNo=2&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2369674&chkNo=8&TotNo=20",
     "주소": "경기 안양시 만안구 안양동 391-32, 3층302호 (안양동,아이원팰리스)",
     "면적": "72.85㎡(22.037평)",
     "사용승인일": "2020-06-11",
@@ -2366,7 +2025,7 @@
   },
   {
     "사건번호": "2025타경100847",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2383886&chkNo=4&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2383886&chkNo=10&TotNo=20",
     "주소": "경기도 군포시 당동 746-7 더원이숲라인  5층504호 외 2필지",
     "면적": "24.1579㎡(7.308평)",
     "사용승인일": "2020-02-12",
@@ -2377,7 +2036,7 @@
   },
   {
     "사건번호": "2025타경103442",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2429691&chkNo=7&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2429691&chkNo=13&TotNo=20",
     "주소": "서울특별시 관악구 신림동 1568-5 더위일관악파크뷰  5층503호 외 1필지",
     "면적": "19.97㎡(6.041평)",
     "사용승인일": "2021-12-13",
@@ -2388,7 +2047,7 @@
   },
   {
     "사건번호": "2025타경103488",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2432668&chkNo=8&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2432668&chkNo=14&TotNo=20",
     "주소": "서울특별시 종로구 창신동 255-1  11층1105호 외 1필지",
     "면적": "15.59㎡(4.716평)",
     "사용승인일": "2021-05-28",
@@ -2399,7 +2058,7 @@
   },
   {
     "사건번호": "2025타경508853",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2418653&chkNo=14&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2418653&chkNo=2&TotNo=20",
     "주소": "인천광역시 미추홀구 숭의동 171-1 에코플러스  8층 804호",
     "면적": "73.36㎡(22.191평)",
     "사용승인일": "2021-08-12",
@@ -2410,7 +2069,7 @@
   },
   {
     "사건번호": "2025타경509812",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2414820&chkNo=9&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2414820&chkNo=17&TotNo=20",
     "주소": "인천광역시 미추홀구 도화동 391-9  11층1101호",
     "면적": "79.84㎡(24.152평)",
     "사용승인일": "2021-08-24",
@@ -2421,7 +2080,7 @@
   },
   {
     "사건번호": "2025타경510962",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2432324&chkNo=11&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2432324&chkNo=19&TotNo=20",
     "주소": "인천광역시 부평구 십정동 182-41 이클래스 101동 3층302호 외 2필지",
     "면적": "75.29㎡(22.775평)",
     "사용승인일": "2020-04-17",
@@ -2432,7 +2091,7 @@
   },
   {
     "사건번호": "2025타경511223",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2434656&chkNo=5&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2434656&chkNo=13&TotNo=20",
     "주소": "인천광역시 남동구 구월동 1147-1 캐슬베리  8층802호 외 1필지",
     "면적": "58.24㎡(17.618평)",
     "사용승인일": "2020-09-09",
@@ -2442,8 +2101,19 @@
     "특수조건": "임차권등기/HUG 임차권 인수조건변경"
   },
   {
+    "사건번호": "2024타경541274(6)",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2391999&chkNo=20&TotNo=20",
+    "주소": "인천 미추홀구 용현동 630-62, 6층601호",
+    "면적": "84.74㎡(25.634평)",
+    "사용승인일": "2023-06-14",
+    "최저가": "100,156,000",
+    "최저가율": "34.3%",
+    "평당가격": "3,900,340",
+    "특수조건": ""
+  },
+  {
     "사건번호": "2025타경2078",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2414805&chkNo=1&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2414805&chkNo=11&TotNo=20",
     "주소": "경기도 구리시 갈매동 520 외 1필지",
     "면적": "30.96㎡(9.365평)",
     "사용승인일": "2022-04-07",
@@ -2454,7 +2124,7 @@
   },
   {
     "사건번호": "2025타경55183",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2382500&chkNo=2&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2382500&chkNo=12&TotNo=20",
     "주소": "경기도 수원시 권선구 금곡동 1118-4 호매실더리브스타일  5층524호",
     "면적": "30.33㎡(9.175평)",
     "사용승인일": "2021-02-01",
@@ -2465,7 +2135,7 @@
   },
   {
     "사건번호": "2025타경55827",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2413884&chkNo=3&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2413884&chkNo=13&TotNo=20",
     "주소": "경기도 화성시 영천동 874 동탄역대방디엠시티더센텀 104동 11층1102호",
     "면적": "22.418㎡(6.781평)",
     "사용승인일": "2021-01-28",
@@ -2476,7 +2146,7 @@
   },
   {
     "사건번호": "2025타경71728",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2414318&chkNo=6&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2414318&chkNo=16&TotNo=20",
     "주소": "경기도 남양주시 금곡동 404-151 주건축물 1동 7층701호 외 4필지",
     "면적": "29.93㎡(9.054평)",
     "사용승인일": "2020-08-19",
@@ -2487,7 +2157,7 @@
   },
   {
     "사건번호": "2025타경507747",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2380901&chkNo=11&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2380901&chkNo=1&TotNo=20",
     "주소": "인천광역시 남동구 남촌동 624-3 제이케이루체스타지식산업센터  9층943호",
     "면적": "20.75㎡(6.277평)",
     "사용승인일": "2020-05-04",
@@ -2498,7 +2168,7 @@
   },
   {
     "사건번호": "2025타경508057",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2380256&chkNo=2&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2380256&chkNo=12&TotNo=20",
     "주소": "인천광역시 미추홀구 숭의동 33-38 101동 6층606호",
     "면적": "59.159㎡(17.896평)",
     "사용승인일": "2020-12-31",
@@ -2509,7 +2179,7 @@
   },
   {
     "사건번호": "2025타경509518",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2410156&chkNo=16&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2410156&chkNo=6&TotNo=20",
     "주소": "인천광역시 남동구 남촌동 624-3 제이케이루체스타지식산업센터  10층 1041호",
     "면적": "20.75㎡(6.277평)",
     "사용승인일": "2020-05-04",
@@ -2520,7 +2190,7 @@
   },
   {
     "사건번호": "2025타경510001",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2418649&chkNo=1&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2418649&chkNo=11&TotNo=20",
     "주소": "인천광역시 서구 석남동 509-1 힐스테이션  13층1303호",
     "면적": "58.088㎡(17.572평)",
     "사용승인일": "2020-02-03",
@@ -2531,7 +2201,7 @@
   },
   {
     "사건번호": "2025타경511927",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2443305&chkNo=12&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2443305&chkNo=2&TotNo=20",
     "주소": "인천광역시 남동구 구월동 1143-29 산토리니빌  6층603호",
     "면적": "55.1㎡(16.668평)",
     "사용승인일": "2020-07-08",
@@ -2542,7 +2212,7 @@
   },
   {
     "사건번호": "2025타경62716",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2411823&chkNo=1&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2411823&chkNo=11&TotNo=20",
     "주소": "경기도 고양시 덕양구 향동동 475 디엠씨스타팰리스  9층904호",
     "면적": "34.646㎡(10.48평)",
     "사용승인일": "2024-01-23",
@@ -2553,7 +2223,7 @@
   },
   {
     "사건번호": "2025타경62896",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2398465&chkNo=2&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2398465&chkNo=12&TotNo=20",
     "주소": "경기도 고양시 덕양구 원흥동 728 수아주위드펫  10층1013호",
     "면적": "29.991㎡(9.072평)",
     "사용승인일": "2023-10-04",
@@ -2564,7 +2234,7 @@
   },
   {
     "사건번호": "2025타경63923",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2438720&chkNo=3&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2438720&chkNo=13&TotNo=20",
     "주소": "경기도 고양시 덕양구 삼송동 294 힐스테이트삼송역스칸센(2블록)  10층202동1032호",
     "면적": "22.891㎡(6.925평)",
     "사용승인일": "2021-11-30",
@@ -2575,7 +2245,7 @@
   },
   {
     "사건번호": "2025타경64873",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2475463&chkNo=5&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2475463&chkNo=15&TotNo=20",
     "주소": "경기도 고양시 덕양구 원흥동 727 휴로스센트럴 302  10층1014호",
     "면적": "37.56㎡(11.362평)",
     "사용승인일": "2020-07-17",
@@ -2586,29 +2256,29 @@
   },
   {
     "사건번호": "2025타경64921",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2476048&chkNo=6&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2476048&chkNo=16&TotNo=20",
     "주소": "경기도 파주시 와동동 1433 운정역센트럴하이뷰  20층2012호",
     "면적": "19.65㎡(5.944평)",
     "사용승인일": "2021-01-08",
-    "최저가": "48,363,000",
-    "최저가율": "34.3%",
-    "평당가격": "8,122,031",
-    "특수조건": "임차권등기/대항력 있는 임차인"
+    "최저가": "141,000,000",
+    "최저가율": "100%",
+    "평당가격": "23,679,389",
+    "특수조건": "임차권등기/HUG 임차권 인수조건변경"
   },
   {
     "사건번호": "2025타경65039",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2479090&chkNo=7&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2479090&chkNo=17&TotNo=20",
     "주소": "경기도 파주시 와동동 1433 운정역센트럴하이뷰  11층1115호",
     "면적": "19.54㎡(5.911평)",
     "사용승인일": "2021-01-08",
-    "최저가": "61,250,000",
-    "최저가율": "49%",
-    "평당가격": "10,344,166",
-    "특수조건": "임차권등기/대항력 있는 임차인"
+    "최저가": "125,000,000",
+    "최저가율": "100%",
+    "평당가격": "21,110,542",
+    "특수조건": "임차권등기/HUG 임차권 인수조건변경"
   },
   {
     "사건번호": "2025타경102638",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2397036&chkNo=10&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2397036&chkNo=20&TotNo=20",
     "주소": "서울특별시 관악구 신림동 1568-5 더위일관악파크뷰  8층806호 외 1필지",
     "면적": "17.3㎡(5.233평)",
     "사용승인일": "2021-12-13",
@@ -2619,7 +2289,7 @@
   },
   {
     "사건번호": "2024타경90155",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2336521&chkNo=11&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2336521&chkNo=1&TotNo=20",
     "주소": "경기 수원시 권선구 금곡동 1118-3, 7층704호 (금곡동,커낼파크)",
     "면적": "32.7412㎡(9.904평)",
     "사용승인일": "2020-05-15",
@@ -2630,7 +2300,7 @@
   },
   {
     "사건번호": "2024타경99428",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2358366&chkNo=12&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2358366&chkNo=2&TotNo=20",
     "주소": "경기 수원시 팔달구 인계동 940-7, 12층1202호 (인계동,어반파크)",
     "면적": "55.875㎡(16.902평)",
     "사용승인일": "2020-08-18",
@@ -2641,7 +2311,7 @@
   },
   {
     "사건번호": "2024타경551219",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2323130&chkNo=13&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2323130&chkNo=3&TotNo=20",
     "주소": "인천 부평구 부평동 374-1, 18층1813호 (부평동,부평한라비발디)",
     "면적": "22.266㎡(6.735평)",
     "사용승인일": "2021-06-02",
@@ -2652,7 +2322,7 @@
   },
   {
     "사건번호": "2024타경561780",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2339184&chkNo=14&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2339184&chkNo=4&TotNo=20",
     "주소": "인천 남동구 남촌동 624-3, 11층1129호 (남촌동,제이케이루체스타지식산업센터)",
     "면적": "20.75㎡(6.277평)",
     "사용승인일": "2020-05-04",
@@ -2663,7 +2333,7 @@
   },
   {
     "사건번호": "2025타경508285",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2381105&chkNo=18&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2381105&chkNo=8&TotNo=20",
     "주소": "인천광역시 미추홀구 숭의동 33-38 101동 5층503호",
     "면적": "59.763㎡(18.078평)",
     "사용승인일": "2020-12-31",
@@ -2674,7 +2344,7 @@
   },
   {
     "사건번호": "2025타경51877",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2395125&chkNo=2&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2395125&chkNo=12&TotNo=20",
     "주소": "경기도 성남시 중원구 성남동 3135 지앤느모란  7층709호",
     "면적": "21.42㎡(6.48평)",
     "사용승인일": "2020-04-28",
@@ -2685,7 +2355,7 @@
   },
   {
     "사건번호": "2025타경52160",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2409241&chkNo=3&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2409241&chkNo=13&TotNo=20",
     "주소": "경기도 하남시 망월동 1143-1 미사강변 오벨리스크  4층101-444호",
     "면적": "27.6236㎡(8.356평)",
     "사용승인일": "2020-11-16",
@@ -2696,7 +2366,7 @@
   },
   {
     "사건번호": "2025타경52450",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2424914&chkNo=4&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2424914&chkNo=14&TotNo=20",
     "주소": "경기도 하남시 망월동 1099-1 힐스테이트미사역그랑파사쥬(11-1블럭)  27층1102동2714호",
     "면적": "22.3486㎡(6.76평)",
     "사용승인일": "2020-07-30",
@@ -2707,7 +2377,7 @@
   },
   {
     "사건번호": "2025타경508024",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2380298&chkNo=13&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2380298&chkNo=3&TotNo=20",
     "주소": "인천광역시 미추홀구 주안동 695-10 브릴리언트  7층706호 외 1필지",
     "면적": "84.5㎡(25.561평)",
     "사용승인일": "2021-02-10",
@@ -2718,7 +2388,7 @@
   },
   {
     "사건번호": "2025타경512428",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2451658&chkNo=7&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2451658&chkNo=17&TotNo=20",
     "주소": "인천광역시 남동구 남촌동 624-3 제이케이루체스타지식산업센터  8층827호",
     "면적": "19.47㎡(5.89평)",
     "사용승인일": "2020-05-04",
@@ -2729,7 +2399,7 @@
   },
   {
     "사건번호": "2025타경512494",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2451662&chkNo=9&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2451662&chkNo=19&TotNo=20",
     "주소": "인천광역시 남동구 남촌동 624-3 제이케이루체스타지식산업센터  9층941호",
     "면적": "20.75㎡(6.277평)",
     "사용승인일": "2020-05-04",
@@ -2740,7 +2410,7 @@
   },
   {
     "사건번호": "2025타경512871",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2457046&chkNo=18&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2457046&chkNo=8&TotNo=20",
     "주소": "인천광역시 남동구 남촌동 624-3 제이케이루체스타지식산업센터  8층826호",
     "면적": "19.47㎡(5.89평)",
     "사용승인일": "2020-05-04",
@@ -2751,7 +2421,7 @@
   },
   {
     "사건번호": "2025타경513452",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2466209&chkNo=2&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2466209&chkNo=12&TotNo=20",
     "주소": "인천광역시 남동구 남촌동 624-3 제이케이루체스타지식산업센터  11층1123호",
     "면적": "20.75㎡(6.277평)",
     "사용승인일": "2020-05-04",
@@ -2762,7 +2432,7 @@
   },
   {
     "사건번호": "2024타경125008",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2361899&chkNo=19&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2361899&chkNo=9&TotNo=20",
     "주소": "서울 관악구 신림동 1437-19, 4층403호 (신림동,태양오피스텔)",
     "면적": "18.33㎡(5.545평)",
     "사용승인일": "2021-01-28",
@@ -2773,7 +2443,7 @@
   },
   {
     "사건번호": "2025타경50274",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2369520&chkNo=4&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2369520&chkNo=14&TotNo=20",
     "주소": "서울 은평구 응암동 84-4, 에이동 3층304호 (응암동,에스엠벨리체) 외 1필지",
     "면적": "39.64㎡(11.991평)",
     "사용승인일": "2021-04-05",
@@ -2784,7 +2454,7 @@
   },
   {
     "사건번호": "2025타경50397",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2370401&chkNo=5&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2370401&chkNo=15&TotNo=20",
     "주소": "서울 은평구 신사동 20-29, 3층301호 (신사동,명진하이빌) 외 1필지",
     "면적": "57.31㎡(17.336평)",
     "사용승인일": "2020-10-28",
@@ -2795,7 +2465,7 @@
   },
   {
     "사건번호": "2025타경50403",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2370405&chkNo=6&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2370405&chkNo=16&TotNo=20",
     "주소": "서울 은평구 신사동 29-160, 6층601호 (신사동,에스엠벨리체) 외 1필지",
     "면적": "42.8㎡(12.947평)",
     "사용승인일": "2020-10-20",
@@ -2806,7 +2476,7 @@
   },
   {
     "사건번호": "2025타경51046",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377735&chkNo=8&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377735&chkNo=18&TotNo=20",
     "주소": "서울특별시 은평구 불광동 484-64 마하나임불광  12층1205호 외 2필지",
     "면적": "18.91㎡(5.72평)",
     "사용승인일": "2021-07-26",
@@ -2817,7 +2487,7 @@
   },
   {
     "사건번호": "2025타경51101",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377783&chkNo=10&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377783&chkNo=20&TotNo=20",
     "주소": "서울특별시 은평구 불광동 281-110 샹그리라 비동 11층1102호",
     "면적": "25.52㎡(7.72평)",
     "사용승인일": "2021-06-04",
@@ -2828,7 +2498,7 @@
   },
   {
     "사건번호": "2025타경51391",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2403169&chkNo=12&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2403169&chkNo=2&TotNo=20",
     "주소": "서울특별시 은평구 응암동 84-4 에스엠벨리체 비동 6층602호 외 1필지",
     "면적": "41.04㎡(12.415평)",
     "사용승인일": "2021-04-05",
@@ -2839,7 +2509,7 @@
   },
   {
     "사건번호": "2025타경52143",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2397207&chkNo=15&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2397207&chkNo=5&TotNo=20",
     "주소": "경기도 시흥시 신천동 706-9 성지타워3차  14층1402호",
     "면적": "68.04㎡(20.582평)",
     "사용승인일": "2021-01-22",
@@ -2850,7 +2520,7 @@
   },
   {
     "사건번호": "2025타경62991",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2404025&chkNo=17&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2404025&chkNo=7&TotNo=20",
     "주소": "경기도 고양시 덕양구 원흥동 727 휴로스센트럴 302  5층501호",
     "면적": "37.56㎡(11.362평)",
     "사용승인일": "2020-07-17",
@@ -2861,7 +2531,7 @@
   },
   {
     "사건번호": "2025타경63721",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2435432&chkNo=18&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2435432&chkNo=8&TotNo=20",
     "주소": "경기도 고양시 덕양구 원흥동 632-1 클래시아더퍼스트  5층510호",
     "면적": "23.04㎡(6.97평)",
     "사용승인일": "2022-12-29",
@@ -2872,7 +2542,7 @@
   },
   {
     "사건번호": "2025타경64112",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2451086&chkNo=19&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2451086&chkNo=9&TotNo=20",
     "주소": "경기도 고양시 일산동구 식사동 1586-3 파크스테이션  10층1006호 외 1필지",
     "면적": "41.99㎡(12.702평)",
     "사용승인일": "2024-04-25",
@@ -2883,7 +2553,7 @@
   },
   {
     "사건번호": "2025타경102584",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2394037&chkNo=2&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2394037&chkNo=12&TotNo=20",
     "주소": "서울특별시 관악구 신림동 1568-5 더위일관악파크뷰  4층410호 외 1필지",
     "면적": "19.97㎡(6.041평)",
     "사용승인일": "2021-12-13",
@@ -2894,7 +2564,7 @@
   },
   {
     "사건번호": "2025타경102930",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2408154&chkNo=3&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2408154&chkNo=13&TotNo=20",
     "주소": "서울특별시 관악구 신림동 1568-5 더위일관악파크뷰  3층310호 외 1필지",
     "면적": "19.97㎡(6.041평)",
     "사용승인일": "2021-12-13",
@@ -2905,7 +2575,7 @@
   },
   {
     "사건번호": "2025타경503651",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2372389&chkNo=6&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2372389&chkNo=16&TotNo=20",
     "주소": "인천광역시 서구 경서동 경서3구역도시개발지구25블록2로트, 청라로데오시티포레안 5층 557호",
     "면적": "20.37㎡(6.162평)",
     "사용승인일": "2021-07-23",
@@ -2916,7 +2586,7 @@
   },
   {
     "사건번호": "2025타경506209",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2380826&chkNo=9&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2380826&chkNo=19&TotNo=20",
     "주소": "인천 남동구 남촌동 624-3, 9층 942호 (남촌동,제이케이루체스타지식산업센터)",
     "면적": "20.75㎡(6.277평)",
     "사용승인일": "2020-05-04",
@@ -2927,7 +2597,7 @@
   },
   {
     "사건번호": "2025타경507636",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2380289&chkNo=13&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2380289&chkNo=3&TotNo=20",
     "주소": "인천광역시 서구 청라동 95-1 청라큐브시그니처1차오피스텔  16층1603호",
     "면적": "33.582㎡(10.159평)",
     "사용승인일": "2021-12-10",
@@ -2938,7 +2608,7 @@
   },
   {
     "사건번호": "2025타경507710",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2380846&chkNo=15&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2380846&chkNo=5&TotNo=20",
     "주소": "인천광역시 남동구 남촌동 624-3 제이케이루체스타지식산업센터  8층816호",
     "면적": "20.75㎡(6.277평)",
     "사용승인일": "2020-05-04",
@@ -2949,7 +2619,7 @@
   },
   {
     "사건번호": "2025타경507748",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2381050&chkNo=16&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2381050&chkNo=6&TotNo=20",
     "주소": "인천광역시 남동구 남촌동 624-3 제이케이루체스타지식산업센터  10층1036호",
     "면적": "20.75㎡(6.277평)",
     "사용승인일": "2020-05-04",
@@ -2960,7 +2630,7 @@
   },
   {
     "사건번호": "2025타경510795",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2429787&chkNo=17&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2429787&chkNo=7&TotNo=20",
     "주소": "인천광역시 남동구 남촌동 624-3 제이케이루체스타지식산업센터  8층821호",
     "면적": "20.75㎡(6.277평)",
     "사용승인일": "2020-05-04",
@@ -2971,7 +2641,7 @@
   },
   {
     "사건번호": "2025타경511676",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2441210&chkNo=13&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2441210&chkNo=3&TotNo=20",
     "주소": "인천광역시 부평구 부평동 409-8 엘루이  14층1403호",
     "면적": "59.72㎡(18.065평)",
     "사용승인일": "2020-03-11",
@@ -2982,7 +2652,7 @@
   },
   {
     "사건번호": "2025타경511773",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2442675&chkNo=15&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2442675&chkNo=5&TotNo=20",
     "주소": "인천광역시 계양구 작전동 428-3 조양휴캐슬 102동 8층801호",
     "면적": "63.85㎡(19.315평)",
     "사용승인일": "2020-04-28",
@@ -2993,7 +2663,7 @@
   },
   {
     "사건번호": "2025타경512056",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2447804&chkNo=20&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2447804&chkNo=10&TotNo=20",
     "주소": "인천광역시 미추홀구 용현동 451-63 효성 해링턴타워 인하  26층2603호",
     "면적": "25.6801㎡(7.768평)",
     "사용승인일": "2021-07-08",
@@ -3004,7 +2674,7 @@
   },
   {
     "사건번호": "2024타경102720",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2364553&chkNo=5&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2364553&chkNo=15&TotNo=20",
     "주소": "경기 용인시 처인구 김량장동 186-42, 101동 2층202호",
     "면적": "54.95㎡(16.622평)",
     "사용승인일": "2020-09-02",
@@ -3015,7 +2685,7 @@
   },
   {
     "사건번호": "2025타경63722",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2430184&chkNo=7&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2430184&chkNo=17&TotNo=20",
     "주소": "경기도 고양시 덕양구 원흥동 632-1 클래시아더퍼스트  5층511호",
     "면적": "23.04㎡(6.97평)",
     "사용승인일": "2022-12-29",
@@ -3026,7 +2696,7 @@
   },
   {
     "사건번호": "2025타경64917",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2475441&chkNo=9&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2475441&chkNo=19&TotNo=20",
     "주소": "경기도 파주시 와동동 1498 힐데스하임케멜라스  7층709호",
     "면적": "18.3433㎡(5.549평)",
     "사용승인일": "2020-11-25",
@@ -3037,7 +2707,7 @@
   },
   {
     "사건번호": "2025타경71695",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2379024&chkNo=10&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2379024&chkNo=20&TotNo=20",
     "주소": "경기도 의정부시 의정부동 214-76 혜성루첸리  4층404호 외 2필지",
     "면적": "22.079㎡(6.679평)",
     "사용승인일": "2022-01-05",
@@ -3048,7 +2718,7 @@
   },
   {
     "사건번호": "2025타경72039",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2396766&chkNo=11&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2396766&chkNo=1&TotNo=20",
     "주소": "경기도 의정부시 민락동 803-2 민락2지구중흥에스-클래스트와이스 8층 에이-801호",
     "면적": "81.26㎡(24.581평)",
     "사용승인일": "2020-03-27",
@@ -3059,7 +2729,7 @@
   },
   {
     "사건번호": "2025타경72141",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2411216&chkNo=12&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2411216&chkNo=2&TotNo=20",
     "주소": "경기도 양주시 삼숭동 185-1 리치빌비 5층 503호 외 2필지",
     "면적": "67.718㎡(20.485평)",
     "사용승인일": "2021-06-30",
@@ -3070,7 +2740,7 @@
   },
   {
     "사건번호": "2025타경102428",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2390256&chkNo=14&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2390256&chkNo=4&TotNo=20",
     "주소": "서울특별시 종로구 창신동 255-1  10층1017호 외 1필지",
     "면적": "18.98㎡(5.741평)",
     "사용승인일": "2021-05-28",
@@ -3081,7 +2751,7 @@
   },
   {
     "사건번호": "2025타경102534",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2406633&chkNo=15&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2406633&chkNo=5&TotNo=20",
     "주소": "서울특별시 관악구 신림동 1568-5 더위일관악파크뷰  6층602호 외 1필지",
     "면적": "18.86㎡(5.705평)",
     "사용승인일": "2021-12-13",
@@ -3092,7 +2762,7 @@
   },
   {
     "사건번호": "2025타경102590",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2394494&chkNo=16&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2394494&chkNo=6&TotNo=20",
     "주소": "서울특별시 관악구 신림동 1655-15 지밸리마인드  6층608호 외 1필지",
     "면적": "17.57㎡(5.315평)",
     "사용승인일": "2021-07-23",
@@ -3103,7 +2773,7 @@
   },
   {
     "사건번호": "2024타경3003",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2300607&chkNo=1&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2300607&chkNo=11&TotNo=20",
     "주소": "경기 김포시 구래동 6871-53, 3층비03-085호 (구래동,현대썬앤빌더킹)",
     "면적": "22.019㎡(6.661평)",
     "사용승인일": "2022-05-12",
@@ -3114,7 +2784,7 @@
   },
   {
     "사건번호": "2024타경6927",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2366089&chkNo=2&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2366089&chkNo=12&TotNo=20",
     "주소": "경기 김포시 구래동 6871-53, 8층비08-081호 (구래동,현대썬앤빌더킹)",
     "면적": "22.019㎡(6.661평)",
     "사용승인일": "2022-05-12",
@@ -3125,7 +2795,7 @@
   },
   {
     "사건번호": "2024타경43179",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2304831&chkNo=3&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2304831&chkNo=13&TotNo=20",
     "주소": "경기 부천시 원미구 원미동 42-2, 4층405호 (원미동,비에이치펠리스)",
     "면적": "67.37㎡(20.379평)",
     "사용승인일": "2020-08-05",
@@ -3136,7 +2806,7 @@
   },
   {
     "사건번호": "2024타경55851",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2360047&chkNo=10&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2360047&chkNo=20&TotNo=20",
     "주소": "경기도 김포시 구래동 6871-53 현대썬앤빌더킹 3층 비03-056호",
     "면적": "22.1044㎡(6.687평)",
     "사용승인일": "2022-05-12",
@@ -3147,7 +2817,7 @@
   },
   {
     "사건번호": "2024타경122191",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2350720&chkNo=13&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2350720&chkNo=3&TotNo=20",
     "주소": "서울 종로구 창신동 255-1, 9층902호 외 1필지",
     "면적": "17.8㎡(5.385평)",
     "사용승인일": "2021-05-28",
@@ -3158,7 +2828,7 @@
   },
   {
     "사건번호": "2025타경52270",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2403682&chkNo=19&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2403682&chkNo=9&TotNo=20",
     "주소": "경기도 광명시 철산동 119-2 가산디오스텔 오피스텔  6층617호",
     "면적": "19.05㎡(5.763평)",
     "사용승인일": "2020-11-11",
@@ -3169,7 +2839,7 @@
   },
   {
     "사건번호": "2025타경64453",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2458841&chkNo=2&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2458841&chkNo=12&TotNo=20",
     "주소": "경기도 고양시 덕양구 도내동 956 원흥베네하임5차  21층2111호",
     "면적": "29.7447㎡(8.998평)",
     "사용승인일": "2024-10-22",
@@ -3180,7 +2850,7 @@
   },
   {
     "사건번호": "2025타경101399",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2371780&chkNo=4&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2371780&chkNo=14&TotNo=20",
     "주소": "서울 관악구 신림동 1568-5, 6층603호 (신림동,더위일관악파크뷰) 외 1필지",
     "면적": "19.97㎡(6.041평)",
     "사용승인일": "2021-12-13",
@@ -3191,7 +2861,7 @@
   },
   {
     "사건번호": "2025타경101641",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377398&chkNo=5&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377398&chkNo=15&TotNo=20",
     "주소": "서울 종로구 숭인동 1368, 8층806호 (숭인동,숭인한성아펠시티주건축물제1동) 외 1필지",
     "면적": "21.45㎡(6.489평)",
     "사용승인일": "2021-08-30",
@@ -3202,7 +2872,7 @@
   },
   {
     "사건번호": "2025타경54938(1)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2382045&chkNo=10&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2382045&chkNo=20&TotNo=20",
     "주소": "경기도 화성시 남양읍 남양리 2278-8 스카이빌  2층201호",
     "면적": "71.54㎡(21.641평)",
     "사용승인일": "2023-02-07",
@@ -3213,7 +2883,7 @@
   },
   {
     "사건번호": "2025타경54938(2)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2518672&chkNo=11&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2518672&chkNo=1&TotNo=20",
     "주소": "경기도 화성시 남양읍 남양리 2278-8 스카이빌  2층202호",
     "면적": "71.2㎡(21.538평)",
     "사용승인일": "2023-02-07",
@@ -3224,7 +2894,7 @@
   },
   {
     "사건번호": "2025타경54938(3)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2518673&chkNo=12&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2518673&chkNo=2&TotNo=20",
     "주소": "경기도 화성시 남양읍 남양리 2278-8 스카이빌  2층203호",
     "면적": "71.53㎡(21.638평)",
     "사용승인일": "2023-02-07",
@@ -3235,7 +2905,7 @@
   },
   {
     "사건번호": "2025타경54938(4)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2518674&chkNo=13&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2518674&chkNo=3&TotNo=20",
     "주소": "경기도 화성시 남양읍 남양리 2278-8 스카이빌  3층301호",
     "면적": "71.54㎡(21.641평)",
     "사용승인일": "2023-02-07",
@@ -3246,7 +2916,7 @@
   },
   {
     "사건번호": "2025타경54938(5)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2518675&chkNo=14&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2518675&chkNo=4&TotNo=20",
     "주소": "경기도 화성시 남양읍 남양리 2278-8 스카이빌  4층402호",
     "면적": "71.2㎡(21.538평)",
     "사용승인일": "2023-02-07",
@@ -3257,7 +2927,7 @@
   },
   {
     "사건번호": "2025타경54938(6)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2518676&chkNo=15&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2518676&chkNo=5&TotNo=20",
     "주소": "경기도 화성시 남양읍 남양리 2278-8 스카이빌  5층503호",
     "면적": "71.53㎡(21.638평)",
     "사용승인일": "2023-02-07",
@@ -3268,7 +2938,7 @@
   },
   {
     "사건번호": "2025타경54938(7)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2518677&chkNo=16&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2518677&chkNo=6&TotNo=20",
     "주소": "경기도 화성시 남양읍 남양리 2278-8 스카이빌  3층302호",
     "면적": "71.2㎡(21.538평)",
     "사용승인일": "2023-02-07",
@@ -3279,7 +2949,7 @@
   },
   {
     "사건번호": "2025타경54938(8)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2518678&chkNo=17&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2518678&chkNo=7&TotNo=20",
     "주소": "경기도 화성시 남양읍 남양리 2278-8 스카이빌  3층303호",
     "면적": "71.53㎡(21.638평)",
     "사용승인일": "2023-02-07",
@@ -3290,7 +2960,7 @@
   },
   {
     "사건번호": "2025타경54938(9)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2518679&chkNo=18&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2518679&chkNo=8&TotNo=20",
     "주소": "경기도 화성시 남양읍 남양리 2278-8 스카이빌  4층401호",
     "면적": "71.54㎡(21.641평)",
     "사용승인일": "2023-02-07",
@@ -3301,7 +2971,7 @@
   },
   {
     "사건번호": "2025타경54938(10)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2518680&chkNo=19&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2518680&chkNo=9&TotNo=20",
     "주소": "경기도 화성시 남양읍 남양리 2278-8 스카이빌  4층403호",
     "면적": "71.53㎡(21.638평)",
     "사용승인일": "2023-02-07",
@@ -3312,7 +2982,7 @@
   },
   {
     "사건번호": "2025타경54938(11)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2518681&chkNo=20&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2518681&chkNo=10&TotNo=20",
     "주소": "경기도 화성시 남양읍 남양리 2278-8 스카이빌  5층501호",
     "면적": "71.54㎡(21.641평)",
     "사용승인일": "2023-02-07",
@@ -3323,7 +2993,7 @@
   },
   {
     "사건번호": "2025타경54938(12)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2518682&chkNo=1&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2518682&chkNo=11&TotNo=20",
     "주소": "경기도 화성시 남양읍 남양리 2278-8 스카이빌  5층502호",
     "면적": "71.2㎡(21.538평)",
     "사용승인일": "2023-02-07",
@@ -3334,7 +3004,7 @@
   },
   {
     "사건번호": "2026타경500039",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2490322&chkNo=7&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2490322&chkNo=16&TotNo=20",
     "주소": "인천광역시 남동구 남촌동 624-3 제이케이루체스타지식산업센터  7층738호",
     "면적": "20.75㎡(6.277평)",
     "사용승인일": "2020-05-04",
@@ -3345,7 +3015,7 @@
   },
   {
     "사건번호": "2026타경500342",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2493139&chkNo=13&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2493139&chkNo=2&TotNo=20",
     "주소": "인천광역시 남동구 남촌동 624-3 제이케이루체스타지식산업센터  7층731호",
     "면적": "21.39㎡(6.47평)",
     "사용승인일": "2020-05-04",
@@ -3356,7 +3026,7 @@
   },
   {
     "사건번호": "2026타경500526",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2494558&chkNo=2&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2494558&chkNo=11&TotNo=20",
     "주소": "인천광역시 미추홀구 주안동 695-10 브릴리언트  11층1105호",
     "면적": "81.45㎡(24.639평)",
     "사용승인일": "2021-02-10",
@@ -3367,7 +3037,7 @@
   },
   {
     "사건번호": "2026타경500531",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2495081&chkNo=3&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2495081&chkNo=12&TotNo=20",
     "주소": "인천광역시 부평구 부평동 409-8 엘루이  12층1202호",
     "면적": "59.89㎡(18.117평)",
     "사용승인일": "2020-03-11",
@@ -3378,7 +3048,7 @@
   },
   {
     "사건번호": "2023타경59480",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2233159&chkNo=18&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2233159&chkNo=7&TotNo=20",
     "주소": "서울 광진구 군자동 355-1, 4층410호 (군자동,동원데쟈뷰)",
     "면적": "17.16㎡(5.191평)",
     "사용승인일": "2020-02-26",
@@ -3389,7 +3059,7 @@
   },
   {
     "사건번호": "2024타경67998",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2349486&chkNo=2&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2349486&chkNo=11&TotNo=20",
     "주소": "경기 성남시 수정구 신흥동 4230, 7층702호 (신흥동,미래타운5차)",
     "면적": "67.0517㎡(20.283평)",
     "사용승인일": "2021-07-15",
@@ -3400,7 +3070,7 @@
   },
   {
     "사건번호": "2025타경41981(1)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2412606&chkNo=8&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2412606&chkNo=17&TotNo=20",
     "주소": "경기도 평택시 용이동 491-2 스타시티  3층301호",
     "면적": "69.39㎡(20.99평)",
     "사용승인일": "2020-12-18",
@@ -3411,7 +3081,7 @@
   },
   {
     "사건번호": "2025타경41981(2)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2485735&chkNo=9&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2485735&chkNo=18&TotNo=20",
     "주소": "경기도 평택시 용이동 491-2 스타시티  3층302호",
     "면적": "69.39㎡(20.99평)",
     "사용승인일": "2020-12-18",
@@ -3422,7 +3092,7 @@
   },
   {
     "사건번호": "2025타경52023",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2402842&chkNo=11&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2402842&chkNo=20&TotNo=20",
     "주소": "경기도 하남시 신장동 427-159 아이씨티하남 17층 1706호",
     "면적": "43.2748㎡(13.091평)",
     "사용승인일": "2021-10-20",
@@ -3432,8 +3102,52 @@
     "특수조건": "대항력 있는 임차인"
   },
   {
+    "사건번호": "2023타경1173",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2176221&chkNo=10&TotNo=20",
+    "주소": "서울 동대문구 용두동 255-70, 12층1209호 (용두동,청계다우아트리체디벨)",
+    "면적": "26.65㎡(8.062평)",
+    "사용승인일": "2020-09-29",
+    "최저가": "3,551,000",
+    "최저가율": "1.2%",
+    "평당가격": "439,711",
+    "특수조건": "대항력 있는 임차인"
+  },
+  {
+    "사건번호": "2023타경45888(1)",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2223196&chkNo=11&TotNo=20",
+    "주소": "경기 김포시 구래동 6871-53, 10층비10-103호 (구래동,현대썬앤빌더킹)",
+    "면적": "22.019㎡(6.661평)",
+    "사용승인일": "2022-05-12",
+    "최저가": "41,846,000",
+    "최저가율": "34.3%",
+    "평당가격": "6,271,484",
+    "특수조건": "선순위 전세권설정"
+  },
+  {
+    "사건번호": "2023타경45888(2)",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2504716&chkNo=12&TotNo=20",
+    "주소": "경기 김포시 구래동 6871-53, 10층비10-107호 (구래동,현대썬앤빌더킹)",
+    "면적": "22.019㎡(6.661평)",
+    "사용승인일": "2022-05-12",
+    "최저가": "41,846,000",
+    "최저가율": "34.3%",
+    "평당가격": "6,271,484",
+    "특수조건": "선순위 전세권설정"
+  },
+  {
+    "사건번호": "2024타경15348",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2355356&chkNo=14&TotNo=20",
+    "주소": "인천 서구 청라동 96-16, 9층919호 (청라동,센트럴시티)",
+    "면적": "41.75㎡(12.629평)",
+    "사용승인일": "2022-03-18",
+    "최저가": "119,707,000",
+    "최저가율": "34.3%",
+    "평당가격": "9,461,871",
+    "특수조건": ""
+  },
+  {
     "사건번호": "2024타경55656(1)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2363178&chkNo=4&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2363178&chkNo=16&TotNo=20",
     "주소": "경기 평택시 장당동 154, 102동 26층2609호 (장당동,평택고덕아이파크)",
     "면적": "21.16㎡(6.401평)",
     "사용승인일": "2021-11-22",
@@ -3444,7 +3158,7 @@
   },
   {
     "사건번호": "2024타경55656(2)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513391&chkNo=5&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513391&chkNo=17&TotNo=20",
     "주소": "경기 평택시 장당동 154, 102동 13층1301호 (장당동,평택고덕아이파크)",
     "면적": "21.16㎡(6.401평)",
     "사용승인일": "2021-11-22",
@@ -3455,7 +3169,7 @@
   },
   {
     "사건번호": "2024타경55656(3)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513392&chkNo=6&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513392&chkNo=18&TotNo=20",
     "주소": "경기 평택시 장당동 154, 101동 20층2023호 (장당동,평택고덕아이파크)",
     "면적": "29.26㎡(8.851평)",
     "사용승인일": "2021-11-22",
@@ -3466,7 +3180,7 @@
   },
   {
     "사건번호": "2024타경55656(4)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513393&chkNo=7&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513393&chkNo=19&TotNo=20",
     "주소": "경기 평택시 장당동 154, 102동 26층2608호 (장당동,평택고덕아이파크)",
     "면적": "21.16㎡(6.401평)",
     "사용승인일": "2021-11-22",
@@ -3477,7 +3191,7 @@
   },
   {
     "사건번호": "2024타경55656(5)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513394&chkNo=8&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513394&chkNo=20&TotNo=20",
     "주소": "경기 평택시 장당동 154, 102동 25층2506호 (장당동,평택고덕아이파크)",
     "면적": "21.16㎡(6.401평)",
     "사용승인일": "2021-11-22",
@@ -3488,7 +3202,7 @@
   },
   {
     "사건번호": "2024타경55656(6)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513395&chkNo=9&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513395&chkNo=1&TotNo=20",
     "주소": "경기 평택시 장당동 154, 102동 17층1705호 (장당동,평택고덕아이파크)",
     "면적": "21.16㎡(6.401평)",
     "사용승인일": "2021-11-22",
@@ -3499,7 +3213,7 @@
   },
   {
     "사건번호": "2024타경55656(7)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513396&chkNo=10&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2513396&chkNo=2&TotNo=20",
     "주소": "경기 평택시 장당동 154, 102동 17층1704호 (장당동,평택고덕아이파크)",
     "면적": "21.16㎡(6.401평)",
     "사용승인일": "2021-11-22",
@@ -3510,7 +3224,7 @@
   },
   {
     "사건번호": "2024타경104306",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2381950&chkNo=12&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2381950&chkNo=4&TotNo=20",
     "주소": "경기 화성시 동탄구 여울동 976-5, 6층622호 (오산동,유퍼스트)",
     "면적": "19.3168㎡(5.843평)",
     "사용승인일": "2021-03-31",
@@ -3520,8 +3234,30 @@
     "특수조건": "임차권등기/대항력 있는 임차인"
   },
   {
+    "사건번호": "2024타경109525",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2350866&chkNo=5&TotNo=20",
+    "주소": "경기 군포시 금정동 47-24, 13층1303호 (금정동,우진아트리움)",
+    "면적": "39.95㎡(12.085평)",
+    "사용승인일": "2021-01-22",
+    "최저가": "13,909,000",
+    "최저가율": "5.5%",
+    "평당가격": "1,148,929",
+    "특수조건": "임차권등기/대항력 있는 임차인"
+  },
+  {
+    "사건번호": "2024타경122368",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2352500&chkNo=7&TotNo=20",
+    "주소": "서울 관악구 신림동 529-15, 4층403호",
+    "면적": "27.38㎡(8.282평)",
+    "사용승인일": "2020-04-02",
+    "최저가": "27,916,000",
+    "최저가율": "10.7%",
+    "평당가격": "3,364,602",
+    "특수조건": "임차권등기/대항력 있는 임차인"
+  },
+  {
     "사건번호": "2024타경142757",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2358285&chkNo=13&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2358285&chkNo=8&TotNo=20",
     "주소": "서울 금천구 독산동 962-42, 제9층 제904호 (독산동, 더뷰) 외 1필지",
     "면적": "37.42㎡(11.32평)",
     "사용승인일": "2020-02-28",
@@ -3531,8 +3267,63 @@
     "특수조건": "임차권등기/대항력 있는 임차인"
   },
   {
+    "사건번호": "2025타경5006",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2478708&chkNo=11&TotNo=20",
+    "주소": "경기도 김포시 구래동 6871-53 현대썬앤빌더킹  5층비05-110호",
+    "면적": "22.019㎡(6.661평)",
+    "사용승인일": "2022-05-12",
+    "최저가": "57,330,000",
+    "최저가율": "49%",
+    "평당가격": "8,592,080",
+    "특수조건": ""
+  },
+  {
+    "사건번호": "2025타경11789",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2378803&chkNo=17&TotNo=20",
+    "주소": "서울특별시 동대문구 신설동 100-2 청광플러스원청계2  5층513호 외 1필지",
+    "면적": "17.7642㎡(5.374평)",
+    "사용승인일": "2021-08-03",
+    "최저가": "131,840,000",
+    "최저가율": "64%",
+    "평당가격": "24,491,505",
+    "특수조건": "임차권등기"
+  },
+  {
+    "사건번호": "2025타경12237",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2393426&chkNo=20&TotNo=20",
+    "주소": "서울특별시 성북구 하월곡동 90-260 갤럭시하월곡 에이동 7층705호",
+    "면적": "13.28㎡(4.017평)",
+    "사용승인일": "2020-10-07",
+    "최저가": "122,400,000",
+    "최저가율": "80%",
+    "평당가격": "30,415,663",
+    "특수조건": "임차권등기"
+  },
+  {
+    "사건번호": "2025타경33780(1)",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2421679&chkNo=2&TotNo=20",
+    "주소": "경기도 김포시 구래동 6871-41 김포더럭스나인오피스텔 에이동 6층 612호",
+    "면적": "32.35㎡(9.786평)",
+    "사용승인일": "2020-01-17",
+    "최저가": "84,770,000",
+    "최저가율": "49%",
+    "평당가격": "8,647,326",
+    "특수조건": ""
+  },
+  {
+    "사건번호": "2025타경34437",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2451691&chkNo=3&TotNo=20",
+    "주소": "경기도 부천시 원미구 원미동 42-1 해냄스토리주건축물제1동  8층802호",
+    "면적": "57.87㎡(17.506평)",
+    "사용승인일": "2020-04-09",
+    "최저가": "75,872,000",
+    "최저가율": "24%",
+    "평당가격": "4,326,553",
+    "특수조건": "임차권등기/대항력 있는 임차인"
+  },
+  {
     "사건번호": "2025타경51662",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2383666&chkNo=3&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2383666&chkNo=7&TotNo=20",
     "주소": "경기도 시흥시 신천동 706-9 성지타워3차  12층1202호",
     "면적": "68.04㎡(20.582평)",
     "사용승인일": "2021-01-22",
@@ -3543,7 +3334,7 @@
   },
   {
     "사건번호": "2025타경52666",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2419952&chkNo=4&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2419952&chkNo=8&TotNo=20",
     "주소": "경기도 시흥시 장현동 671-5 시티프론트561더파이브  6층623호",
     "면적": "26.25㎡(7.941평)",
     "사용승인일": "2023-06-02",
@@ -3553,8 +3344,107 @@
     "특수조건": ""
   },
   {
+    "사건번호": "2025타경64321",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2453450&chkNo=9&TotNo=20",
+    "주소": "경기도 고양시 덕양구 화정동 1148-6 아이씨티일산  12층1205호",
+    "면적": "31.523㎡(9.536평)",
+    "사용승인일": "2020-07-24",
+    "최저가": "49,940,000",
+    "최저가율": "24%",
+    "평당가격": "5,227,992",
+    "특수조건": "임차권등기/대항력 있는 임차인"
+  },
+  {
+    "사건번호": "2025타경71835",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2379350&chkNo=12&TotNo=20",
+    "주소": "경기도 의정부시 의정부동 214-76 혜성루첸리 6층 602호 외 2필지",
+    "면적": "22.079㎡(6.679평)",
+    "사용승인일": "2022-01-05",
+    "최저가": "98,000,000",
+    "최저가율": "70%",
+    "평당가격": "14,647,403",
+    "특수조건": "임차권등기/HUG 임차권 인수조건변경"
+  },
+  {
+    "사건번호": "2025타경72011",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2411259&chkNo=14&TotNo=20",
+    "주소": "경기도 의정부시 의정부동 214-76 혜성루첸리 4층 402호 외 2필지",
+    "면적": "22.079㎡(6.679평)",
+    "사용승인일": "2022-01-05",
+    "최저가": "16,471,000",
+    "최저가율": "11.8%",
+    "평당가격": "2,461,810",
+    "특수조건": "임차권등기/대항력 있는 임차인"
+  },
+  {
+    "사건번호": "2025타경72810",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2431719&chkNo=15&TotNo=20",
+    "주소": "경기도 의정부시 의정부동 433-5 케렌시아433 2층 201호 외 1필지",
+    "면적": "48.69㎡(14.729평)",
+    "사용승인일": "2021-02-24",
+    "최저가": "102,410,000",
+    "최저가율": "49%",
+    "평당가격": "6,940,912",
+    "특수조건": "임차권등기/대항력 있는 임차인"
+  },
+  {
+    "사건번호": "2025타경100855",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2383841&chkNo=16&TotNo=20",
+    "주소": "경기도 안양시 만안구 안양동 433-2 안양센트럴헤센 103동 16층1608호",
+    "면적": "27.73㎡(8.388평)",
+    "사용승인일": "2020-07-30",
+    "최저가": "32,212,000",
+    "최저가율": "16.8%",
+    "평당가격": "3,833,379",
+    "특수조건": "임차권등기/대항력 있는 임차인"
+  },
+  {
+    "사건번호": "2025타경101085",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2371794&chkNo=17&TotNo=20",
+    "주소": "서울 관악구 신림동 1568-5, 12층1208호 (신림동,더위일관악파크뷰) 외 1필지",
+    "면적": "17.3㎡(5.233평)",
+    "사용승인일": "2021-12-13",
+    "최저가": "51,169,000",
+    "최저가율": "21%",
+    "평당가격": "9,760,561",
+    "특수조건": "임차권등기/대항력 있는 임차인"
+  },
+  {
+    "사건번호": "2025타경102132",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2377421&chkNo=18&TotNo=20",
+    "주소": "서울특별시 관악구 신림동 538-39 위드비엠3  3층303호 외 1필지",
+    "면적": "46.2㎡(13.976평)",
+    "사용승인일": "2021-09-09",
+    "최저가": "100,924,000",
+    "최저가율": "26.2%",
+    "평당가격": "7,208,857",
+    "특수조건": "임차권등기/대항력 있는 임차인"
+  },
+  {
+    "사건번호": "2025타경102466",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2393369&chkNo=19&TotNo=20",
+    "주소": "서울특별시 동작구 상도1동 519-1 더포레스트  4층402호",
+    "면적": "12.72㎡(3.848평)",
+    "사용승인일": "2021-12-10",
+    "최저가": "144,000,000",
+    "최저가율": "80%",
+    "평당가격": "37,358,491",
+    "특수조건": "임차권등기/HUG 임차권 인수조건변경"
+  },
+  {
+    "사건번호": "2024타경12912(2)",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2469201&chkNo=2&TotNo=20",
+    "주소": "인천 서구 청라동 96-16, 11층 1116호 (청라동,센트럴시티)",
+    "면적": "42.82㎡(12.953평)",
+    "사용승인일": "2022-03-18",
+    "최저가": "114,905,000",
+    "최저가율": "34.3%",
+    "평당가격": "8,855,360",
+    "특수조건": ""
+  },
+  {
     "사건번호": "2024타경115212",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2286647&chkNo=8&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2286647&chkNo=6&TotNo=20",
     "주소": "서울 영등포구 양평동5가 24-1, 제13층 제1313호 (양평동5가, 선유도역마들렌오피스텔)",
     "면적": "16.84㎡(5.094평)",
     "사용승인일": "2021-01-19",
@@ -3565,7 +3455,7 @@
   },
   {
     "사건번호": "2024타경119641",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2296402&chkNo=10&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2296402&chkNo=8&TotNo=20",
     "주소": "서울 강서구 화곡동 981-5, 제6층 제601호 (화곡동, 넥시티)",
     "면적": "29.59㎡(8.951평)",
     "사용승인일": "2020-05-21",
@@ -3576,7 +3466,7 @@
   },
   {
     "사건번호": "2025타경8757",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2392666&chkNo=13&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2392666&chkNo=12&TotNo=20",
     "주소": "서울특별시 영등포구 당산동4가 32-21 해라톤시티2  제4층 제401호",
     "면적": "17.35㎡(5.248평)",
     "사용승인일": "2021-06-22",
@@ -3587,7 +3477,7 @@
   },
   {
     "사건번호": "2025타경9523",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2400212&chkNo=14&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2400212&chkNo=13&TotNo=20",
     "주소": "서울특별시 금천구 독산동 303-4 미림에이클래스 제101동 제12층 제1202호",
     "면적": "25.31㎡(7.656평)",
     "사용승인일": "2021-07-08",
@@ -3598,7 +3488,7 @@
   },
   {
     "사건번호": "2025타경9524",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2400213&chkNo=15&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2400213&chkNo=14&TotNo=20",
     "주소": "서울특별시 금천구 독산동 303-4 미림에이클래스 제102동 제12층 제1201호",
     "면적": "24.28㎡(7.345평)",
     "사용승인일": "2021-07-08",
@@ -3609,7 +3499,7 @@
   },
   {
     "사건번호": "2025타경10448",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2420983&chkNo=16&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2420983&chkNo=15&TotNo=20",
     "주소": "서울특별시 양천구 신월동 52-13  제10층 제1003호",
     "면적": "21.51㎡(6.507평)",
     "사용승인일": "2022-08-04",
@@ -3620,7 +3510,7 @@
   },
   {
     "사건번호": "2025타경11545",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2440614&chkNo=19&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2440614&chkNo=18&TotNo=20",
     "주소": "서울특별시 강서구 화곡동 987-3 르미엘  제9층 제901호 외 1필지",
     "면적": "17.59㎡(5.321평)",
     "사용승인일": "2022-03-30",
@@ -3631,7 +3521,7 @@
   },
   {
     "사건번호": "2025타경11611",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2441636&chkNo=20&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2441636&chkNo=19&TotNo=20",
     "주소": "서울특별시 영등포구 양평동6가 82-1 엠케이유앤미  제11층 제1104호",
     "면적": "15.46㎡(4.677평)",
     "사용승인일": "2020-04-17",
@@ -3642,7 +3532,7 @@
   },
   {
     "사건번호": "2025타경11624",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2441639&chkNo=1&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2441639&chkNo=20&TotNo=20",
     "주소": "서울특별시 강서구 화곡동 987-3 르미엘  제9층 제903호 외 1필지",
     "면적": "17.59㎡(5.321평)",
     "사용승인일": "2022-03-30",
@@ -3653,7 +3543,7 @@
   },
   {
     "사건번호": "2025타경31579",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2381700&chkNo=5&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2381700&chkNo=4&TotNo=20",
     "주소": "경기 부천시 원미구 춘의동 193-9, 6층 601호 (춘의동, 아이원오피스텔비동)",
     "면적": "66.57㎡(20.137평)",
     "사용승인일": "2020-04-03",
@@ -3664,7 +3554,7 @@
   },
   {
     "사건번호": "2025타경32573",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2381672&chkNo=6&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2381672&chkNo=5&TotNo=20",
     "주소": "경기도 김포시 고촌읍 신곡리 1068 미리내고촌  3층 304호",
     "면적": "32.71㎡(9.895평)",
     "사용승인일": "2021-09-03",
@@ -3675,7 +3565,7 @@
   },
   {
     "사건번호": "2025타경32760",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2381853&chkNo=7&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2381853&chkNo=6&TotNo=20",
     "주소": "경기도 부천시 원미구 원미동 42-1 해냄스토리주건축물제1동  9층 904호",
     "면적": "52.29㎡(15.818평)",
     "사용승인일": "2020-04-09",
@@ -3686,7 +3576,7 @@
   },
   {
     "사건번호": "2025타경32816",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2381453&chkNo=8&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2381453&chkNo=7&TotNo=20",
     "주소": "경기도 김포시 풍무동 897 넘버원리치안  3층 324호",
     "면적": "19.5506㎡(5.914평)",
     "사용승인일": "2020-02-11",
@@ -3697,7 +3587,7 @@
   },
   {
     "사건번호": "2025타경32894",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2381865&chkNo=9&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2381865&chkNo=8&TotNo=20",
     "주소": "경기도 부천시 원미구 춘의동 193-9 아이원오피스텔비동  6층 603호",
     "면적": "64.77㎡(19.593평)",
     "사용승인일": "2020-04-03",
@@ -3708,7 +3598,7 @@
   },
   {
     "사건번호": "2025타경32896",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2393143&chkNo=10&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2393143&chkNo=9&TotNo=20",
     "주소": "경기도 부천시 원미구 춘의동 193-9 아이원오피스텔에이동  2층 204호",
     "면적": "66.57㎡(20.137평)",
     "사용승인일": "2020-04-03",
@@ -3719,7 +3609,7 @@
   },
   {
     "사건번호": "2025타경32931",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2393184&chkNo=11&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2393184&chkNo=10&TotNo=20",
     "주소": "경기도 부천시 원미구 춘의동 193-9 아이원오피스텔비동  7층 701호",
     "면적": "66.57㎡(20.137평)",
     "사용승인일": "2020-04-03",
@@ -3730,7 +3620,7 @@
   },
   {
     "사건번호": "2025타경33053",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2407243&chkNo=12&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2407243&chkNo=11&TotNo=20",
     "주소": "경기도 김포시 고촌읍 신곡리 1068 미리내고촌  6층 606호",
     "면적": "26.08㎡(7.889평)",
     "사용승인일": "2021-09-03",
@@ -3741,7 +3631,7 @@
   },
   {
     "사건번호": "2025타경33926",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2432786&chkNo=13&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2432786&chkNo=12&TotNo=20",
     "주소": "경기도 김포시 풍무동 897 넘버원리치안  9층912호",
     "면적": "34.2477㎡(10.36평)",
     "사용승인일": "2020-02-11",
@@ -3752,7 +3642,7 @@
   },
   {
     "사건번호": "2025타경34201",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2439737&chkNo=15&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2439737&chkNo=14&TotNo=20",
     "주소": "경기도 김포시 풍무동 897 넘버원리치안  4층416호",
     "면적": "19.8949㎡(6.018평)",
     "사용승인일": "2020-02-11",
@@ -3763,7 +3653,7 @@
   },
   {
     "사건번호": "2025타경34448",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2451150&chkNo=17&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2451150&chkNo=16&TotNo=20",
     "주소": "경기도 김포시 풍무동 897 넘버원리치안  3층320호",
     "면적": "19.8949㎡(6.018평)",
     "사용승인일": "2020-02-11",
@@ -3774,7 +3664,7 @@
   },
   {
     "사건번호": "2025타경34515",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2452187&chkNo=18&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2452187&chkNo=17&TotNo=20",
     "주소": "경기도 부천시 소사구 송내동 572-8 에이치.비엘림캐슬  6층601호",
     "면적": "51.01㎡(15.431평)",
     "사용승인일": "2021-03-24",
@@ -3785,7 +3675,7 @@
   },
   {
     "사건번호": "2025타경34682",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2461345&chkNo=20&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2461345&chkNo=19&TotNo=20",
     "주소": "경기도 김포시 구래동 6878-9 한강신도시세종헤르메스  10층1019호 외 1필지",
     "면적": "21.551㎡(6.519평)",
     "사용승인일": "2020-06-04",
@@ -3796,7 +3686,7 @@
   },
   {
     "사건번호": "2025타경34806",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2465218&chkNo=2&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2465218&chkNo=1&TotNo=20",
     "주소": "경기도 김포시 고촌읍 신곡리 1065 루체스타라펠리체 1동 3층311호 외 2필지",
     "면적": "53.995㎡(16.333평)",
     "사용승인일": "2020-11-20",
@@ -3807,7 +3697,7 @@
   },
   {
     "사건번호": "2025타경34866",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2467796&chkNo=3&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2467796&chkNo=2&TotNo=20",
     "주소": "경기도 부천시 소사구 심곡본동 666-4 코모도타워  4층406호",
     "면적": "36㎡(10.89평)",
     "사용승인일": "2021-01-22",
@@ -3818,7 +3708,7 @@
   },
   {
     "사건번호": "2025타경34990",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2472951&chkNo=4&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2472951&chkNo=3&TotNo=20",
     "주소": "경기도 김포시 풍무동 863 풍무 메트로프라임1차  4층414호",
     "면적": "16.57㎡(5.012평)",
     "사용승인일": "2020-11-20",
@@ -3828,8 +3718,30 @@
     "특수조건": "임차권등기/HUG 임차권 인수조건변경"
   },
   {
+    "사건번호": "2025타경56855",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2426871&chkNo=10&TotNo=20",
+    "주소": "경기도 용인시 처인구 포곡읍 둔전리 183 빌폴라리스 에이동 4층402호",
+    "면적": "45.94㎡(13.897평)",
+    "사용승인일": "2021-03-17",
+    "최저가": "98,490,000",
+    "최저가율": "49%",
+    "평당가격": "7,074,815",
+    "특수조건": "임차권등기/HUG 임차권 인수조건변경"
+  },
+  {
+    "사건번호": "2025타경64454",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2459364&chkNo=11&TotNo=20",
+    "주소": "경기도 고양시 덕양구 도내동 956 원흥베네하임5차  21층2112호",
+    "면적": "29.7447㎡(8.998평)",
+    "사용승인일": "2024-10-22",
+    "최저가": "135,730,000",
+    "최저가율": "49%",
+    "평당가격": "15,058,447",
+    "특수조건": "임차권등기/대항력 있는 임차인"
+  },
+  {
     "사건번호": "2024타경5506",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2348176&chkNo=9&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2348176&chkNo=14&TotNo=20",
     "주소": "서울 금천구 독산동 973-1, 제8층 제805호 (독산동, 어반팰리스) 외 2필지",
     "면적": "29.29㎡(8.86평)",
     "사용승인일": "2020-02-28",
@@ -3840,7 +3752,7 @@
   },
   {
     "사건번호": "2024타경57886",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2292749&chkNo=10&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2292749&chkNo=15&TotNo=20",
     "주소": "경기 광명시 광명동 346-21, 2층202호 (광명동,더프라임)",
     "면적": "61.68㎡(18.658평)",
     "사용승인일": "2021-06-01",
@@ -3851,7 +3763,7 @@
   },
   {
     "사건번호": "2024타경61229",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2305444&chkNo=11&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2305444&chkNo=16&TotNo=20",
     "주소": "경기 시흥시 은행동 610, 1동 3층307호 (은행동,신강레이크뷰주건축물)",
     "면적": "77.21㎡(23.356평)",
     "사용승인일": "2021-07-22",
@@ -3862,7 +3774,7 @@
   },
   {
     "사건번호": "2024타경119054",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2297404&chkNo=12&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2297404&chkNo=17&TotNo=20",
     "주소": "서울 강서구 화곡동 981-5, 제2층 제202호 (화곡동, 넥시티)",
     "면적": "29.94㎡(9.057평)",
     "사용승인일": "2020-05-21",
@@ -3873,7 +3785,7 @@
   },
   {
     "사건번호": "2025타경581",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2401343&chkNo=15&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2401343&chkNo=20&TotNo=20",
     "주소": "경기도 시흥시 은행동 607 럭스나인은계  6층639호",
     "면적": "23.4732㎡(7.101평)",
     "사용승인일": "2021-01-28",
@@ -3883,19 +3795,96 @@
     "특수조건": ""
   },
   {
+    "사건번호": "2025타경33831",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2421676&chkNo=3&TotNo=20",
+    "주소": "경기도 김포시 구래동 6878-7 중일라크리움  4층 410호",
+    "면적": "20.686㎡(6.258평)",
+    "사용승인일": "2021-04-08",
+    "최저가": "49,980,000",
+    "최저가율": "49%",
+    "평당가격": "7,973,219",
+    "특수조건": "임차권등기"
+  },
+  {
+    "사건번호": "2025타경34067",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2433706&chkNo=4&TotNo=20",
+    "주소": "경기도 김포시 구래동 6871-46 스위트엠아크라시티2차 비동 7층710호",
+    "면적": "20.659㎡(6.249평)",
+    "사용승인일": "2020-02-10",
+    "최저가": "37,730,000",
+    "최저가율": "34.3%",
+    "평당가격": "6,026,865",
+    "특수조건": ""
+  },
+  {
+    "사건번호": "2025타경34154",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2435946&chkNo=5&TotNo=20",
+    "주소": "경기도 김포시 구래동 6871-53 현대썬앤빌더킹  3층비03-080호",
+    "면적": "22.019㎡(6.661평)",
+    "사용승인일": "2022-05-12",
+    "최저가": "43,561,000",
+    "최저가율": "34.3%",
+    "평당가격": "6,528,512",
+    "특수조건": ""
+  },
+  {
+    "사건번호": "2025타경34402",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2447378&chkNo=6&TotNo=20",
+    "주소": "경기도 부천시 원미구 원미동 42-1 해냄스토리주건축물제1동  7층705호",
+    "면적": "55.66㎡(16.837평)",
+    "사용승인일": "2020-04-09",
+    "최저가": "102,214,000",
+    "최저가율": "34.3%",
+    "평당가격": "6,060,119",
+    "특수조건": "임차권등기/대항력 있는 임차인"
+  },
+  {
+    "사건번호": "2025타경34723",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2460307&chkNo=8&TotNo=20",
+    "주소": "경기도 부천시 소사구 심곡본동 666-4 코모도타워  5층506호",
+    "면적": "36㎡(10.89평)",
+    "사용승인일": "2021-01-22",
+    "최저가": "105,350,000",
+    "최저가율": "49%",
+    "평당가격": "9,657,083",
+    "특수조건": "임차권등기/대항력 있는 임차인"
+  },
+  {
+    "사건번호": "2025타경34926",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2470024&chkNo=9&TotNo=20",
+    "주소": "경기도 김포시 구래동 6878-7 중일라크리움  8층809호",
+    "면적": "20.686㎡(6.258평)",
+    "사용승인일": "2021-04-08",
+    "최저가": "56,350,000",
+    "최저가율": "49%",
+    "평당가격": "8,989,413",
+    "특수조건": "임차권등기/대항력 있는 임차인"
+  },
+  {
+    "사건번호": "2025타경50550",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2369209&chkNo=17&TotNo=20",
+    "주소": "경기 수원시 권선구 금곡동 1118-4, 4층425호 (금곡동,호매실더리브스타일)",
+    "면적": "30.33㎡(9.175평)",
+    "사용승인일": "2021-02-01",
+    "최저가": "13,259,042",
+    "최저가율": "8.2%",
+    "평당가격": "1,442,626",
+    "특수조건": "임차권등기/대항력 있는 임차인"
+  },
+  {
     "사건번호": "2025타경52091",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2414878&chkNo=2&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2414878&chkNo=20&TotNo=20",
     "주소": "경기도 하남시 망월동 1148 하남미사롯데캐슬헤븐시티2  7층751호 외 2필지",
     "면적": "21.8386㎡(6.606평)",
     "사용승인일": "2020-01-15",
     "최저가": "120,000,000",
     "최저가율": "100%",
     "평당가격": "18,133,031",
-    "특수조건": "임차권등기/대항력 있는 임차인"
+    "특수조건": "임차권등기/HUG 임차권 인수조건변경"
   },
   {
     "사건번호": "2025타경10082",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2410685&chkNo=10&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2410685&chkNo=8&TotNo=20",
     "주소": "서울특별시 양천구 신정동 982-4 더넥스트목동  제9층 제903호",
     "면적": "17.28㎡(5.227평)",
     "사용승인일": "2021-05-25",
@@ -3906,7 +3895,7 @@
   },
   {
     "사건번호": "2025타경100777(2)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2485744&chkNo=12&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2485744&chkNo=10&TotNo=20",
     "주소": "경기도 안양시 만안구 안양동 433 안양센트럴헤센2차 202동 4층411호",
     "면적": "23.0223㎡(6.964평)",
     "사용승인일": "2021-03-25",
@@ -3917,7 +3906,7 @@
   },
   {
     "사건번호": "2025타경100777(4)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2485746&chkNo=13&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2485746&chkNo=11&TotNo=20",
     "주소": "경기도 군포시 금정동 47-24 우진아트리움  6층604호",
     "면적": "39.54㎡(11.961평)",
     "사용승인일": "2021-01-22",
@@ -3928,7 +3917,7 @@
   },
   {
     "사건번호": "2024타경121057(1)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2302196&chkNo=17&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2302196&chkNo=15&TotNo=20",
     "주소": "서울 금천구 가산동 234-2, 제101동 제5층 제504호 (가산동, 금강노블레스) 외 1필지",
     "면적": "30.69㎡(9.284평)",
     "사용승인일": "2020-04-13",
@@ -3939,7 +3928,7 @@
   },
   {
     "사건번호": "2024타경121057(2)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2405725&chkNo=18&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2405725&chkNo=16&TotNo=20",
     "주소": "서울 금천구 가산동 234-2, 제101동 제6층 제601호 (가산동, 금강노블레스) 외 1필지",
     "면적": "30.69㎡(9.284평)",
     "사용승인일": "2020-04-13",
@@ -3950,7 +3939,7 @@
   },
   {
     "사건번호": "2024타경121057(3)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2405726&chkNo=19&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2405726&chkNo=17&TotNo=20",
     "주소": "서울 금천구 가산동 234-2, 제101동 제7층 제701호 (가산동, 금강노블레스) 외 1필지",
     "면적": "30.69㎡(9.284평)",
     "사용승인일": "2020-04-13",
@@ -3961,7 +3950,7 @@
   },
   {
     "사건번호": "2024타경121057(4)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2405727&chkNo=20&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2405727&chkNo=18&TotNo=20",
     "주소": "서울 금천구 가산동 234-2, 제101동 제8층 제801호 (가산동, 금강노블레스) 외 1필지",
     "면적": "30.69㎡(9.284평)",
     "사용승인일": "2020-04-13",
@@ -3972,7 +3961,7 @@
   },
   {
     "사건번호": "2024타경121057(5)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2405728&chkNo=1&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2405728&chkNo=19&TotNo=20",
     "주소": "서울 금천구 가산동 234-2, 제101동 제9층 제901호 (가산동, 금강노블레스) 외 1필지",
     "면적": "30.69㎡(9.284평)",
     "사용승인일": "2020-04-13",
@@ -3983,7 +3972,7 @@
   },
   {
     "사건번호": "2024타경121057(6)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2405729&chkNo=2&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2405729&chkNo=20&TotNo=20",
     "주소": "서울 금천구 가산동 234-41, 제2층 제201호 (가산동, 가산더블레스) 외 1필지",
     "면적": "27.62㎡(8.355평)",
     "사용승인일": "2020-12-15",
@@ -3994,7 +3983,7 @@
   },
   {
     "사건번호": "2024타경121057(7)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2405730&chkNo=3&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2405730&chkNo=1&TotNo=20",
     "주소": "서울 금천구 가산동 234-41, 제2층 제204호 (가산동, 가산더블레스) 외 1필지",
     "면적": "27.08㎡(8.192평)",
     "사용승인일": "2020-12-15",
@@ -4005,7 +3994,7 @@
   },
   {
     "사건번호": "2024타경121057(8)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2405731&chkNo=4&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2405731&chkNo=2&TotNo=20",
     "주소": "서울 금천구 가산동 234-41, 제4층 제402호 (가산동, 가산더블레스) 외 1필지",
     "면적": "27.62㎡(8.355평)",
     "사용승인일": "2020-12-15",
@@ -4016,7 +4005,7 @@
   },
   {
     "사건번호": "2024타경121057(9)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2405732&chkNo=5&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2405732&chkNo=3&TotNo=20",
     "주소": "서울 금천구 가산동 234-41, 제6층 제602호 (가산동, 가산더블레스) 외 1필지",
     "면적": "27.62㎡(8.355평)",
     "사용승인일": "2020-12-15",
@@ -4027,7 +4016,7 @@
   },
   {
     "사건번호": "2025타경4586",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2393398&chkNo=7&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2393398&chkNo=5&TotNo=20",
     "주소": "서울 금천구 독산동 1005-1, 제102동 제9층 제904호 (독산동, 독산보세쥬르)",
     "면적": "28.05㎡(8.485평)",
     "사용승인일": "2021-06-17",
@@ -4038,7 +4027,7 @@
   },
   {
     "사건번호": "2023타경4722",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2221368&chkNo=11&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2221368&chkNo=9&TotNo=20",
     "주소": "서울 중구 오장동 145-1, 6층604호 (오장동,오렌지카운티을지로)",
     "면적": "18.36㎡(5.554평)",
     "사용승인일": "2020-08-20",
@@ -4049,7 +4038,7 @@
   },
   {
     "사건번호": "2025타경9905",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2403192&chkNo=13&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2403192&chkNo=12&TotNo=20",
     "주소": "서울특별시 영등포구 영등포동2가 94-319 와이에이치빌리지  제3층 제303호",
     "면적": "17.51㎡(5.297평)",
     "사용승인일": "2020-04-28",
@@ -4059,8 +4048,41 @@
     "특수조건": "임차권등기"
   },
   {
+    "사건번호": "2025타경53057",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2448331&chkNo=1&TotNo=20",
+    "주소": "경기도 안산시 단원구 성곡동 849 더하이어티  11층1120호 외 4필지",
+    "면적": "20.783㎡(6.287평)",
+    "사용승인일": "2022-05-24",
+    "최저가": "64,680,000",
+    "최저가율": "49%",
+    "평당가격": "10,270,125",
+    "특수조건": ""
+  },
+  {
+    "사건번호": "2025타경53252(1)",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2446527&chkNo=3&TotNo=20",
+    "주소": "경기도 시흥시 장현동 671-4 시티프론트561더식스  9층903호",
+    "면적": "29.84㎡(9.027평)",
+    "사용승인일": "2023-06-29",
+    "최저가": "110,740,000",
+    "최저가율": "49%",
+    "평당가격": "12,246,716",
+    "특수조건": ""
+  },
+  {
+    "사건번호": "2025타경53252(2)",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2518737&chkNo=4&TotNo=20",
+    "주소": "경기도 시흥시 장현동 671-4 시티프론트561더식스  9층904호",
+    "면적": "29.84㎡(9.027평)",
+    "사용승인일": "2023-06-29",
+    "최저가": "110,740,000",
+    "최저가율": "49%",
+    "평당가격": "12,246,716",
+    "특수조건": ""
+  },
+  {
     "사건번호": "2024타경62957",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2347259&chkNo=3&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2347259&chkNo=7&TotNo=20",
     "주소": "서울 광진구 중곡동 158-31, 3층303호 (중곡동,홀가하우스) 외 1필지",
     "면적": "21.86㎡(6.613평)",
     "사용승인일": "2021-10-08",
@@ -4071,7 +4093,7 @@
   },
   {
     "사건번호": "2024타경63929",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2352909&chkNo=5&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2352909&chkNo=9&TotNo=20",
     "주소": "서울 송파구 가락동 57-8, 3층303호 (가락동,강남팰리스)",
     "면적": "22.7㎡(6.867평)",
     "사용승인일": "2021-02-22",
@@ -4082,18 +4104,18 @@
   },
   {
     "사건번호": "2024타경65772(1)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2368199&chkNo=6&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2368199&chkNo=10&TotNo=20",
     "주소": "서울 광진구 화양동 94-13, 4층406호 (화양동,엘리시아1차) 외 1필지",
     "면적": "15.045㎡(4.551평)",
     "사용승인일": "2021-07-13",
     "최저가": "106,496,000",
     "최저가율": "51.2%",
     "평당가격": "23,359,043",
-    "특수조건": "대항력 있는 임차인"
+    "특수조건": "임차권등기/대항력 있는 임차인"
   },
   {
     "사건번호": "2024타경65772(2)",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2486106&chkNo=7&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2486106&chkNo=11&TotNo=20",
     "주소": "서울 광진구 화양동 94-13, 7층701호 (화양동,엘리시아1차) 외 1필지",
     "면적": "15.045㎡(4.551평)",
     "사용승인일": "2021-07-13",
@@ -4104,13 +4126,57 @@
   },
   {
     "사건번호": "2024타경147257",
-    "url": "https://www.dooinauction.com/ca/caView.php?tid=2359523&chkNo=8&TotNo=20",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2359523&chkNo=12&TotNo=20",
     "주소": "서울 금천구 시흥동 888-14, 제6층 제602호 (시흥동, 신영메트로시티)",
     "면적": "18.27㎡(5.527평)",
     "사용승인일": "2021-11-22",
     "최저가": "50,331,000",
     "최저가율": "21%",
     "평당가격": "9,090,985",
+    "특수조건": "임차권등기/대항력 있는 임차인"
+  },
+  {
+    "사건번호": "2025타경817",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2448866&chkNo=6&TotNo=20",
+    "주소": "경기도 평택시 고덕동 2158-4 센트리마더퍼스트2  8층804호",
+    "면적": "26.8㎡(8.107평)",
+    "사용승인일": "2021-04-30",
+    "최저가": "116,620,000",
+    "최저가율": "49%",
+    "평당가격": "14,359,925",
+    "특수조건": ""
+  },
+  {
+    "사건번호": "2025타경10337",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2419798&chkNo=7&TotNo=20",
+    "주소": "서울특별시 양천구 신월동 474-12 로빈시그니쳐  제10층 제1001호",
+    "면적": "29.6㎡(8.954평)",
+    "사용승인일": "2020-06-17",
+    "최저가": "97,075,000",
+    "최저가율": "41%",
+    "평당가격": "10,822,551",
+    "특수조건": "임차권등기/대항력 있는 임차인"
+  },
+  {
+    "사건번호": "2025타경11504",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2438667&chkNo=9&TotNo=20",
+    "주소": "서울특별시 금천구 가산동 140-17 한강 제1동 제5층 제505호 외 1필지",
+    "면적": "20.35㎡(6.156평)",
+    "사용승인일": "2021-08-18",
+    "최저가": "128,640,000",
+    "최저가율": "64%",
+    "평당가격": "20,860,541",
+    "특수조건": "임차권등기/대항력 있는 임차인"
+  },
+  {
+    "사건번호": "2024타경130198",
+    "url": "https://www.dooinauction.com/ca/caView.php?tid=2325575&chkNo=19&TotNo=20",
+    "주소": "서울 금천구 가산동 233-5, 제14층비동 제1401호 (가산동, 가산센트럴푸르지오시티)",
+    "면적": "17.62㎡(5.33평)",
+    "사용승인일": "2020-07-27",
+    "최저가": "24,495,000",
+    "최저가율": "16.8%",
+    "평당가격": "4,587,599",
     "특수조건": "임차권등기/대항력 있는 임차인"
   }
 ]
